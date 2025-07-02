@@ -1,0 +1,1001 @@
+Age,City/PIN,IncomeBracket,HouseholdSize,OrderFreq,TypicalSpend,PrimaryMotivation,DietPattern,Allergies,NutritionImportance,BasketCombineInterest,HotSyncValue,PreferredDeliveryTier,ExtraFeeExpress,EcoSaverLikelihood_GreenCoins,LowCarbonPackagingImportance,ReturnPouch,BundleDealInterest,PreferredIncentives,AccessibilityFeatures,PainPoints,AdoptionLikelihood_30d
+34,Delhi,50-75k,2,<1/mo,162,Other,Keto,"Peanuts,Shellfish",3,3,4,Express Fresh,69,3,3,Yes,3,Surprise free items,Larger text/UI,"Cold food,Sustainability concerns",1
+29,Delhi,25-50k,1,1-3/mo,191,Time constraints,Calorie-controlled,None,2,3,4,Eco-Saver,0,3,2,Yes,3,"Targeted discounts,Surprise free items",None,None,2
+37,Bengaluru,25-50k,4,1-3/mo,143,Convenience,None,None,3,4,4,Eco-Saver,0,2,3,No,2,None of these,"Voice-first ordering,Color-blind palette","Limited healthy options,Late deliveries",4
+39,Jaipur,25-50k,3,3-5/wk,474,Health meals,None,None,2,4,3,Express Fresh,87,3,3,Yes,2,"Targeted discounts,Carbon-offset badges,Surprise free items",None,"Cold food,Confusing UI",3
+29,Delhi,<25k,3,1-3/mo,86,Convenience,None,None,2,3,2,Eco-Saver,0,5,3,Yes,2,Targeted discounts,"Larger text/UI,Color-blind palette","Sustainability concerns,Confusing UI",3
+23,Jaipur,>100k,3,1-3/mo,256,Convenience,None,None,4,3,4,Eco-Saver,0,2,4,Yes,2,"Carbon-offset badges,Targeted discounts",Courier empathy rating,None,4
+21,Mumbai,<25k,2,1-2/wk,99,Variety,None,None,3,4,5,Eco-Saver,0,3,3,Yes,4,"Surprise free items,Targeted discounts,Carbon-offset badges","Courier empathy rating,Larger text/UI",High fees,3
+32,Chennai,25-50k,6,1-3/mo,191,Time constraints,High-protein,None,2,2,1,Depends,0,2,2,Yes,3,"Streak cashback,Targeted discounts,Carbon-offset badges",Voice-first ordering,"Late deliveries,Limited healthy options,Sustainability concerns",3
+21,Bengaluru,>100k,6,1-3/mo,164,Other,Calorie-controlled,None,3,4,4,Eco-Saver,0,3,3,Yes,3,Surprise free items,None,"High fees,Confusing UI,Sustainability concerns",2
+31,Bengaluru,>100k,2,1-2/wk,141,Health meals,None,None,4,3,4,Eco-Saver,0,2,3,Yes,1,"Targeted discounts,Surprise free items",None,Limited healthy options,3
+19,Bengaluru,<25k,1,1-2/wk,71,Other,Vegetarian,Shellfish,2,3,5,Express Fresh,53,2,4,Yes,5,Targeted discounts,"Courier empathy rating,Voice-first ordering",Confusing UI,4
+46,Chennai,25-50k,1,>5/wk,174,Other,None,Gluten,4,4,2,Eco-Saver,0,2,4,No,3,"Surprise free items,Carbon-offset badges,Targeted discounts",None,"Sustainability concerns,Late deliveries,Confusing UI",4
+44,Mumbai,<25k,1,<1/mo,141,Time constraints,None,Dairy,4,2,3,Express Fresh,90,2,3,Yes,3,"Surprise free items,Targeted discounts","Larger text/UI,Voice-first ordering","Limited healthy options,High fees,Sustainability concerns",3
+33,Delhi,75-100k,3,3-5/wk,268,Time constraints,Calorie-controlled,"Gluten,Dairy",3,3,3,Express Fresh,63,2,5,Yes,5,"Surprise free items,Streak cashback,Targeted discounts",None,None,3
+21,Hyderabad,50-75k,4,3-5/wk,90,Other,None,Gluten,2,3,4,Depends,0,5,4,Yes,3,None of these,"Voice-first ordering,Color-blind palette","Sustainability concerns,Cold food",4
+37,Delhi,50-75k,3,1-2/wk,222,Convenience,None,"Shellfish,Dairy",4,4,3,Express Fresh,72,4,4,Yes,4,None of these,"Larger text/UI,Courier empathy rating","Limited healthy options,High fees,Cold food",5
+40,Kolkata,>100k,3,3-5/wk,185,Variety,None,None,2,3,5,Eco-Saver,0,1,4,Yes,4,"Surprise free items,Targeted discounts","Larger text/UI,Voice-first ordering",High fees,3
+30,Kolkata,>100k,1,>5/wk,308,Health meals,None,None,2,5,4,Depends,0,3,3,Yes,2,"Carbon-offset badges,Streak cashback",None,"Late deliveries,Cold food",3
+33,Kolkata,25-50k,6,1-2/wk,281,Health meals,None,Shellfish,4,3,2,Depends,0,5,4,Yes,3,Surprise free items,None,None,4
+43,Pune,>100k,3,>5/wk,243,Other,None,"Dairy,Soy",2,5,4,Eco-Saver,0,2,4,No,5,Carbon-offset badges,None,Sustainability concerns,5
+35,Chennai,50-75k,1,<1/mo,274,Health meals,High-protein,None,4,3,4,Eco-Saver,0,1,5,No,2,"Carbon-offset badges,Targeted discounts","Color-blind palette,Voice-first ordering",Cold food,4
+18,Kolkata,50-75k,1,<1/mo,164,Variety,None,None,3,2,4,Eco-Saver,0,4,3,Yes,3,"Surprise free items,Carbon-offset badges",None,None,2
+18,Ahmedabad,25-50k,2,3-5/wk,136,Convenience,Vegan,None,3,2,4,Depends,0,2,4,Yes,3,"Carbon-offset badges,Surprise free items",Courier empathy rating,None,5
+33,Ahmedabad,75-100k,1,3-5/wk,147,Variety,Calorie-controlled,None,3,4,5,Express Fresh,100,2,4,Yes,1,"Surprise free items,Targeted discounts",None,"Cold food,Confusing UI",5
+26,Chennai,50-75k,4,1-3/mo,82,Convenience,None,None,3,3,3,Express Fresh,65,2,4,Yes,2,"Carbon-offset badges,Targeted discounts,Surprise free items","Voice-first ordering,Courier empathy rating","Sustainability concerns,Cold food,Limited healthy options",3
+23,Kolkata,50-75k,5,1-3/mo,141,Variety,None,"Shellfish,Peanuts",4,3,4,Express Fresh,38,5,2,Yes,2,None of these,Courier empathy rating,Limited healthy options,4
+26,Delhi,<25k,2,3-5/wk,99,Other,Vegetarian,"Shellfish,Soy",5,4,3,Eco-Saver,0,4,4,Yes,3,"Surprise free items,Carbon-offset badges","Voice-first ordering,Color-blind palette","Sustainability concerns,Late deliveries",4
+34,Hyderabad,75-100k,3,1-2/wk,111,Convenience,Calorie-controlled,None,3,1,5,Express Fresh,117,4,5,Yes,3,Surprise free items,Color-blind palette,Late deliveries,3
+43,Ahmedabad,75-100k,2,3-5/wk,223,Time constraints,Calorie-controlled,Gluten,1,3,5,Eco-Saver,0,5,5,No,3,"Carbon-offset badges,Targeted discounts",Courier empathy rating,"Late deliveries,High fees,Cold food",3
+52,Lucknow,<25k,6,1-2/wk,127,Health meals,None,None,3,3,4,Express Fresh,40,2,3,Yes,4,Targeted discounts,None,"Sustainability concerns,High fees,Cold food",1
+23,Pune,>100k,3,1-3/mo,147,Convenience,Calorie-controlled,None,3,3,4,Eco-Saver,0,2,4,No,3,None of these,Larger text/UI,High fees,3
+20,Pune,25-50k,4,3-5/wk,324,Variety,Calorie-controlled,None,4,1,2,Eco-Saver,0,3,3,No,3,"Streak cashback,Surprise free items",Voice-first ordering,None,4
+34,Pune,50-75k,1,1-3/mo,218,Other,High-protein,None,2,4,4,Eco-Saver,0,4,4,No,4,Surprise free items,None,"Limited healthy options,Late deliveries,Confusing UI",4
+33,Delhi,50-75k,4,1-2/wk,184,Variety,None,None,4,2,4,Eco-Saver,0,4,1,Yes,3,Surprise free items,"Color-blind palette,Voice-first ordering","Late deliveries,Cold food,Sustainability concerns",2
+29,Kolkata,<25k,3,<1/mo,308,Other,None,Peanuts,3,3,5,Express Fresh,48,1,3,Yes,3,"Carbon-offset badges,Targeted discounts,Surprise free items","Larger text/UI,Color-blind palette",Limited healthy options,1
+18,Hyderabad,25-50k,1,1-3/mo,93,Variety,None,None,3,5,4,Eco-Saver,0,4,3,No,4,Streak cashback,None,"High fees,Confusing UI,Limited healthy options",4
+29,Mumbai,50-75k,2,<1/mo,135,Convenience,Calorie-controlled,"Dairy,Shellfish",2,3,4,Eco-Saver,0,4,4,Yes,2,None of these,Color-blind palette,Limited healthy options,4
+31,Lucknow,75-100k,6,1-3/mo,121,Health meals,None,"Gluten,Soy",4,4,4,Depends,0,2,4,No,3,"Carbon-offset badges,Targeted discounts","Larger text/UI,Voice-first ordering","Late deliveries,High fees",5
+42,Lucknow,25-50k,5,1-2/wk,229,Convenience,High-protein,Peanuts,4,4,2,Express Fresh,79,3,5,No,4,Streak cashback,"Larger text/UI,Voice-first ordering","Late deliveries,Sustainability concerns,Cold food",4
+23,Lucknow,<25k,3,1-2/wk,159,Health meals,None,None,3,2,2,Eco-Saver,0,4,3,No,5,"Targeted discounts,Carbon-offset badges,Streak cashback",Voice-first ordering,Confusing UI,3
+24,Ahmedabad,<25k,1,>5/wk,143,Convenience,High-protein,None,4,2,4,Eco-Saver,0,3,3,No,5,Streak cashback,"Color-blind palette,Courier empathy rating","Limited healthy options,Cold food,Confusing UI",2
+24,Jaipur,25-50k,6,<1/mo,79,Variety,Vegetarian,None,2,3,4,Depends,0,1,3,Yes,3,"Carbon-offset badges,Targeted discounts,Streak cashback",Courier empathy rating,"Cold food,Late deliveries,Confusing UI",1
+39,Mumbai,25-50k,2,1-2/wk,156,Other,Vegetarian,None,3,3,4,Express Fresh,47,4,4,Yes,4,None of these,None,Sustainability concerns,2
+27,Hyderabad,<25k,2,<1/mo,89,Convenience,Gluten-free,None,4,4,3,Express Fresh,54,3,4,Yes,4,None of these,"Courier empathy rating,Larger text/UI","Limited healthy options,Sustainability concerns,Confusing UI",5
+18,Kolkata,75-100k,1,<1/mo,185,Variety,None,None,1,3,2,Depends,0,4,4,Yes,4,"Targeted discounts,Surprise free items,Carbon-offset badges",None,Late deliveries,2
+35,Bengaluru,50-75k,3,3-5/wk,132,Convenience,Vegan,None,3,3,5,Depends,0,3,3,Yes,4,"Carbon-offset badges,Surprise free items,Streak cashback","Voice-first ordering,Courier empathy rating",None,3
+34,Mumbai,<25k,1,1-2/wk,73,Convenience,None,None,4,4,3,Express Fresh,34,4,3,Yes,3,"Streak cashback,Targeted discounts","Courier empathy rating,Voice-first ordering",Limited healthy options,3
+38,Chennai,<25k,2,1-2/wk,163,Time constraints,Vegan,None,2,4,3,Express Fresh,47,2,3,Yes,4,"Streak cashback,Carbon-offset badges,Surprise free items","Larger text/UI,Voice-first ordering","Limited healthy options,Confusing UI,Late deliveries",4
+35,Bengaluru,50-75k,6,1-2/wk,356,Time constraints,High-protein,Peanuts,3,4,5,Eco-Saver,0,3,3,No,2,"Targeted discounts,Carbon-offset badges,Surprise free items",None,"Cold food,Limited healthy options",3
+25,Bengaluru,<25k,5,<1/mo,111,Other,Vegetarian,"Soy,Shellfish",2,5,4,Eco-Saver,0,5,4,Yes,3,"Streak cashback,Carbon-offset badges","Voice-first ordering,Courier empathy rating","Limited healthy options,Late deliveries",5
+30,Kolkata,25-50k,4,3-5/wk,260,Health meals,None,Soy,2,3,3,Express Fresh,60,2,5,Yes,5,None of these,Color-blind palette,"Limited healthy options,High fees",4
+30,Delhi,50-75k,2,3-5/wk,164,Health meals,Calorie-controlled,Soy,2,3,5,Express Fresh,101,4,5,Yes,3,"Carbon-offset badges,Targeted discounts,Surprise free items",Color-blind palette,None,4
+33,Chennai,<25k,1,1-2/wk,97,Variety,None,None,3,4,4,Eco-Saver,0,1,5,Yes,4,"Streak cashback,Targeted discounts,Surprise free items",None,"Sustainability concerns,High fees,Late deliveries",3
+20,Chennai,75-100k,5,1-2/wk,208,Time constraints,None,"Peanuts,Soy",4,2,4,Eco-Saver,0,5,2,Yes,4,Streak cashback,None,None,4
+27,Lucknow,25-50k,6,1-2/wk,93,Other,Calorie-controlled,None,2,5,5,Express Fresh,66,3,4,Yes,2,Targeted discounts,"Voice-first ordering,Courier empathy rating",Late deliveries,3
+18,Pune,25-50k,5,1-3/mo,154,Other,Vegetarian,None,3,4,4,Express Fresh,41,2,2,No,1,"Targeted discounts,Surprise free items",Larger text/UI,Limited healthy options,3
+83,Hyderabad,50-75k,3,1-2/wk,277,Convenience,Calorie-controlled,None,3,4,5,Eco-Saver,0,4,5,Yes,4,Targeted discounts,None,"Confusing UI,Cold food",5
+27,Delhi,25-50k,2,1-2/wk,96,Variety,Vegetarian,None,4,2,4,Express Fresh,47,3,2,Yes,4,None of these,None,"Confusing UI,Sustainability concerns,Late deliveries",2
+18,Chennai,50-75k,3,1-2/wk,87,Health meals,Vegetarian,"Shellfish,Peanuts",3,2,3,Express Fresh,49,2,4,No,3,"Carbon-offset badges,Surprise free items","Color-blind palette,Larger text/UI","Cold food,High fees,Sustainability concerns",3
+18,Chennai,<25k,4,1-2/wk,192,Health meals,None,None,4,3,5,Eco-Saver,0,3,2,Yes,4,"Surprise free items,Streak cashback",None,Cold food,2
+31,Bengaluru,<25k,1,1-3/mo,81,Health meals,Gluten-free,None,2,3,2,Express Fresh,59,5,3,No,4,"Surprise free items,Streak cashback",Color-blind palette,None,3
+33,Hyderabad,50-75k,1,3-5/wk,342,Other,None,None,4,4,3,Express Fresh,145,2,4,No,3,"Targeted discounts,Carbon-offset badges",None,Limited healthy options,5
+38,Bengaluru,<25k,5,1-3/mo,134,Other,None,None,3,2,2,Eco-Saver,0,3,3,Yes,4,"Targeted discounts,Carbon-offset badges,Surprise free items",None,Confusing UI,2
+42,Kolkata,<25k,4,1-3/mo,144,Health meals,None,"Gluten,Dairy",2,2,5,Eco-Saver,0,2,3,Yes,3,Surprise free items,"Voice-first ordering,Courier empathy rating",High fees,1
+20,Lucknow,75-100k,2,<1/mo,119,Variety,Calorie-controlled,Gluten,3,3,4,Eco-Saver,0,4,5,No,4,Streak cashback,Courier empathy rating,Confusing UI,2
+28,Pune,>100k,4,1-2/wk,248,Other,None,Gluten,3,3,4,Express Fresh,129,4,3,Yes,3,"Targeted discounts,Surprise free items","Color-blind palette,Courier empathy rating","Late deliveries,Cold food,High fees",3
+24,Chennai,25-50k,2,1-3/mo,221,Time constraints,Vegetarian,"Peanuts,Shellfish",2,5,3,Eco-Saver,0,3,4,Yes,4,None of these,Larger text/UI,"High fees,Sustainability concerns,Cold food",4
+37,Kolkata,25-50k,2,<1/mo,144,Health meals,None,None,2,2,4,Express Fresh,68,3,3,No,2,"Surprise free items,Targeted discounts,Streak cashback","Courier empathy rating,Larger text/UI","Late deliveries,Sustainability concerns",1
+38,Pune,>100k,3,1-3/mo,163,Time constraints,None,None,4,4,3,Depends,0,3,2,No,3,"Carbon-offset badges,Streak cashback,Targeted discounts",None,Late deliveries,4
+45,Jaipur,50-75k,3,3-5/wk,205,Time constraints,None,None,4,3,4,Eco-Saver,0,4,5,Yes,4,"Surprise free items,Targeted discounts","Color-blind palette,Voice-first ordering",None,4
+24,Ahmedabad,>100k,2,1-3/mo,164,Time constraints,Vegetarian,None,1,4,3,Express Fresh,100,3,2,No,1,"Carbon-offset badges,Surprise free items,Streak cashback",None,"Confusing UI,Late deliveries,Sustainability concerns",3
+39,Chennai,25-50k,2,<1/mo,179,Other,Vegetarian,Peanuts,3,5,2,Express Fresh,60,2,3,Yes,5,"Streak cashback,Surprise free items",Voice-first ordering,"High fees,Confusing UI,Cold food",4
+35,Jaipur,>100k,6,1-2/wk,394,Convenience,Gluten-free,Soy,5,3,2,Depends,0,3,4,No,2,"Streak cashback,Targeted discounts","Color-blind palette,Larger text/UI",Late deliveries,4
+18,Pune,<25k,3,>5/wk,86,Variety,None,"Gluten,Dairy",2,4,3,Express Fresh,36,3,4,Yes,2,"Streak cashback,Surprise free items,Targeted discounts",None,"High fees,Confusing UI,Limited healthy options",5
+40,Mumbai,75-100k,3,1-2/wk,170,Other,High-protein,None,3,4,3,Express Fresh,87,2,3,No,4,"Streak cashback,Targeted discounts",Larger text/UI,None,4
+53,Ahmedabad,25-50k,1,1-2/wk,169,Health meals,Vegetarian,None,4,3,5,Eco-Saver,0,3,3,No,3,Streak cashback,None,"Limited healthy options,Late deliveries",3
+43,Kolkata,<25k,2,3-5/wk,211,Convenience,None,None,4,4,4,Eco-Saver,0,2,3,Yes,3,"Streak cashback,Surprise free items,Carbon-offset badges",None,Limited healthy options,3
+40,Kolkata,25-50k,4,1-2/wk,166,Other,Vegetarian,None,2,3,3,Depends,0,2,4,Yes,2,"Streak cashback,Carbon-offset badges,Targeted discounts","Voice-first ordering,Larger text/UI",Late deliveries,4
+31,Bengaluru,50-75k,3,1-3/mo,172,Convenience,None,"Soy,Dairy",3,4,3,Express Fresh,86,4,5,Yes,3,"Streak cashback,Carbon-offset badges,Surprise free items",Color-blind palette,"Cold food,Sustainability concerns",4
+30,Chennai,<25k,1,1-2/wk,174,Variety,None,None,5,3,5,Express Fresh,88,3,5,No,2,"Targeted discounts,Surprise free items","Larger text/UI,Courier empathy rating",None,5
+32,Hyderabad,75-100k,3,1-2/wk,98,Other,None,None,3,4,4,Depends,0,4,4,Yes,4,"Surprise free items,Streak cashback,Targeted discounts",None,"High fees,Sustainability concerns",4
+27,Jaipur,25-50k,2,1-2/wk,143,Health meals,Gluten-free,None,3,4,4,Depends,0,3,4,Yes,4,"Carbon-offset badges,Surprise free items",None,Confusing UI,4
+50,Jaipur,<25k,3,1-3/mo,169,Convenience,Other,None,5,5,4,Express Fresh,9,3,4,Yes,4,Surprise free items,Voice-first ordering,Late deliveries,4
+38,Delhi,75-100k,3,1-3/mo,231,Convenience,None,None,5,3,5,Express Fresh,122,4,3,No,2,Surprise free items,Larger text/UI,"Confusing UI,High fees",2
+21,Mumbai,25-50k,1,<1/mo,134,Variety,Calorie-controlled,None,1,4,5,Depends,0,3,4,Yes,2,"Targeted discounts,Carbon-offset badges",Courier empathy rating,High fees,3
+27,Lucknow,<25k,6,1-3/mo,75,Time constraints,Vegetarian,Gluten,1,2,4,Depends,0,3,3,Yes,3,"Carbon-offset badges,Surprise free items",None,Confusing UI,1
+21,Kolkata,25-50k,6,<1/mo,170,Other,Vegetarian,None,2,2,4,Express Fresh,22,3,5,Yes,3,Targeted discounts,None,Limited healthy options,3
+24,Bengaluru,50-75k,3,3-5/wk,316,Variety,Calorie-controlled,None,3,4,3,Express Fresh,78,5,5,Yes,3,"Streak cashback,Carbon-offset badges,Targeted discounts",None,None,5
+31,Lucknow,25-50k,1,1-3/mo,204,Health meals,Vegetarian,None,5,3,4,Express Fresh,65,4,2,Yes,2,Carbon-offset badges,None,Late deliveries,2
+25,Pune,25-50k,2,1-2/wk,65,Time constraints,None,"Shellfish,Dairy",2,4,5,Eco-Saver,0,5,3,Yes,4,"Surprise free items,Streak cashback,Targeted discounts",None,"Sustainability concerns,High fees,Confusing UI",2
+18,Lucknow,50-75k,3,3-5/wk,180,Variety,Vegetarian,None,5,5,3,Express Fresh,48,5,2,Yes,3,Targeted discounts,Color-blind palette,Confusing UI,3
+45,Mumbai,>100k,3,3-5/wk,117,Variety,None,Gluten,5,4,4,Express Fresh,123,4,1,Yes,1,"Carbon-offset badges,Streak cashback,Surprise free items","Color-blind palette,Courier empathy rating",Cold food,3
+35,Ahmedabad,50-75k,1,1-2/wk,60,Other,None,"Dairy,Soy",3,3,5,Express Fresh,66,4,4,Yes,4,Carbon-offset badges,Larger text/UI,"Confusing UI,Sustainability concerns,High fees",3
+36,Bengaluru,25-50k,3,1-3/mo,305,Other,Gluten-free,None,4,4,4,Express Fresh,65,2,4,Yes,4,None of these,Courier empathy rating,"Confusing UI,Late deliveries",5
+37,Pune,25-50k,4,1-3/mo,136,Convenience,Vegetarian,None,4,4,5,Eco-Saver,0,3,4,Yes,5,Surprise free items,"Color-blind palette,Voice-first ordering",Limited healthy options,5
+23,Mumbai,<25k,5,1-3/mo,209,Other,None,None,3,4,4,Express Fresh,28,3,3,Yes,3,"Surprise free items,Streak cashback,Carbon-offset badges",Courier empathy rating,"Sustainability concerns,Cold food,Limited healthy options",2
+37,Delhi,50-75k,4,1-3/mo,238,Convenience,None,None,5,4,4,Express Fresh,136,3,1,No,3,"Streak cashback,Surprise free items",Voice-first ordering,"High fees,Confusing UI,Sustainability concerns",3
+18,Kolkata,50-75k,6,1-3/mo,271,Time constraints,Vegetarian,None,2,5,3,Depends,0,4,3,Yes,2,"Targeted discounts,Carbon-offset badges",Color-blind palette,"Cold food,Sustainability concerns",2
+31,Jaipur,<25k,4,3-5/wk,125,Health meals,High-protein,"Dairy,Peanuts",2,3,3,Depends,0,3,3,Yes,3,Targeted discounts,None,None,2
+30,Chennai,25-50k,1,1-3/mo,250,Time constraints,High-protein,Dairy,4,4,1,Express Fresh,41,3,2,Yes,2,Carbon-offset badges,None,"Confusing UI,Late deliveries",5
+29,Ahmedabad,25-50k,1,<1/mo,228,Other,None,"Soy,Shellfish",4,2,5,Eco-Saver,0,2,2,No,3,Streak cashback,"Courier empathy rating,Larger text/UI",Limited healthy options,2
+18,Jaipur,<25k,4,<1/mo,163,Health meals,High-protein,None,3,5,2,Depends,0,4,3,Yes,1,Streak cashback,None,"Cold food,Late deliveries,Confusing UI",3
+35,Lucknow,<25k,3,<1/mo,91,Convenience,Gluten-free,None,5,3,2,Eco-Saver,0,4,2,Yes,3,"Carbon-offset badges,Targeted discounts",Larger text/UI,None,3
+19,Mumbai,75-100k,1,3-5/wk,198,Variety,None,None,2,4,3,Express Fresh,182,2,5,Yes,3,None of these,None,"Sustainability concerns,Confusing UI",4
+23,Hyderabad,50-75k,3,3-5/wk,224,Time constraints,None,Soy,4,3,2,Eco-Saver,0,5,5,Yes,3,"Targeted discounts,Surprise free items,Carbon-offset badges","Voice-first ordering,Larger text/UI",Cold food,4
+18,Kolkata,25-50k,2,1-2/wk,157,Variety,None,Soy,2,3,4,Express Fresh,83,3,5,Yes,3,Surprise free items,None,"Limited healthy options,Confusing UI",3
+35,Kolkata,50-75k,1,<1/mo,240,Time constraints,Gluten-free,None,3,5,4,Depends,0,1,3,Yes,4,"Carbon-offset badges,Surprise free items",Courier empathy rating,"Cold food,Limited healthy options,Confusing UI",3
+35,Mumbai,25-50k,2,3-5/wk,79,Health meals,Calorie-controlled,None,3,4,4,Express Fresh,101,4,3,No,4,"Surprise free items,Targeted discounts","Color-blind palette,Courier empathy rating",None,4
+26,Bengaluru,<25k,1,1-3/mo,168,Time constraints,Other,Soy,4,5,5,Express Fresh,0,4,1,Yes,3,Streak cashback,Color-blind palette,None,5
+32,Kolkata,50-75k,3,1-2/wk,197,Convenience,None,None,3,4,3,Eco-Saver,0,3,4,Yes,4,"Carbon-offset badges,Targeted discounts",None,Sustainability concerns,3
+32,Lucknow,25-50k,4,<1/mo,113,Convenience,Vegan,None,4,3,3,Depends,0,5,5,Yes,3,Surprise free items,Larger text/UI,High fees,4
+18,Delhi,<25k,2,1-2/wk,97,Variety,High-protein,None,5,4,5,Eco-Saver,0,4,5,Yes,3,"Surprise free items,Streak cashback,Targeted discounts",Larger text/UI,"Cold food,Sustainability concerns,Limited healthy options",5
+20,Lucknow,25-50k,1,>5/wk,193,Convenience,Vegan,None,2,2,4,Express Fresh,118,2,2,Yes,5,Streak cashback,Larger text/UI,"Late deliveries,Limited healthy options,Confusing UI",1
+40,Jaipur,<25k,3,1-3/mo,108,Variety,Vegetarian,None,4,4,4,Express Fresh,83,5,4,Yes,4,"Surprise free items,Carbon-offset badges,Streak cashback",Courier empathy rating,None,5
+19,Jaipur,<25k,2,1-3/mo,142,Health meals,Calorie-controlled,None,2,3,4,Eco-Saver,0,4,3,Yes,1,"Targeted discounts,Carbon-offset badges,Streak cashback",Courier empathy rating,"Confusing UI,Late deliveries",3
+30,Bengaluru,25-50k,3,3-5/wk,206,Variety,Vegan,None,3,5,3,Depends,0,3,2,Yes,3,None of these,"Courier empathy rating,Larger text/UI",Late deliveries,4
+18,Lucknow,25-50k,2,1-3/mo,192,Other,Vegetarian,None,4,3,4,Eco-Saver,0,4,3,Yes,3,"Surprise free items,Streak cashback,Carbon-offset badges","Courier empathy rating,Color-blind palette",Sustainability concerns,3
+31,Kolkata,>100k,2,1-2/wk,133,Other,Vegan,Shellfish,3,1,3,Express Fresh,100,1,5,Yes,2,Streak cashback,None,None,4
+31,Bengaluru,<25k,1,1-3/mo,223,Health meals,Vegetarian,None,4,5,3,Express Fresh,41,3,3,Yes,4,"Carbon-offset badges,Targeted discounts,Streak cashback",Courier empathy rating,Limited healthy options,5
+22,Bengaluru,50-75k,3,3-5/wk,206,Other,Vegan,None,5,3,4,Depends,0,2,4,Yes,4,Targeted discounts,None,Limited healthy options,5
+36,Chennai,50-75k,3,1-2/wk,262,Convenience,Vegetarian,None,3,3,3,Eco-Saver,0,5,4,Yes,3,Surprise free items,Courier empathy rating,"Sustainability concerns,Cold food",3
+29,Delhi,25-50k,2,1-2/wk,136,Other,Other,None,3,3,4,Eco-Saver,0,5,4,Yes,3,"Carbon-offset badges,Targeted discounts,Surprise free items","Courier empathy rating,Color-blind palette",Confusing UI,2
+28,Kolkata,75-100k,1,3-5/wk,316,Other,Calorie-controlled,"Peanuts,Shellfish",4,4,3,Eco-Saver,0,2,4,Yes,3,"Carbon-offset badges,Targeted discounts,Streak cashback",Larger text/UI,"Late deliveries,High fees",4
+34,Mumbai,50-75k,3,1-3/mo,116,Variety,Vegetarian,"Soy,Gluten",3,2,4,Express Fresh,57,5,4,Yes,4,"Streak cashback,Carbon-offset badges",Color-blind palette,"High fees,Limited healthy options",2
+41,Chennai,25-50k,3,3-5/wk,151,Time constraints,Calorie-controlled,"Gluten,Soy",4,3,3,Express Fresh,15,3,4,Yes,3,"Surprise free items,Targeted discounts","Courier empathy rating,Voice-first ordering","Sustainability concerns,Confusing UI,Late deliveries",3
+27,Kolkata,<25k,9,1-2/wk,65,Other,None,None,4,5,3,Eco-Saver,0,4,2,Yes,4,None of these,Color-blind palette,None,5
+35,Jaipur,75-100k,6,1-3/mo,248,Health meals,None,None,3,4,4,Eco-Saver,0,3,3,Yes,2,Streak cashback,Voice-first ordering,"Sustainability concerns,Late deliveries,Confusing UI",2
+43,Chennai,<25k,4,<1/mo,76,Health meals,None,Dairy,5,3,2,Eco-Saver,0,4,4,Yes,4,"Streak cashback,Targeted discounts","Larger text/UI,Voice-first ordering",None,5
+32,Pune,50-75k,1,3-5/wk,104,Variety,None,Dairy,4,2,5,Depends,0,3,3,Yes,5,Carbon-offset badges,None,"Sustainability concerns,Late deliveries,Cold food",2
+42,Lucknow,25-50k,5,1-3/mo,114,Health meals,None,None,3,4,4,Express Fresh,54,3,2,Yes,4,Carbon-offset badges,Color-blind palette,None,3
+26,Bengaluru,25-50k,2,1-2/wk,163,Variety,High-protein,Gluten,5,3,3,Express Fresh,36,3,3,Yes,3,Streak cashback,Voice-first ordering,Cold food,3
+31,Mumbai,>100k,2,<1/mo,371,Time constraints,None,None,4,5,3,Eco-Saver,0,4,5,Yes,3,"Surprise free items,Targeted discounts,Carbon-offset badges","Color-blind palette,Courier empathy rating",Sustainability concerns,4
+32,Hyderabad,<25k,4,1-2/wk,203,Time constraints,None,Soy,2,4,3,Express Fresh,22,3,5,Yes,3,None of these,Courier empathy rating,Sustainability concerns,4
+20,Delhi,<25k,3,3-5/wk,154,Health meals,None,None,3,3,2,Express Fresh,56,3,4,No,4,None of these,Larger text/UI,"Late deliveries,Confusing UI",3
+42,Bengaluru,25-50k,6,<1/mo,95,Convenience,Calorie-controlled,Dairy,4,1,5,Depends,0,2,3,Yes,3,"Targeted discounts,Surprise free items,Streak cashback",None,"Sustainability concerns,Confusing UI",3
+32,Pune,75-100k,2,1-2/wk,252,Health meals,None,Peanuts,3,5,4,Express Fresh,90,3,4,No,3,Targeted discounts,"Color-blind palette,Courier empathy rating","Limited healthy options,High fees",4
+31,Jaipur,25-50k,5,1-3/mo,353,Variety,None,None,3,3,3,Depends,0,2,4,Yes,3,None of these,None,"Late deliveries,Confusing UI,High fees",3
+32,Hyderabad,25-50k,2,3-5/wk,187,Convenience,None,None,2,5,5,Depends,0,3,3,Yes,4,Targeted discounts,Courier empathy rating,Limited healthy options,2
+33,Lucknow,25-50k,2,1-2/wk,119,Convenience,None,None,4,4,5,Eco-Saver,0,2,5,No,4,Targeted discounts,"Courier empathy rating,Larger text/UI",Sustainability concerns,4
+19,Hyderabad,<25k,2,1-2/wk,282,Convenience,Vegan,None,3,4,4,Eco-Saver,0,4,2,Yes,3,"Carbon-offset badges,Surprise free items,Targeted discounts",Courier empathy rating,"Cold food,Confusing UI",4
+30,Kolkata,<25k,4,1-2/wk,103,Variety,Calorie-controlled,None,3,5,2,Depends,0,1,3,No,2,"Surprise free items,Carbon-offset badges,Streak cashback",Courier empathy rating,"Limited healthy options,Confusing UI,High fees",3
+31,Mumbai,25-50k,1,1-2/wk,170,Time constraints,None,"Gluten,Dairy",3,4,3,Express Fresh,69,3,3,No,3,"Targeted discounts,Streak cashback,Surprise free items","Larger text/UI,Courier empathy rating",None,3
+32,Bengaluru,75-100k,5,1-3/mo,228,Time constraints,Vegetarian,None,2,4,2,Eco-Saver,0,3,3,No,2,"Carbon-offset badges,Streak cashback,Targeted discounts",Courier empathy rating,High fees,2
+19,Hyderabad,<25k,1,3-5/wk,80,Other,Vegan,None,1,4,3,Eco-Saver,0,2,3,Yes,4,"Streak cashback,Carbon-offset badges,Targeted discounts","Color-blind palette,Larger text/UI",None,3
+27,Jaipur,25-50k,1,3-5/wk,134,Convenience,Calorie-controlled,Gluten,5,5,3,Depends,0,3,2,Yes,2,None of these,Color-blind palette,"Confusing UI,High fees,Late deliveries",4
+24,Kolkata,<25k,3,<1/mo,90,Convenience,None,None,3,3,3,Express Fresh,23,2,3,Yes,2,"Streak cashback,Targeted discounts,Surprise free items",None,"Sustainability concerns,Limited healthy options",3
+23,Lucknow,<25k,3,<1/mo,175,Variety,Vegan,None,3,4,3,Express Fresh,51,4,4,Yes,4,"Carbon-offset badges,Surprise free items","Larger text/UI,Color-blind palette","Limited healthy options,Sustainability concerns,Confusing UI",4
+25,Chennai,50-75k,6,1-3/mo,204,Other,None,None,3,2,2,Eco-Saver,0,5,3,Yes,2,"Targeted discounts,Carbon-offset badges,Streak cashback",None,"Cold food,Limited healthy options,Sustainability concerns",2
+36,Ahmedabad,75-100k,3,<1/mo,229,Health meals,None,Gluten,5,4,5,Eco-Saver,0,3,4,Yes,2,Surprise free items,"Courier empathy rating,Color-blind palette",Confusing UI,5
+45,Chennai,75-100k,2,3-5/wk,245,Health meals,Keto,None,3,3,3,Express Fresh,69,3,3,No,3,Surprise free items,Courier empathy rating,None,2
+33,Ahmedabad,<25k,3,<1/mo,95,Health meals,None,None,2,5,2,Express Fresh,54,3,4,Yes,3,Surprise free items,None,None,5
+38,Pune,25-50k,3,1-3/mo,283,Time constraints,Keto,None,4,4,5,Eco-Saver,0,4,3,Yes,3,"Surprise free items,Carbon-offset badges,Streak cashback",None,High fees,3
+34,Pune,50-75k,1,<1/mo,130,Time constraints,Keto,None,4,4,3,Express Fresh,94,1,5,Yes,3,Surprise free items,Color-blind palette,Cold food,5
+29,Chennai,25-50k,5,1-3/mo,160,Other,Vegetarian,None,2,5,4,Express Fresh,95,2,4,No,3,Targeted discounts,None,Sustainability concerns,3
+28,Pune,<25k,3,1-3/mo,167,Variety,Vegetarian,Dairy,3,2,4,Eco-Saver,0,5,3,Yes,4,"Surprise free items,Targeted discounts,Carbon-offset badges",None,"Cold food,Sustainability concerns,Limited healthy options",3
+18,Bengaluru,25-50k,3,3-5/wk,101,Time constraints,Calorie-controlled,"Gluten,Shellfish",5,3,2,Eco-Saver,0,3,5,Yes,4,Targeted discounts,"Larger text/UI,Courier empathy rating",None,4
+25,Chennai,25-50k,2,3-5/wk,77,Other,Calorie-controlled,None,2,4,4,Depends,0,3,2,Yes,1,Streak cashback,None,High fees,4
+43,Mumbai,<25k,5,1-2/wk,126,Convenience,Calorie-controlled,None,3,3,4,Express Fresh,31,3,5,Yes,3,"Streak cashback,Carbon-offset badges","Voice-first ordering,Color-blind palette","Confusing UI,Cold food,High fees",2
+21,Delhi,50-75k,4,3-5/wk,96,Health meals,Vegetarian,Peanuts,4,3,2,Eco-Saver,0,4,3,Yes,3,"Targeted discounts,Surprise free items",Color-blind palette,"Sustainability concerns,Cold food,Limited healthy options",4
+30,Bengaluru,<25k,3,<1/mo,66,Variety,Gluten-free,None,2,4,5,Express Fresh,98,3,3,Yes,2,"Targeted discounts,Carbon-offset badges,Streak cashback",Courier empathy rating,"Limited healthy options,Sustainability concerns,High fees",3
+31,Jaipur,<25k,3,3-5/wk,122,Other,None,None,2,4,4,Express Fresh,37,3,1,Yes,4,Streak cashback,None,Late deliveries,3
+39,Delhi,<25k,2,1-2/wk,167,Convenience,None,None,3,5,5,Express Fresh,95,3,4,No,3,"Surprise free items,Streak cashback","Voice-first ordering,Courier empathy rating","Limited healthy options,Sustainability concerns,Late deliveries",3
+20,Pune,25-50k,5,1-2/wk,326,Variety,Other,None,3,3,5,Eco-Saver,0,5,2,No,3,None of these,"Voice-first ordering,Courier empathy rating","Cold food,Confusing UI",1
+32,Ahmedabad,50-75k,1,3-5/wk,203,Health meals,Vegetarian,Gluten,5,2,3,Eco-Saver,0,4,5,No,2,"Targeted discounts,Carbon-offset badges,Surprise free items",Courier empathy rating,"Confusing UI,Sustainability concerns,Cold food",5
+23,Kolkata,25-50k,1,1-2/wk,220,Convenience,Vegetarian,"Shellfish,Soy",2,3,3,Express Fresh,41,4,3,No,1,"Carbon-offset badges,Streak cashback",None,"High fees,Confusing UI,Limited healthy options",3
+21,Pune,50-75k,4,<1/mo,166,Time constraints,None,None,4,2,4,Express Fresh,110,2,2,Yes,4,Surprise free items,"Voice-first ordering,Color-blind palette","Sustainability concerns,Late deliveries",2
+24,Jaipur,50-75k,3,1-3/mo,97,Convenience,None,None,5,3,2,Eco-Saver,0,4,5,No,3,None of these,Larger text/UI,"Sustainability concerns,Cold food,High fees",5
+30,Pune,<25k,1,3-5/wk,64,Time constraints,Vegetarian,"Peanuts,Dairy",2,4,4,Eco-Saver,0,2,2,No,3,"Streak cashback,Targeted discounts,Surprise free items",None,Cold food,3
+28,Lucknow,50-75k,2,1-3/mo,244,Variety,None,None,2,4,4,Express Fresh,66,4,5,Yes,4,"Targeted discounts,Streak cashback,Surprise free items",None,"Sustainability concerns,Confusing UI",5
+37,Ahmedabad,75-100k,3,3-5/wk,200,Convenience,None,Soy,2,4,5,Depends,0,3,5,Yes,2,"Surprise free items,Targeted discounts",Larger text/UI,High fees,5
+19,Delhi,75-100k,1,1-2/wk,259,Variety,None,None,4,3,5,Express Fresh,130,1,4,Yes,2,Surprise free items,Courier empathy rating,"Late deliveries,Cold food,High fees",4
+18,Jaipur,25-50k,1,1-3/mo,127,Variety,Keto,"Shellfish,Dairy",4,3,5,Express Fresh,65,3,3,Yes,3,"Carbon-offset badges,Targeted discounts",None,"Confusing UI,Cold food,Sustainability concerns",4
+28,Delhi,50-75k,4,3-5/wk,163,Health meals,Vegan,None,4,4,3,Depends,0,4,5,Yes,1,"Surprise free items,Targeted discounts",None,"Late deliveries,Sustainability concerns",5
+31,Hyderabad,>100k,2,1-3/mo,197,Variety,Vegetarian,"Dairy,Gluten",3,3,3,Express Fresh,137,3,5,No,3,"Surprise free items,Streak cashback","Voice-first ordering,Larger text/UI","Sustainability concerns,High fees",2
+43,Delhi,>100k,3,<1/mo,133,Variety,None,Soy,3,3,3,Express Fresh,115,2,3,Yes,1,"Surprise free items,Carbon-offset badges",Courier empathy rating,Limited healthy options,3
+20,Delhi,25-50k,2,1-2/wk,100,Variety,None,None,3,2,3,Express Fresh,75,2,3,Yes,3,None of these,Voice-first ordering,"Confusing UI,Late deliveries,Limited healthy options",3
+41,Pune,25-50k,2,1-2/wk,121,Other,Vegetarian,Gluten,2,3,4,Eco-Saver,0,3,3,Yes,3,"Surprise free items,Targeted discounts,Carbon-offset badges",Larger text/UI,"Sustainability concerns,Confusing UI",1
+28,Mumbai,50-75k,5,1-2/wk,218,Health meals,Gluten-free,Shellfish,4,5,2,Express Fresh,87,2,3,Yes,4,"Targeted discounts,Surprise free items,Streak cashback",Voice-first ordering,Cold food,5
+28,Kolkata,25-50k,3,1-3/mo,89,Health meals,None,None,2,4,3,Express Fresh,60,3,3,No,3,Carbon-offset badges,Courier empathy rating,"High fees,Cold food",3
+28,Kolkata,25-50k,4,3-5/wk,99,Convenience,None,None,2,5,4,Eco-Saver,0,3,3,Yes,4,None of these,"Courier empathy rating,Color-blind palette",Limited healthy options,3
+27,Pune,<25k,4,1-2/wk,145,Time constraints,Vegetarian,None,4,4,2,Express Fresh,41,5,5,Yes,1,"Targeted discounts,Streak cashback,Surprise free items",Courier empathy rating,None,5
+25,Bengaluru,25-50k,2,1-2/wk,145,Time constraints,Calorie-controlled,"Gluten,Shellfish",5,4,5,Eco-Saver,0,4,3,Yes,3,Targeted discounts,"Larger text/UI,Courier empathy rating","Limited healthy options,Sustainability concerns",5
+47,Ahmedabad,75-100k,4,1-3/mo,189,Health meals,None,"Gluten,Soy",2,3,5,Express Fresh,129,5,2,Yes,4,Targeted discounts,Courier empathy rating,"Late deliveries,High fees",1
+36,Delhi,25-50k,7,1-3/mo,128,Variety,Calorie-controlled,None,3,4,3,Eco-Saver,0,3,4,Yes,3,Surprise free items,Color-blind palette,None,4
+24,Delhi,25-50k,2,3-5/wk,285,Health meals,None,None,3,4,3,Depends,0,1,4,Yes,3,"Targeted discounts,Streak cashback,Carbon-offset badges",None,None,5
+25,Pune,<25k,3,1-3/mo,71,Health meals,None,None,1,3,4,Express Fresh,89,3,4,Yes,2,None of these,None,Sustainability concerns,4
+40,Chennai,25-50k,1,1-3/mo,540,Health meals,None,"Shellfish,Soy",3,3,3,Eco-Saver,0,3,4,Yes,4,"Carbon-offset badges,Targeted discounts,Surprise free items","Color-blind palette,Courier empathy rating","Limited healthy options,Sustainability concerns,Late deliveries",4
+21,Kolkata,<25k,2,1-3/mo,113,Variety,Vegetarian,None,2,4,5,Express Fresh,9,4,4,Yes,3,"Streak cashback,Carbon-offset badges,Targeted discounts",Color-blind palette,Limited healthy options,3
+20,Jaipur,25-50k,4,1-2/wk,127,Time constraints,None,None,2,3,3,Eco-Saver,0,3,3,Yes,3,Carbon-offset badges,"Voice-first ordering,Courier empathy rating",Sustainability concerns,1
+43,Hyderabad,25-50k,3,3-5/wk,99,Health meals,Calorie-controlled,None,5,4,2,Depends,0,2,2,Yes,2,"Streak cashback,Surprise free items,Targeted discounts","Color-blind palette,Courier empathy rating","Late deliveries,Confusing UI,Limited healthy options",4
+24,Hyderabad,50-75k,5,1-2/wk,115,Health meals,Vegetarian,None,3,3,3,Eco-Saver,0,3,2,Yes,3,"Targeted discounts,Carbon-offset badges,Surprise free items",None,"Limited healthy options,Late deliveries,Cold food",2
+24,Kolkata,50-75k,2,1-2/wk,154,Variety,High-protein,Soy,3,4,5,Eco-Saver,0,3,5,Yes,3,"Surprise free items,Carbon-offset badges","Color-blind palette,Larger text/UI",Limited healthy options,5
+29,Pune,25-50k,4,>5/wk,75,Health meals,Vegetarian,Soy,3,3,3,Express Fresh,61,5,3,Yes,3,Streak cashback,None,Limited healthy options,1
+29,Chennai,50-75k,1,<1/mo,239,Time constraints,Gluten-free,None,3,4,3,Depends,0,2,2,Yes,3,Streak cashback,Courier empathy rating,"Cold food,Confusing UI",3
+30,Kolkata,25-50k,3,1-2/wk,150,Convenience,Gluten-free,None,2,4,3,Depends,0,2,4,Yes,2,"Streak cashback,Targeted discounts,Carbon-offset badges",Courier empathy rating,High fees,4
+46,Delhi,25-50k,3,3-5/wk,134,Health meals,Gluten-free,None,5,3,4,Eco-Saver,0,1,2,No,3,Surprise free items,None,"Late deliveries,High fees",2
+32,Delhi,<25k,2,3-5/wk,96,Time constraints,None,None,3,1,3,Eco-Saver,0,4,4,Yes,2,"Surprise free items,Carbon-offset badges",None,"Confusing UI,Limited healthy options",4
+37,Jaipur,<25k,4,1-3/mo,137,Convenience,Vegetarian,None,3,2,2,Eco-Saver,0,3,2,Yes,4,None of these,None,Cold food,3
+30,Mumbai,75-100k,4,3-5/wk,1356,Variety,None,"Soy,Shellfish",4,3,3,Eco-Saver,0,2,3,Yes,4,"Surprise free items,Streak cashback",Courier empathy rating,None,3
+37,Bengaluru,<25k,2,1-3/mo,261,Health meals,None,None,3,5,2,Eco-Saver,0,3,2,Yes,2,None of these,Courier empathy rating,High fees,2
+23,Delhi,<25k,3,3-5/wk,155,Time constraints,Vegetarian,Dairy,4,5,1,Express Fresh,26,3,2,Yes,3,"Streak cashback,Surprise free items,Carbon-offset badges",None,"Cold food,Limited healthy options,Late deliveries",3
+18,Kolkata,>100k,2,1-3/mo,116,Other,Vegetarian,Gluten,4,2,5,Depends,0,2,5,Yes,5,"Carbon-offset badges,Surprise free items",Courier empathy rating,"Limited healthy options,Cold food",3
+29,Chennai,25-50k,2,1-2/wk,122,Variety,Calorie-controlled,None,4,2,4,Depends,0,2,3,Yes,2,"Carbon-offset badges,Targeted discounts",None,Cold food,4
+39,Lucknow,25-50k,7,1-3/mo,242,Other,Gluten-free,None,3,5,5,Depends,0,5,5,Yes,3,None of these,"Color-blind palette,Voice-first ordering",None,4
+37,Ahmedabad,<25k,4,1-2/wk,107,Health meals,Vegan,"Soy,Peanuts",1,3,3,Express Fresh,32,3,3,No,3,"Carbon-offset badges,Targeted discounts",None,"Sustainability concerns,Cold food",1
+32,Bengaluru,<25k,4,3-5/wk,69,Health meals,None,None,4,3,2,Express Fresh,58,4,4,Yes,3,Carbon-offset badges,Larger text/UI,Late deliveries,4
+24,Jaipur,25-50k,7,3-5/wk,114,Health meals,None,None,3,4,5,Eco-Saver,0,4,4,No,3,Carbon-offset badges,Color-blind palette,None,5
+36,Delhi,<25k,2,1-2/wk,140,Time constraints,None,None,3,3,4,Depends,0,1,4,No,4,Surprise free items,"Courier empathy rating,Color-blind palette",Late deliveries,3
+29,Delhi,50-75k,4,1-2/wk,167,Time constraints,None,None,4,3,4,Depends,0,4,2,Yes,2,"Surprise free items,Carbon-offset badges,Streak cashback",Color-blind palette,None,3
+30,Lucknow,25-50k,5,<1/mo,204,Variety,Vegetarian,Soy,3,5,3,Express Fresh,42,2,4,Yes,3,"Targeted discounts,Surprise free items",Voice-first ordering,"Cold food,High fees",4
+35,Chennai,25-50k,2,1-3/mo,91,Convenience,None,Dairy,2,5,3,Depends,0,3,3,Yes,3,"Targeted discounts,Streak cashback",None,Late deliveries,2
+28,Pune,50-75k,1,3-5/wk,130,Other,None,Peanuts,3,3,2,Eco-Saver,0,3,3,Yes,2,"Carbon-offset badges,Targeted discounts,Streak cashback",Voice-first ordering,"Late deliveries,High fees,Sustainability concerns",3
+33,Pune,50-75k,3,<1/mo,123,Health meals,Vegetarian,None,5,2,3,Eco-Saver,0,3,3,No,3,"Surprise free items,Streak cashback,Carbon-offset badges",Courier empathy rating,Cold food,3
+27,Pune,50-75k,2,1-3/mo,175,Health meals,None,"Dairy,Soy",4,5,4,Eco-Saver,0,3,5,Yes,1,Streak cashback,None,Cold food,5
+19,Jaipur,25-50k,1,1-2/wk,125,Other,None,Dairy,3,4,3,Depends,0,3,4,Yes,5,"Targeted discounts,Surprise free items","Courier empathy rating,Color-blind palette","Sustainability concerns,Cold food",4
+18,Bengaluru,25-50k,4,1-2/wk,144,Variety,None,None,4,3,5,Express Fresh,57,3,2,No,2,"Carbon-offset badges,Surprise free items,Targeted discounts",None,"Cold food,Limited healthy options,High fees",2
+44,Mumbai,<25k,3,1-2/wk,154,Other,Vegetarian,None,4,2,3,Depends,0,5,3,Yes,2,"Carbon-offset badges,Streak cashback,Targeted discounts",None,None,4
+23,Pune,>100k,2,1-2/wk,197,Variety,Vegan,"Soy,Gluten",4,4,3,Express Fresh,142,3,3,No,4,Streak cashback,Voice-first ordering,None,5
+24,Lucknow,75-100k,3,<1/mo,239,Convenience,None,None,3,4,2,Eco-Saver,0,3,2,No,4,"Carbon-offset badges,Streak cashback,Surprise free items","Courier empathy rating,Color-blind palette","High fees,Limited healthy options",2
+19,Jaipur,50-75k,3,>5/wk,167,Time constraints,Vegetarian,None,4,3,4,Eco-Saver,0,4,5,Yes,4,"Surprise free items,Targeted discounts","Courier empathy rating,Larger text/UI","Late deliveries,Cold food",5
+33,Kolkata,>100k,2,1-3/mo,227,Health meals,Vegetarian,None,4,5,3,Express Fresh,84,4,4,Yes,4,Carbon-offset badges,"Color-blind palette,Courier empathy rating","High fees,Sustainability concerns",5
+30,Mumbai,25-50k,5,1-2/wk,86,Variety,Keto,None,4,4,4,Eco-Saver,0,3,3,Yes,2,"Targeted discounts,Surprise free items,Streak cashback","Color-blind palette,Voice-first ordering",None,5
+27,Ahmedabad,50-75k,2,1-2/wk,237,Convenience,Vegan,None,2,5,3,Express Fresh,45,4,3,No,4,"Targeted discounts,Surprise free items",Courier empathy rating,"High fees,Cold food",2
+25,Delhi,<25k,3,<1/mo,108,Other,Vegan,"Shellfish,Gluten",2,4,3,Depends,0,2,4,Yes,4,"Streak cashback,Surprise free items,Targeted discounts",None,"Confusing UI,High fees,Cold food",3
+24,Kolkata,50-75k,3,1-2/wk,120,Time constraints,Calorie-controlled,None,4,4,4,Eco-Saver,0,2,4,Yes,3,Targeted discounts,"Voice-first ordering,Larger text/UI","Limited healthy options,Late deliveries,High fees",4
+29,Mumbai,>100k,1,1-2/wk,456,Other,None,None,3,3,4,Express Fresh,96,3,5,Yes,2,"Streak cashback,Targeted discounts",Color-blind palette,"High fees,Limited healthy options,Cold food",3
+32,Ahmedabad,<25k,1,1-3/mo,123,Health meals,None,"Dairy,Shellfish",4,2,3,Eco-Saver,0,4,4,Yes,3,"Surprise free items,Carbon-offset badges,Streak cashback",Larger text/UI,"High fees,Limited healthy options,Sustainability concerns",5
+25,Lucknow,<25k,1,1-2/wk,101,Time constraints,None,None,5,4,4,Express Fresh,24,1,5,Yes,2,"Surprise free items,Targeted discounts,Streak cashback","Voice-first ordering,Courier empathy rating",Cold food,4
+38,Ahmedabad,25-50k,1,1-3/mo,153,Variety,Keto,Soy,5,1,3,Depends,0,2,4,No,3,"Surprise free items,Targeted discounts,Streak cashback",None,"Late deliveries,High fees",5
+23,Ahmedabad,75-100k,4,1-3/mo,121,Other,None,None,3,3,3,Eco-Saver,0,4,3,Yes,5,"Targeted discounts,Streak cashback,Surprise free items",Color-blind palette,"Confusing UI,Limited healthy options",1
+41,Hyderabad,75-100k,4,1-3/mo,108,Other,High-protein,None,3,3,5,Express Fresh,110,3,4,Yes,3,"Surprise free items,Targeted discounts",None,Sustainability concerns,3
+46,Ahmedabad,>100k,2,1-2/wk,259,Other,Other,None,4,3,4,Eco-Saver,0,1,5,No,3,Streak cashback,Courier empathy rating,"Late deliveries,Confusing UI,High fees",5
+31,Lucknow,25-50k,5,<1/mo,188,Health meals,Vegetarian,None,4,3,4,Express Fresh,119,3,5,Yes,3,"Streak cashback,Surprise free items","Voice-first ordering,Color-blind palette","Limited healthy options,High fees",3
+47,Chennai,75-100k,5,>5/wk,102,Variety,High-protein,None,2,3,3,Express Fresh,111,3,3,Yes,3,"Carbon-offset badges,Targeted discounts,Surprise free items","Voice-first ordering,Courier empathy rating","High fees,Limited healthy options,Late deliveries",2
+33,Chennai,50-75k,2,3-5/wk,106,Variety,None,None,3,4,3,Eco-Saver,0,4,3,No,4,"Targeted discounts,Carbon-offset badges,Surprise free items",None,"Limited healthy options,Sustainability concerns",4
+39,Jaipur,25-50k,1,3-5/wk,181,Convenience,Vegetarian,None,3,4,4,Depends,0,5,3,No,2,"Surprise free items,Carbon-offset badges,Streak cashback","Larger text/UI,Courier empathy rating","Sustainability concerns,Late deliveries",4
+22,Lucknow,50-75k,3,<1/mo,143,Variety,Calorie-controlled,"Soy,Shellfish",5,4,4,Express Fresh,121,3,2,Yes,4,Surprise free items,None,Late deliveries,5
+24,Kolkata,<25k,1,<1/mo,150,Time constraints,Vegetarian,Gluten,4,3,4,Express Fresh,43,5,4,Yes,5,Streak cashback,"Courier empathy rating,Larger text/UI",Cold food,3
+32,Delhi,<25k,6,<1/mo,160,Other,None,"Gluten,Peanuts",2,4,3,Depends,0,3,2,Yes,3,"Surprise free items,Carbon-offset badges,Streak cashback",Voice-first ordering,Limited healthy options,4
+56,Ahmedabad,<25k,2,1-3/mo,131,Other,None,None,4,3,3,Eco-Saver,0,1,5,Yes,3,None of these,Color-blind palette,"Cold food,Late deliveries",3
+30,Lucknow,50-75k,4,1-3/mo,136,Health meals,None,None,3,4,3,Eco-Saver,0,1,3,No,3,"Carbon-offset badges,Targeted discounts,Surprise free items",Voice-first ordering,"Late deliveries,High fees",3
+38,Delhi,<25k,5,<1/mo,134,Convenience,Calorie-controlled,None,3,3,4,Express Fresh,123,2,3,No,4,"Streak cashback,Targeted discounts",Larger text/UI,"Late deliveries,Confusing UI,Cold food",1
+50,Ahmedabad,25-50k,3,1-2/wk,106,Variety,Calorie-controlled,"Shellfish,Dairy",2,3,2,Express Fresh,30,4,5,Yes,3,Streak cashback,Color-blind palette,"Cold food,Confusing UI,Late deliveries",2
+27,Lucknow,<25k,5,<1/mo,133,Other,None,None,5,5,4,Express Fresh,39,4,2,Yes,2,None of these,"Color-blind palette,Voice-first ordering","Cold food,Confusing UI",4
+37,Bengaluru,25-50k,4,1-3/mo,223,Health meals,Vegetarian,"Gluten,Dairy",5,4,4,Depends,0,2,3,Yes,4,"Targeted discounts,Surprise free items,Carbon-offset badges","Larger text/UI,Voice-first ordering",High fees,5
+42,Jaipur,<25k,3,<1/mo,138,Health meals,None,None,4,4,4,Depends,0,2,4,Yes,3,None of these,Larger text/UI,"Confusing UI,High fees",5
+19,Lucknow,>100k,1,3-5/wk,245,Convenience,None,None,3,3,5,Depends,0,3,3,Yes,4,"Targeted discounts,Carbon-offset badges",None,"High fees,Late deliveries,Cold food",2
+20,Chennai,25-50k,3,3-5/wk,159,Health meals,Vegetarian,"Soy,Peanuts",2,3,2,Express Fresh,86,5,5,Yes,5,Targeted discounts,Courier empathy rating,"Limited healthy options,High fees",2
+31,Kolkata,<25k,1,3-5/wk,82,Time constraints,High-protein,Shellfish,3,3,5,Eco-Saver,0,4,3,Yes,4,"Targeted discounts,Streak cashback",None,"Confusing UI,Cold food",2
+70,Chennai,<25k,2,>5/wk,76,Other,Calorie-controlled,Shellfish,1,5,2,Express Fresh,55,4,2,Yes,3,Targeted discounts,Color-blind palette,"Limited healthy options,Late deliveries,Confusing UI",2
+19,Bengaluru,25-50k,3,<1/mo,104,Health meals,None,None,3,2,4,Eco-Saver,0,2,3,No,1,"Carbon-offset badges,Streak cashback","Courier empathy rating,Color-blind palette","Late deliveries,Limited healthy options,Confusing UI",1
+33,Jaipur,75-100k,4,3-5/wk,273,Time constraints,Other,None,3,3,3,Depends,0,2,2,No,5,None of these,None,"Late deliveries,Sustainability concerns,High fees",1
+18,Mumbai,50-75k,3,<1/mo,128,Convenience,Calorie-controlled,None,3,5,5,Depends,0,3,3,Yes,3,"Streak cashback,Targeted discounts",None,"Cold food,High fees,Confusing UI",3
+18,Delhi,<25k,6,1-3/mo,77,Variety,Gluten-free,"Soy,Gluten",5,2,2,Eco-Saver,0,3,3,Yes,2,"Carbon-offset badges,Surprise free items,Streak cashback","Voice-first ordering,Color-blind palette",Late deliveries,4
+46,Jaipur,25-50k,3,3-5/wk,149,Other,Gluten-free,None,3,3,4,Eco-Saver,0,4,3,Yes,4,None of these,None,"Sustainability concerns,Confusing UI,Cold food",3
+18,Jaipur,75-100k,2,<1/mo,129,Convenience,None,None,4,4,3,Express Fresh,92,4,5,No,3,None of these,Courier empathy rating,None,5
+52,Mumbai,25-50k,4,1-3/mo,297,Time constraints,High-protein,None,4,4,3,Eco-Saver,0,3,4,Yes,3,Carbon-offset badges,"Larger text/UI,Courier empathy rating","High fees,Limited healthy options",5
+37,Chennai,25-50k,1,1-3/mo,292,Variety,Calorie-controlled,None,2,4,4,Express Fresh,81,3,4,Yes,4,"Carbon-offset badges,Streak cashback,Targeted discounts","Color-blind palette,Larger text/UI",High fees,5
+25,Ahmedabad,<25k,3,1-2/wk,111,Other,None,None,2,4,4,Express Fresh,41,4,4,Yes,3,"Surprise free items,Streak cashback,Targeted discounts",None,"Sustainability concerns,Limited healthy options,Late deliveries",5
+18,Chennai,25-50k,3,1-3/mo,167,Health meals,Calorie-controlled,Peanuts,3,4,5,Eco-Saver,0,3,4,Yes,4,Targeted discounts,"Voice-first ordering,Larger text/UI","Late deliveries,High fees,Cold food",3
+32,Hyderabad,75-100k,4,1-2/wk,70,Variety,Keto,None,3,3,5,Depends,0,3,5,No,2,"Targeted discounts,Surprise free items","Color-blind palette,Courier empathy rating",Late deliveries,2
+27,Pune,25-50k,5,1-2/wk,220,Convenience,Vegetarian,"Soy,Gluten",5,4,5,Express Fresh,61,4,4,Yes,2,"Carbon-offset badges,Surprise free items",Voice-first ordering,"High fees,Confusing UI,Sustainability concerns",5
+18,Jaipur,25-50k,2,1-2/wk,137,Convenience,None,None,4,4,5,Depends,0,1,4,Yes,3,"Surprise free items,Targeted discounts",Larger text/UI,"Cold food,Limited healthy options",4
+38,Delhi,50-75k,3,1-2/wk,188,Variety,Vegetarian,None,5,2,3,Express Fresh,56,2,5,Yes,4,"Streak cashback,Targeted discounts","Color-blind palette,Courier empathy rating",None,5
+25,Mumbai,25-50k,3,<1/mo,109,Other,Vegetarian,None,5,3,4,Express Fresh,33,4,5,Yes,3,Surprise free items,"Voice-first ordering,Larger text/UI",None,4
+18,Jaipur,>100k,2,1-2/wk,216,Convenience,Calorie-controlled,None,4,3,2,Express Fresh,116,3,3,Yes,2,"Streak cashback,Carbon-offset badges","Voice-first ordering,Color-blind palette","Sustainability concerns,High fees",4
+55,Ahmedabad,<25k,1,>5/wk,122,Convenience,High-protein,None,2,2,1,Eco-Saver,0,3,4,Yes,5,"Targeted discounts,Carbon-offset badges,Streak cashback",Color-blind palette,"High fees,Sustainability concerns,Late deliveries",3
+27,Delhi,25-50k,2,1-2/wk,608,Variety,None,"Dairy,Shellfish",3,2,4,Express Fresh,38,2,3,Yes,2,"Carbon-offset badges,Targeted discounts,Surprise free items","Voice-first ordering,Courier empathy rating",Sustainability concerns,3
+19,Mumbai,<25k,4,3-5/wk,184,Time constraints,Vegetarian,Shellfish,4,4,4,Express Fresh,94,2,3,Yes,2,Streak cashback,Courier empathy rating,"Limited healthy options,Sustainability concerns,High fees",5
+46,Hyderabad,<25k,3,1-3/mo,55,Convenience,Vegetarian,None,3,4,4,Express Fresh,43,2,4,Yes,3,Streak cashback,None,"High fees,Sustainability concerns",4
+44,Mumbai,>100k,5,3-5/wk,196,Health meals,None,None,2,5,3,Eco-Saver,0,2,4,Yes,3,Surprise free items,"Voice-first ordering,Courier empathy rating","Cold food,Sustainability concerns",5
+21,Pune,25-50k,1,1-2/wk,94,Convenience,Calorie-controlled,"Shellfish,Peanuts",3,4,3,Eco-Saver,0,3,4,No,3,Targeted discounts,"Color-blind palette,Larger text/UI",Sustainability concerns,3
+39,Lucknow,<25k,2,1-2/wk,130,Time constraints,High-protein,Soy,3,2,3,Express Fresh,65,4,4,No,3,"Carbon-offset badges,Surprise free items",None,"Limited healthy options,Sustainability concerns,High fees",4
+21,Chennai,25-50k,5,1-2/wk,129,Variety,Vegetarian,None,3,3,1,Express Fresh,77,3,3,No,4,"Streak cashback,Surprise free items",Voice-first ordering,None,2
+31,Mumbai,<25k,4,1-2/wk,150,Variety,High-protein,None,4,4,3,Eco-Saver,0,4,4,No,3,None of these,"Color-blind palette,Larger text/UI",None,5
+32,Delhi,50-75k,4,<1/mo,111,Convenience,Calorie-controlled,None,4,3,3,Depends,0,5,3,Yes,4,"Targeted discounts,Streak cashback,Surprise free items","Color-blind palette,Voice-first ordering","Cold food,Limited healthy options,Late deliveries",2
+32,Kolkata,75-100k,6,<1/mo,210,Other,None,"Peanuts,Dairy",3,4,3,Eco-Saver,0,4,2,Yes,3,"Surprise free items,Targeted discounts,Carbon-offset badges",Color-blind palette,"High fees,Sustainability concerns",4
+27,Pune,25-50k,1,<1/mo,151,Convenience,Other,None,2,3,4,Express Fresh,97,5,3,Yes,4,Targeted discounts,Voice-first ordering,"Limited healthy options,Sustainability concerns",3
+32,Mumbai,50-75k,3,1-2/wk,884,Other,Vegetarian,None,4,4,5,Eco-Saver,0,5,4,No,3,"Streak cashback,Targeted discounts,Carbon-offset badges",None,"Confusing UI,Cold food,High fees",5
+36,Pune,50-75k,3,3-5/wk,119,Variety,Calorie-controlled,"Peanuts,Soy",4,4,3,Express Fresh,81,3,4,Yes,4,None of these,Voice-first ordering,Limited healthy options,4
+27,Ahmedabad,<25k,5,3-5/wk,70,Other,Gluten-free,None,5,3,5,Express Fresh,45,3,4,Yes,3,"Targeted discounts,Streak cashback,Carbon-offset badges","Color-blind palette,Courier empathy rating",Limited healthy options,4
+39,Pune,>100k,2,<1/mo,346,Time constraints,High-protein,None,3,4,4,Eco-Saver,0,3,4,Yes,4,"Carbon-offset badges,Surprise free items,Streak cashback","Color-blind palette,Voice-first ordering","Limited healthy options,Late deliveries,High fees",3
+31,Pune,25-50k,3,<1/mo,213,Variety,Calorie-controlled,"Dairy,Soy",3,1,3,Depends,0,3,3,Yes,3,Surprise free items,None,"Late deliveries,Limited healthy options,Sustainability concerns",1
+18,Lucknow,25-50k,1,<1/mo,187,Time constraints,Vegetarian,None,4,5,2,Eco-Saver,0,1,3,Yes,5,None of these,"Larger text/UI,Courier empathy rating","Confusing UI,Limited healthy options,Late deliveries",5
+40,Lucknow,50-75k,4,1-3/mo,182,Other,None,None,3,5,4,Express Fresh,84,4,3,Yes,3,"Carbon-offset badges,Streak cashback,Surprise free items","Larger text/UI,Courier empathy rating",None,3
+38,Hyderabad,25-50k,3,<1/mo,184,Variety,Calorie-controlled,None,3,3,2,Express Fresh,32,3,3,Yes,4,"Streak cashback,Targeted discounts,Surprise free items",Larger text/UI,"High fees,Sustainability concerns",2
+34,Bengaluru,25-50k,2,1-2/wk,133,Variety,None,None,5,3,2,Express Fresh,100,3,3,No,1,Streak cashback,Larger text/UI,"Late deliveries,Cold food",2
+36,Hyderabad,25-50k,1,1-3/mo,190,Convenience,Vegetarian,None,4,5,3,Eco-Saver,0,5,5,Yes,4,Surprise free items,Larger text/UI,"Cold food,Confusing UI,Sustainability concerns",5
+19,Lucknow,50-75k,2,<1/mo,114,Time constraints,Vegetarian,None,2,3,4,Eco-Saver,0,2,3,Yes,1,Targeted discounts,None,Cold food,2
+28,Kolkata,>100k,1,<1/mo,243,Variety,Vegetarian,Soy,3,4,3,Eco-Saver,0,3,3,Yes,3,None of these,"Courier empathy rating,Color-blind palette","Confusing UI,Limited healthy options",4
+19,Hyderabad,>100k,4,1-2/wk,223,Time constraints,Calorie-controlled,None,3,4,3,Eco-Saver,0,4,4,Yes,4,"Surprise free items,Carbon-offset badges,Streak cashback",None,Cold food,4
+21,Jaipur,25-50k,2,<1/mo,212,Time constraints,None,Soy,3,3,3,Eco-Saver,0,4,2,No,2,Targeted discounts,None,"Limited healthy options,Sustainability concerns",1
+25,Jaipur,75-100k,3,1-2/wk,118,Health meals,Vegetarian,Gluten,3,3,3,Depends,0,4,3,Yes,3,None of these,Color-blind palette,"Confusing UI,Late deliveries,High fees",1
+30,Mumbai,75-100k,2,1-2/wk,199,Time constraints,Vegetarian,None,1,2,3,Express Fresh,109,4,3,Yes,2,"Targeted discounts,Streak cashback,Surprise free items","Courier empathy rating,Voice-first ordering","Late deliveries,High fees,Confusing UI",3
+21,Lucknow,75-100k,6,1-3/mo,123,Other,Other,None,3,3,2,Eco-Saver,0,3,3,No,2,"Targeted discounts,Surprise free items","Voice-first ordering,Color-blind palette","Confusing UI,Sustainability concerns",3
+33,Lucknow,50-75k,3,1-3/mo,89,Other,Vegan,"Soy,Shellfish",4,3,4,Eco-Saver,0,4,4,Yes,3,Targeted discounts,Courier empathy rating,"Confusing UI,Cold food",3
+31,Pune,25-50k,1,1-2/wk,116,Variety,Gluten-free,None,4,4,2,Depends,0,3,4,Yes,2,Surprise free items,Courier empathy rating,Confusing UI,4
+18,Chennai,<25k,4,1-3/mo,628,Convenience,None,None,2,3,3,Depends,0,1,4,No,1,Streak cashback,"Voice-first ordering,Larger text/UI",Late deliveries,4
+20,Bengaluru,<25k,2,3-5/wk,151,Convenience,None,None,3,4,3,Express Fresh,0,4,5,Yes,3,"Surprise free items,Carbon-offset badges",Voice-first ordering,"Confusing UI,Cold food,Late deliveries",3
+20,Lucknow,50-75k,3,1-3/mo,143,Convenience,None,None,2,3,5,Eco-Saver,0,2,5,Yes,3,"Streak cashback,Surprise free items,Carbon-offset badges","Courier empathy rating,Color-blind palette","Confusing UI,Sustainability concerns",3
+18,Delhi,75-100k,4,1-3/mo,363,Health meals,Vegetarian,None,4,2,3,Depends,0,5,2,No,3,"Streak cashback,Carbon-offset badges",Color-blind palette,High fees,2
+26,Chennai,50-75k,2,<1/mo,225,Other,Gluten-free,"Soy,Shellfish",3,3,4,Depends,0,4,3,Yes,4,"Surprise free items,Carbon-offset badges",Voice-first ordering,Sustainability concerns,2
+34,Hyderabad,>100k,5,1-3/mo,339,Variety,None,None,4,1,3,Eco-Saver,0,4,4,No,5,"Surprise free items,Targeted discounts","Color-blind palette,Voice-first ordering","Confusing UI,Limited healthy options",4
+29,Kolkata,25-50k,4,>5/wk,186,Time constraints,Vegetarian,None,4,3,4,Eco-Saver,0,4,3,No,4,"Surprise free items,Streak cashback,Targeted discounts",None,High fees,3
+44,Ahmedabad,25-50k,3,1-3/mo,151,Convenience,Vegetarian,None,2,3,4,Express Fresh,28,2,4,Yes,3,Targeted discounts,Larger text/UI,High fees,3
+35,Kolkata,>100k,7,3-5/wk,320,Other,None,None,5,4,2,Express Fresh,119,3,3,Yes,1,None of these,"Color-blind palette,Courier empathy rating",Sustainability concerns,5
+50,Bengaluru,>100k,4,3-5/wk,185,Other,None,None,3,3,3,Express Fresh,154,4,2,Yes,4,"Carbon-offset badges,Targeted discounts",None,"Confusing UI,Late deliveries,High fees",1
+21,Hyderabad,25-50k,3,>5/wk,158,Convenience,High-protein,None,3,4,2,Depends,0,3,4,Yes,5,Carbon-offset badges,None,Sustainability concerns,5
+31,Mumbai,50-75k,2,1-3/mo,201,Convenience,Calorie-controlled,Gluten,3,3,2,Express Fresh,83,4,4,Yes,3,"Streak cashback,Surprise free items",None,"Sustainability concerns,Confusing UI",2
+34,Jaipur,50-75k,4,1-2/wk,116,Other,None,None,4,5,4,Eco-Saver,0,2,1,Yes,4,"Targeted discounts,Surprise free items,Streak cashback",None,Confusing UI,3
+27,Chennai,25-50k,4,3-5/wk,129,Time constraints,High-protein,"Gluten,Peanuts",3,3,2,Express Fresh,86,4,2,Yes,2,None of these,Color-blind palette,High fees,1
+38,Mumbai,<25k,3,1-3/mo,77,Time constraints,None,Dairy,4,3,4,Eco-Saver,0,3,5,Yes,4,Streak cashback,Color-blind palette,Limited healthy options,3
+24,Bengaluru,25-50k,4,1-2/wk,262,Convenience,Calorie-controlled,None,2,2,2,Express Fresh,87,3,4,Yes,3,"Streak cashback,Targeted discounts",None,"Cold food,Sustainability concerns,Late deliveries",2
+18,Delhi,75-100k,3,<1/mo,249,Other,None,Gluten,3,4,3,Express Fresh,115,4,1,Yes,1,Targeted discounts,"Voice-first ordering,Color-blind palette","High fees,Confusing UI,Cold food",3
+29,Kolkata,25-50k,2,1-3/mo,137,Variety,None,None,4,5,5,Eco-Saver,0,3,3,No,2,None of these,"Courier empathy rating,Voice-first ordering",Cold food,5
+29,Ahmedabad,>100k,7,1-2/wk,187,Convenience,None,None,3,5,4,Depends,0,2,5,Yes,2,Streak cashback,"Larger text/UI,Color-blind palette","Limited healthy options,Late deliveries",5
+23,Delhi,50-75k,5,<1/mo,198,Time constraints,None,Soy,3,4,4,Depends,0,5,5,Yes,2,"Surprise free items,Carbon-offset badges",None,Sustainability concerns,5
+46,Pune,<25k,2,1-3/mo,97,Variety,None,None,3,3,5,Depends,0,4,4,Yes,4,"Streak cashback,Carbon-offset badges,Surprise free items",None,Sustainability concerns,3
+34,Kolkata,<25k,4,3-5/wk,110,Convenience,Vegetarian,Soy,2,1,5,Depends,0,4,3,Yes,4,"Streak cashback,Surprise free items,Targeted discounts",Color-blind palette,"Limited healthy options,Cold food,High fees",2
+18,Mumbai,>100k,3,<1/mo,59,Health meals,Calorie-controlled,"Shellfish,Soy",3,3,3,Eco-Saver,0,2,4,Yes,2,"Carbon-offset badges,Streak cashback,Surprise free items",Courier empathy rating,None,3
+30,Jaipur,50-75k,3,<1/mo,242,Other,High-protein,Dairy,2,3,2,Eco-Saver,0,4,4,Yes,5,Streak cashback,Larger text/UI,"High fees,Late deliveries",2
+30,Pune,<25k,1,1-2/wk,123,Other,None,"Soy,Gluten",3,4,4,Express Fresh,28,3,2,No,3,"Targeted discounts,Surprise free items",Voice-first ordering,"High fees,Late deliveries,Cold food",2
+42,Jaipur,<25k,3,3-5/wk,165,Other,Vegetarian,Gluten,3,3,4,Eco-Saver,0,4,2,Yes,4,"Carbon-offset badges,Surprise free items",None,"Cold food,Limited healthy options,Late deliveries",1
+18,Jaipur,<25k,1,1-3/mo,135,Variety,Vegetarian,"Dairy,Soy",4,4,4,Depends,0,4,5,No,1,"Surprise free items,Targeted discounts,Streak cashback",None,"Late deliveries,Limited healthy options,High fees",4
+27,Chennai,50-75k,2,>5/wk,190,Time constraints,Calorie-controlled,"Dairy,Soy",4,5,3,Depends,0,3,2,Yes,2,"Targeted discounts,Streak cashback,Carbon-offset badges",Voice-first ordering,"High fees,Late deliveries,Sustainability concerns",5
+18,Hyderabad,25-50k,4,1-2/wk,680,Health meals,None,Dairy,1,5,4,Eco-Saver,0,3,5,Yes,4,None of these,None,Cold food,4
+34,Mumbai,50-75k,4,1-2/wk,124,Time constraints,Vegan,None,2,4,3,Eco-Saver,0,2,4,Yes,1,Targeted discounts,"Color-blind palette,Larger text/UI","Sustainability concerns,Cold food,Limited healthy options",3
+47,Chennai,25-50k,4,1-3/mo,103,Convenience,Vegan,"Soy,Peanuts",2,4,4,Express Fresh,92,1,4,Yes,1,"Targeted discounts,Carbon-offset badges",Color-blind palette,Cold food,4
+21,Chennai,75-100k,2,1-3/mo,164,Health meals,High-protein,None,3,3,3,Depends,0,4,3,Yes,4,"Streak cashback,Surprise free items,Carbon-offset badges","Voice-first ordering,Larger text/UI","Cold food,High fees",2
+18,Kolkata,25-50k,1,<1/mo,162,Other,None,"Peanuts,Shellfish",4,4,4,Eco-Saver,0,2,4,Yes,1,"Streak cashback,Carbon-offset badges",Courier empathy rating,Late deliveries,5
+80,Bengaluru,25-50k,1,<1/mo,205,Other,Vegetarian,None,4,5,2,Eco-Saver,0,4,3,Yes,2,Targeted discounts,"Courier empathy rating,Color-blind palette",Confusing UI,5
+25,Lucknow,<25k,5,1-3/mo,172,Convenience,Vegetarian,"Peanuts,Dairy",3,5,4,Depends,0,4,3,Yes,4,"Streak cashback,Carbon-offset badges","Courier empathy rating,Voice-first ordering","Confusing UI,High fees",3
+23,Lucknow,50-75k,1,1-3/mo,115,Convenience,None,Dairy,5,3,5,Express Fresh,47,3,5,Yes,4,"Carbon-offset badges,Targeted discounts","Voice-first ordering,Color-blind palette","High fees,Late deliveries,Confusing UI",3
+27,Chennai,25-50k,3,<1/mo,160,Other,Keto,None,4,4,3,Express Fresh,54,3,5,No,2,"Carbon-offset badges,Streak cashback,Targeted discounts",Courier empathy rating,High fees,5
+20,Bengaluru,<25k,7,3-5/wk,121,Variety,Calorie-controlled,None,2,5,4,Express Fresh,81,5,3,Yes,1,"Surprise free items,Carbon-offset badges","Voice-first ordering,Larger text/UI","Late deliveries,High fees",4
+60,Bengaluru,25-50k,1,<1/mo,158,Time constraints,Gluten-free,None,3,5,5,Express Fresh,64,4,5,Yes,4,"Streak cashback,Surprise free items",None,"Sustainability concerns,Late deliveries,High fees",5
+29,Hyderabad,75-100k,3,3-5/wk,100,Convenience,None,None,3,3,3,Express Fresh,100,1,2,Yes,5,Streak cashback,None,None,2
+30,Mumbai,<25k,5,1-2/wk,129,Health meals,High-protein,None,4,5,4,Express Fresh,40,2,2,Yes,4,"Targeted discounts,Streak cashback",None,Confusing UI,4
+24,Hyderabad,25-50k,2,1-3/mo,230,Health meals,Keto,None,4,3,4,Express Fresh,35,2,4,Yes,4,Surprise free items,Larger text/UI,"Sustainability concerns,Limited healthy options",4
+36,Ahmedabad,25-50k,4,1-3/mo,164,Variety,None,None,3,4,3,Depends,0,4,4,No,5,"Carbon-offset badges,Surprise free items,Targeted discounts","Larger text/UI,Voice-first ordering","Sustainability concerns,Limited healthy options",5
+29,Lucknow,50-75k,2,<1/mo,290,Variety,None,None,4,1,3,Eco-Saver,0,1,4,Yes,2,None of these,None,"Late deliveries,High fees,Cold food",5
+33,Jaipur,<25k,1,<1/mo,107,Convenience,High-protein,None,2,4,5,Express Fresh,69,2,3,Yes,3,Targeted discounts,None,Cold food,2
+18,Kolkata,75-100k,5,1-2/wk,135,Other,High-protein,"Peanuts,Gluten",2,3,2,Eco-Saver,0,2,5,Yes,5,"Surprise free items,Carbon-offset badges,Streak cashback",Courier empathy rating,High fees,4
+22,Bengaluru,25-50k,2,1-3/mo,78,Convenience,Gluten-free,"Peanuts,Dairy",1,4,3,Express Fresh,49,4,3,Yes,2,"Surprise free items,Streak cashback,Targeted discounts",Color-blind palette,"High fees,Late deliveries",4
+37,Kolkata,75-100k,2,1-3/mo,114,Other,Calorie-controlled,None,3,3,4,Eco-Saver,0,2,1,No,3,Surprise free items,None,"Limited healthy options,Sustainability concerns",1
+24,Hyderabad,>100k,1,3-5/wk,228,Other,None,None,4,5,2,Eco-Saver,0,2,4,Yes,4,"Carbon-offset badges,Streak cashback",Color-blind palette,"Cold food,Limited healthy options",5
+39,Kolkata,25-50k,3,1-2/wk,126,Variety,None,None,3,4,3,Express Fresh,52,4,3,Yes,2,"Carbon-offset badges,Streak cashback",Color-blind palette,"Late deliveries,Limited healthy options",3
+41,Chennai,75-100k,6,1-3/mo,191,Health meals,Vegetarian,None,5,4,3,Express Fresh,75,4,3,No,3,"Targeted discounts,Streak cashback,Carbon-offset badges",None,"Confusing UI,High fees",4
+30,Lucknow,25-50k,4,1-2/wk,111,Health meals,None,None,5,4,4,Express Fresh,26,3,3,No,1,"Surprise free items,Targeted discounts,Carbon-offset badges",Color-blind palette,"Sustainability concerns,High fees",4
+22,Kolkata,50-75k,2,1-3/mo,134,Variety,Vegetarian,None,5,2,5,Depends,0,4,3,No,4,Surprise free items,"Courier empathy rating,Color-blind palette","Sustainability concerns,Limited healthy options",3
+33,Pune,25-50k,6,1-2/wk,135,Other,None,None,4,4,5,Express Fresh,91,2,4,Yes,4,Streak cashback,"Courier empathy rating,Larger text/UI","Limited healthy options,Late deliveries",5
+18,Chennai,50-75k,2,>5/wk,154,Health meals,None,None,4,3,4,Express Fresh,92,3,5,Yes,4,"Surprise free items,Carbon-offset badges,Streak cashback",Color-blind palette,"Sustainability concerns,Late deliveries,Confusing UI",5
+22,Kolkata,>100k,4,1-2/wk,148,Health meals,Calorie-controlled,None,3,3,3,Eco-Saver,0,3,5,Yes,2,Carbon-offset badges,"Color-blind palette,Courier empathy rating","Sustainability concerns,Cold food,Late deliveries",4
+33,Ahmedabad,50-75k,2,1-3/mo,114,Health meals,None,Dairy,4,3,3,Eco-Saver,0,2,4,Yes,3,"Carbon-offset badges,Targeted discounts,Surprise free items",Voice-first ordering,"Cold food,High fees",5
+18,Jaipur,50-75k,4,1-3/mo,274,Health meals,High-protein,Gluten,3,3,3,Depends,0,3,3,Yes,3,Carbon-offset badges,None,Confusing UI,2
+23,Lucknow,25-50k,6,<1/mo,182,Health meals,None,None,5,3,4,Express Fresh,60,3,3,No,3,Targeted discounts,"Larger text/UI,Color-blind palette","Limited healthy options,High fees,Confusing UI",2
+29,Chennai,>100k,5,1-3/mo,324,Time constraints,None,Soy,3,5,3,Depends,0,5,5,No,4,None of these,Voice-first ordering,"Confusing UI,Cold food,High fees",3
+45,Chennai,75-100k,4,1-3/mo,208,Convenience,High-protein,"Soy,Gluten",2,5,3,Eco-Saver,0,4,2,Yes,3,"Surprise free items,Targeted discounts","Voice-first ordering,Courier empathy rating",Sustainability concerns,3
+35,Chennai,<25k,4,1-2/wk,114,Health meals,Vegetarian,"Dairy,Soy",4,3,5,Express Fresh,62,3,3,Yes,4,"Carbon-offset badges,Surprise free items","Voice-first ordering,Larger text/UI","High fees,Limited healthy options,Cold food",2
+31,Ahmedabad,75-100k,2,3-5/wk,252,Other,Vegetarian,None,3,4,5,Express Fresh,78,3,5,No,3,Surprise free items,None,None,4
+28,Lucknow,<25k,5,3-5/wk,90,Time constraints,None,Soy,2,4,5,Eco-Saver,0,5,3,Yes,5,"Streak cashback,Targeted discounts,Surprise free items",None,"Late deliveries,Limited healthy options",4
+29,Pune,<25k,6,3-5/wk,95,Variety,Keto,None,5,3,3,Eco-Saver,0,3,3,No,4,"Streak cashback,Surprise free items","Courier empathy rating,Voice-first ordering",Sustainability concerns,4
+23,Chennai,>100k,5,3-5/wk,266,Time constraints,High-protein,None,3,3,5,Express Fresh,59,3,4,Yes,3,None of these,None,High fees,4
+35,Kolkata,25-50k,6,3-5/wk,148,Convenience,None,None,4,5,4,Eco-Saver,0,3,5,No,4,Surprise free items,None,"Sustainability concerns,Late deliveries,High fees",4
+18,Ahmedabad,25-50k,1,1-2/wk,120,Other,None,"Gluten,Dairy",3,4,4,Depends,0,4,5,Yes,3,None of these,"Larger text/UI,Courier empathy rating",None,5
+18,Hyderabad,25-50k,1,1-2/wk,116,Variety,None,Shellfish,5,3,3,Depends,0,3,5,Yes,2,"Streak cashback,Targeted discounts,Surprise free items",Larger text/UI,"Cold food,Limited healthy options",4
+37,Hyderabad,<25k,2,1-3/mo,118,Health meals,None,None,5,3,4,Eco-Saver,0,4,4,Yes,3,"Targeted discounts,Streak cashback","Color-blind palette,Larger text/UI",Confusing UI,5
+41,Mumbai,<25k,4,1-3/mo,143,Other,Calorie-controlled,None,3,4,4,Eco-Saver,0,3,5,No,2,None of these,Larger text/UI,"Confusing UI,Late deliveries",5
+21,Hyderabad,<25k,5,1-2/wk,79,Convenience,High-protein,None,1,2,4,Express Fresh,98,2,4,Yes,4,"Targeted discounts,Streak cashback,Surprise free items",Courier empathy rating,"Confusing UI,Limited healthy options,Sustainability concerns",4
+29,Hyderabad,<25k,1,1-2/wk,111,Health meals,Vegetarian,None,3,4,3,Express Fresh,65,2,4,Yes,2,"Targeted discounts,Carbon-offset badges,Streak cashback",Voice-first ordering,None,4
+25,Bengaluru,>100k,1,1-2/wk,226,Other,None,None,3,4,3,Eco-Saver,0,3,3,Yes,3,Carbon-offset badges,Courier empathy rating,"Sustainability concerns,Confusing UI,High fees",3
+35,Lucknow,25-50k,1,1-3/mo,592,Variety,None,None,2,4,3,Express Fresh,66,5,5,Yes,4,"Streak cashback,Surprise free items",None,Sustainability concerns,3
+25,Chennai,25-50k,2,3-5/wk,75,Health meals,High-protein,None,5,4,5,Eco-Saver,0,3,3,Yes,3,"Streak cashback,Targeted discounts,Carbon-offset badges","Voice-first ordering,Courier empathy rating","Confusing UI,Cold food,High fees",3
+37,Pune,75-100k,2,1-2/wk,142,Convenience,Vegetarian,None,3,4,4,Eco-Saver,0,5,4,Yes,2,Streak cashback,None,"Cold food,High fees",4
+34,Ahmedabad,25-50k,3,<1/mo,76,Convenience,None,None,4,3,4,Express Fresh,39,4,4,Yes,4,"Streak cashback,Carbon-offset badges",Color-blind palette,"Late deliveries,High fees,Cold food",4
+29,Bengaluru,25-50k,4,1-2/wk,117,Variety,Vegetarian,None,3,5,3,Express Fresh,105,5,4,Yes,3,"Surprise free items,Targeted discounts,Streak cashback",Voice-first ordering,Confusing UI,4
+36,Delhi,50-75k,3,<1/mo,213,Other,None,None,3,2,3,Depends,0,5,3,Yes,4,Streak cashback,Larger text/UI,"Cold food,Confusing UI,High fees",1
+40,Pune,50-75k,1,1-3/mo,148,Convenience,Vegetarian,Shellfish,3,3,4,Express Fresh,46,4,2,Yes,3,Targeted discounts,"Voice-first ordering,Courier empathy rating","Late deliveries,Confusing UI,High fees",3
+18,Lucknow,<25k,2,1-2/wk,166,Variety,High-protein,None,3,5,3,Eco-Saver,0,4,3,Yes,3,"Streak cashback,Surprise free items",Courier empathy rating,Confusing UI,3
+48,Hyderabad,25-50k,2,1-2/wk,475,Convenience,None,None,4,4,4,Express Fresh,115,2,4,Yes,4,"Targeted discounts,Streak cashback",None,None,5
+38,Jaipur,25-50k,1,1-2/wk,196,Health meals,Vegetarian,Shellfish,2,3,4,Express Fresh,39,5,4,Yes,4,Surprise free items,Color-blind palette,"Limited healthy options,Cold food,Sustainability concerns",4
+24,Jaipur,50-75k,3,1-2/wk,304,Health meals,Gluten-free,None,4,4,3,Depends,0,5,3,No,3,"Surprise free items,Streak cashback",None,Late deliveries,3
+25,Lucknow,<25k,2,1-2/wk,164,Convenience,None,Peanuts,4,3,4,Express Fresh,0,2,5,Yes,5,"Streak cashback,Carbon-offset badges,Surprise free items",Courier empathy rating,"Limited healthy options,Cold food",5
+30,Chennai,>100k,3,1-3/mo,1116,Health meals,Vegetarian,None,4,3,3,Depends,0,4,5,Yes,2,Surprise free items,Larger text/UI,"High fees,Sustainability concerns,Confusing UI",4
+48,Jaipur,50-75k,1,1-3/mo,274,Time constraints,Vegan,None,2,4,3,Express Fresh,89,3,4,No,4,Carbon-offset badges,Larger text/UI,High fees,4
+32,Mumbai,25-50k,1,<1/mo,127,Health meals,None,"Shellfish,Peanuts",3,4,2,Eco-Saver,0,2,4,Yes,3,"Surprise free items,Targeted discounts,Streak cashback","Voice-first ordering,Larger text/UI",Limited healthy options,4
+28,Jaipur,25-50k,2,3-5/wk,170,Variety,None,"Dairy,Shellfish",3,4,3,Express Fresh,7,5,2,Yes,5,"Targeted discounts,Carbon-offset badges",Color-blind palette,"Limited healthy options,Confusing UI",3
+20,Pune,25-50k,2,1-2/wk,63,Time constraints,Vegetarian,None,3,3,4,Express Fresh,64,3,5,Yes,2,"Carbon-offset badges,Targeted discounts",None,"Cold food,High fees,Confusing UI",3
+29,Lucknow,75-100k,1,1-2/wk,182,Other,Vegetarian,None,3,3,4,Eco-Saver,0,4,3,Yes,3,Streak cashback,None,None,3
+33,Chennai,<25k,4,1-2/wk,142,Convenience,None,None,2,4,3,Depends,0,5,3,Yes,1,Streak cashback,None,Limited healthy options,4
+28,Jaipur,75-100k,2,1-3/mo,289,Other,None,"Shellfish,Soy",5,4,3,Express Fresh,92,3,5,Yes,2,"Carbon-offset badges,Streak cashback,Surprise free items",Voice-first ordering,"Late deliveries,Limited healthy options",5
+44,Pune,<25k,4,1-3/mo,120,Health meals,High-protein,Shellfish,5,2,2,Depends,0,4,4,Yes,4,"Carbon-offset badges,Targeted discounts,Surprise free items","Color-blind palette,Voice-first ordering","Late deliveries,High fees",4
+20,Lucknow,25-50k,3,1-3/mo,270,Variety,High-protein,None,3,4,4,Eco-Saver,0,4,4,Yes,4,"Carbon-offset badges,Surprise free items",None,"Sustainability concerns,Limited healthy options",3
+25,Delhi,>100k,3,1-3/mo,219,Other,High-protein,Gluten,4,4,3,Depends,0,5,5,Yes,3,"Targeted discounts,Carbon-offset badges,Streak cashback","Larger text/UI,Courier empathy rating","Sustainability concerns,High fees",5
+40,Chennai,<25k,2,3-5/wk,120,Time constraints,Vegetarian,None,3,4,4,Express Fresh,25,3,5,Yes,3,"Carbon-offset badges,Streak cashback",Voice-first ordering,Limited healthy options,5
+24,Pune,>100k,1,1-2/wk,136,Variety,Vegan,None,3,4,3,Express Fresh,99,4,2,Yes,3,"Targeted discounts,Surprise free items,Carbon-offset badges",Color-blind palette,Confusing UI,3
+29,Ahmedabad,25-50k,3,1-3/mo,243,Other,Vegan,None,5,3,5,Eco-Saver,0,2,3,No,4,"Surprise free items,Targeted discounts",None,"Limited healthy options,Confusing UI,Sustainability concerns",4
+18,Lucknow,>100k,1,3-5/wk,405,Time constraints,None,None,2,5,2,Eco-Saver,0,2,4,Yes,2,None of these,"Color-blind palette,Courier empathy rating",Sustainability concerns,4
+40,Lucknow,25-50k,4,<1/mo,155,Time constraints,None,None,4,4,4,Eco-Saver,0,3,5,Yes,2,Targeted discounts,Larger text/UI,"Late deliveries,Limited healthy options,High fees",5
+33,Pune,50-75k,7,1-2/wk,224,Variety,Vegetarian,None,2,4,2,Depends,0,3,3,No,3,"Surprise free items,Carbon-offset badges,Streak cashback",Larger text/UI,Cold food,3
+29,Ahmedabad,25-50k,2,3-5/wk,200,Variety,Calorie-controlled,None,3,3,4,Eco-Saver,0,2,3,Yes,4,"Carbon-offset badges,Surprise free items,Targeted discounts","Voice-first ordering,Courier empathy rating","Cold food,High fees",3
+36,Jaipur,25-50k,3,1-3/mo,194,Other,Calorie-controlled,None,2,3,2,Express Fresh,81,2,3,Yes,3,"Carbon-offset badges,Surprise free items","Courier empathy rating,Voice-first ordering",None,4
+29,Hyderabad,50-75k,1,1-3/mo,190,Other,Vegan,None,1,4,4,Eco-Saver,0,4,4,Yes,3,"Streak cashback,Carbon-offset badges,Surprise free items","Larger text/UI,Courier empathy rating","Confusing UI,High fees",5
+27,Chennai,25-50k,4,3-5/wk,76,Convenience,High-protein,None,4,2,3,Depends,0,4,3,No,5,None of these,Color-blind palette,Confusing UI,3
+18,Hyderabad,25-50k,6,1-2/wk,223,Time constraints,None,Shellfish,3,2,4,Express Fresh,54,4,3,Yes,5,Carbon-offset badges,Color-blind palette,None,2
+22,Chennai,75-100k,3,1-3/mo,129,Health meals,Vegetarian,Soy,4,2,2,Express Fresh,126,2,3,Yes,4,"Targeted discounts,Streak cashback","Color-blind palette,Courier empathy rating","Late deliveries,Limited healthy options",3
+19,Mumbai,50-75k,3,1-2/wk,188,Other,None,None,2,5,2,Eco-Saver,0,2,4,Yes,2,"Surprise free items,Carbon-offset badges",None,Sustainability concerns,5
+27,Kolkata,25-50k,3,1-3/mo,156,Health meals,Vegan,Peanuts,3,2,5,Express Fresh,89,4,3,Yes,3,"Carbon-offset badges,Streak cashback",Larger text/UI,None,3
+18,Lucknow,50-75k,3,1-3/mo,240,Convenience,Other,Peanuts,3,4,4,Express Fresh,73,2,2,Yes,5,"Carbon-offset badges,Targeted discounts,Streak cashback",Larger text/UI,"Sustainability concerns,Cold food",4
+25,Jaipur,75-100k,4,1-3/mo,227,Other,Vegetarian,None,2,3,4,Express Fresh,112,5,4,Yes,1,None of these,None,Late deliveries,4
+18,Jaipur,<25k,1,1-2/wk,84,Variety,None,None,3,4,4,Eco-Saver,0,2,4,Yes,4,Targeted discounts,Larger text/UI,Late deliveries,3
+28,Kolkata,25-50k,2,3-5/wk,164,Other,Gluten-free,None,1,4,4,Eco-Saver,0,2,5,No,3,"Carbon-offset badges,Streak cashback,Surprise free items","Larger text/UI,Courier empathy rating",Sustainability concerns,4
+36,Mumbai,75-100k,1,3-5/wk,113,Health meals,Vegetarian,None,3,5,4,Express Fresh,72,4,3,Yes,3,Streak cashback,"Courier empathy rating,Color-blind palette","Confusing UI,Limited healthy options",4
+37,Chennai,25-50k,1,1-2/wk,91,Convenience,Vegetarian,Peanuts,2,5,2,Express Fresh,64,3,3,Yes,3,Streak cashback,Larger text/UI,"Confusing UI,High fees",2
+28,Delhi,75-100k,3,3-5/wk,436,Convenience,Calorie-controlled,None,3,4,4,Eco-Saver,0,5,5,Yes,3,"Carbon-offset badges,Surprise free items,Streak cashback",None,High fees,5
+30,Jaipur,75-100k,3,<1/mo,220,Other,None,None,5,3,3,Express Fresh,117,3,4,Yes,3,"Streak cashback,Carbon-offset badges",Color-blind palette,"Confusing UI,High fees,Sustainability concerns",3
+26,Lucknow,25-50k,5,3-5/wk,163,Time constraints,Vegan,None,3,5,4,Express Fresh,74,4,5,Yes,1,"Carbon-offset badges,Targeted discounts,Surprise free items",Color-blind palette,Confusing UI,3
+28,Pune,25-50k,3,1-3/mo,162,Other,None,"Gluten,Dairy",4,4,3,Depends,0,3,4,Yes,1,None of these,Color-blind palette,"High fees,Cold food",5
+35,Pune,>100k,5,1-3/mo,266,Variety,Vegetarian,None,3,3,5,Eco-Saver,0,3,3,Yes,4,Carbon-offset badges,"Color-blind palette,Larger text/UI","High fees,Confusing UI,Sustainability concerns",3
+28,Jaipur,75-100k,2,1-2/wk,1188,Other,Calorie-controlled,None,3,5,3,Express Fresh,114,2,3,Yes,3,None of these,None,"High fees,Late deliveries,Limited healthy options",3
+18,Delhi,>100k,3,<1/mo,345,Health meals,Vegan,None,3,3,5,Depends,0,2,3,No,3,"Carbon-offset badges,Streak cashback,Targeted discounts",None,"High fees,Late deliveries,Sustainability concerns",1
+42,Pune,50-75k,4,3-5/wk,184,Convenience,Calorie-controlled,None,4,3,4,Express Fresh,53,4,4,Yes,4,"Targeted discounts,Streak cashback","Courier empathy rating,Color-blind palette","High fees,Limited healthy options",4
+33,Kolkata,<25k,4,3-5/wk,92,Variety,Vegetarian,None,4,1,2,Express Fresh,74,3,1,No,3,None of these,None,Cold food,4
+43,Lucknow,75-100k,2,1-3/mo,211,Variety,None,None,3,3,3,Depends,0,4,2,Yes,3,Streak cashback,Color-blind palette,Confusing UI,2
+25,Delhi,75-100k,1,1-2/wk,160,Health meals,Vegetarian,None,2,2,5,Depends,0,5,4,Yes,4,None of these,None,"Sustainability concerns,High fees,Cold food",2
+18,Ahmedabad,25-50k,2,1-2/wk,108,Health meals,Vegetarian,"Peanuts,Dairy",2,5,5,Express Fresh,80,2,3,Yes,4,Streak cashback,Voice-first ordering,Sustainability concerns,2
+29,Bengaluru,75-100k,3,1-3/mo,254,Health meals,None,Shellfish,4,4,3,Express Fresh,112,5,4,No,3,"Streak cashback,Surprise free items",Larger text/UI,"Late deliveries,Sustainability concerns,Limited healthy options",4
+38,Pune,25-50k,1,<1/mo,111,Health meals,None,None,3,3,3,Express Fresh,91,4,4,Yes,3,"Surprise free items,Carbon-offset badges",Courier empathy rating,"Late deliveries,Cold food",4
+18,Kolkata,75-100k,1,>5/wk,418,Convenience,None,None,3,3,4,Eco-Saver,0,2,4,Yes,2,"Targeted discounts,Surprise free items","Larger text/UI,Courier empathy rating",Sustainability concerns,2
+26,Ahmedabad,<25k,6,3-5/wk,100,Other,Vegetarian,None,4,4,3,Depends,0,4,4,No,3,"Carbon-offset badges,Streak cashback,Targeted discounts","Color-blind palette,Larger text/UI","High fees,Late deliveries,Confusing UI",5
+39,Delhi,50-75k,7,1-2/wk,197,Convenience,None,None,3,5,5,Eco-Saver,0,4,3,Yes,3,"Streak cashback,Surprise free items,Targeted discounts","Larger text/UI,Courier empathy rating","Cold food,Late deliveries",3
+18,Kolkata,25-50k,2,1-2/wk,215,Time constraints,Vegetarian,"Soy,Shellfish",4,5,3,Express Fresh,66,2,4,Yes,4,Streak cashback,"Color-blind palette,Voice-first ordering","Late deliveries,High fees,Sustainability concerns",5
+27,Ahmedabad,>100k,3,<1/mo,216,Health meals,Vegan,None,3,2,3,Eco-Saver,0,2,3,Yes,4,"Surprise free items,Streak cashback,Carbon-offset badges",None,None,3
+26,Jaipur,50-75k,2,1-2/wk,188,Other,None,Shellfish,4,3,4,Express Fresh,30,5,4,Yes,2,"Carbon-offset badges,Targeted discounts,Streak cashback",Color-blind palette,"Cold food,Late deliveries",4
+29,Mumbai,25-50k,1,1-2/wk,195,Other,Calorie-controlled,Gluten,4,3,4,Express Fresh,60,3,4,Yes,3,"Streak cashback,Surprise free items,Carbon-offset badges","Color-blind palette,Courier empathy rating","Cold food,Late deliveries,High fees",3
+43,Pune,25-50k,4,3-5/wk,240,Other,Other,None,1,2,5,Express Fresh,11,3,4,No,5,"Surprise free items,Carbon-offset badges,Targeted discounts",Larger text/UI,"Confusing UI,Limited healthy options",2
+28,Jaipur,50-75k,1,>5/wk,258,Convenience,None,None,4,5,4,Eco-Saver,0,4,2,Yes,1,None of these,"Courier empathy rating,Color-blind palette","High fees,Late deliveries",5
+21,Bengaluru,50-75k,2,1-3/mo,304,Variety,Calorie-controlled,"Soy,Peanuts",4,2,5,Express Fresh,109,4,2,Yes,4,"Streak cashback,Targeted discounts","Courier empathy rating,Larger text/UI","Cold food,Late deliveries",2
+49,Bengaluru,25-50k,2,1-3/mo,137,Time constraints,None,Gluten,2,2,3,Express Fresh,41,4,3,No,2,"Carbon-offset badges,Targeted discounts,Streak cashback",Color-blind palette,"High fees,Sustainability concerns",1
+32,Ahmedabad,<25k,4,1-3/mo,58,Health meals,None,None,5,3,3,Depends,0,3,4,Yes,3,Targeted discounts,Color-blind palette,None,4
+26,Pune,25-50k,2,1-2/wk,119,Convenience,None,None,4,4,2,Depends,0,5,4,Yes,2,"Surprise free items,Carbon-offset badges",Larger text/UI,"Late deliveries,Sustainability concerns",5
+28,Jaipur,50-75k,2,3-5/wk,173,Variety,Keto,None,4,4,3,Express Fresh,60,4,3,No,2,Carbon-offset badges,None,None,4
+30,Hyderabad,50-75k,3,>5/wk,145,Health meals,None,None,1,3,2,Eco-Saver,0,1,3,Yes,1,Surprise free items,None,Cold food,1
+33,Chennai,75-100k,3,<1/mo,288,Other,High-protein,"Soy,Gluten",4,4,2,Depends,0,2,4,Yes,3,None of these,None,Sustainability concerns,5
+44,Kolkata,<25k,2,<1/mo,125,Convenience,Vegan,None,3,4,4,Express Fresh,8,3,4,Yes,4,None of these,None,"Late deliveries,High fees",3
+28,Pune,>100k,4,1-3/mo,240,Variety,Calorie-controlled,Gluten,4,4,4,Eco-Saver,0,2,2,Yes,4,"Streak cashback,Targeted discounts,Surprise free items",None,"Limited healthy options,Cold food",3
+29,Jaipur,>100k,2,3-5/wk,255,Variety,None,Soy,4,3,3,Eco-Saver,0,4,4,No,3,"Surprise free items,Streak cashback","Courier empathy rating,Color-blind palette",Sustainability concerns,3
+32,Kolkata,>100k,4,3-5/wk,128,Variety,None,None,3,3,4,Express Fresh,102,4,3,Yes,1,Streak cashback,"Larger text/UI,Color-blind palette","Confusing UI,Late deliveries",1
+18,Delhi,>100k,3,1-2/wk,274,Time constraints,Vegetarian,Shellfish,3,4,4,Eco-Saver,0,3,4,Yes,2,"Carbon-offset badges,Surprise free items",Color-blind palette,Late deliveries,5
+32,Lucknow,25-50k,1,1-2/wk,112,Time constraints,Vegan,"Shellfish,Peanuts",4,2,2,Express Fresh,89,4,5,No,4,"Targeted discounts,Surprise free items,Carbon-offset badges","Larger text/UI,Voice-first ordering",High fees,5
+33,Hyderabad,<25k,1,<1/mo,167,Time constraints,Gluten-free,None,2,3,4,Eco-Saver,0,3,3,Yes,3,None of these,"Courier empathy rating,Voice-first ordering",None,3
+32,Ahmedabad,<25k,2,1-3/mo,139,Health meals,Vegetarian,Dairy,3,4,3,Express Fresh,32,5,5,Yes,2,"Carbon-offset badges,Targeted discounts,Streak cashback",Voice-first ordering,"Limited healthy options,Cold food,Sustainability concerns",4
+39,Delhi,<25k,3,1-2/wk,102,Variety,Vegetarian,None,2,4,2,Eco-Saver,0,3,3,No,4,"Carbon-offset badges,Surprise free items,Targeted discounts",Courier empathy rating,Sustainability concerns,4
+18,Lucknow,25-50k,5,>5/wk,148,Variety,Calorie-controlled,None,2,3,4,Eco-Saver,0,2,5,Yes,3,None of these,Color-blind palette,Sustainability concerns,2
+30,Bengaluru,50-75k,2,1-2/wk,190,Time constraints,None,None,4,4,3,Eco-Saver,0,4,4,Yes,3,"Targeted discounts,Streak cashback,Surprise free items","Voice-first ordering,Color-blind palette",Cold food,4
+23,Kolkata,75-100k,4,1-2/wk,202,Convenience,High-protein,None,3,4,2,Express Fresh,75,3,3,Yes,3,None of these,"Voice-first ordering,Courier empathy rating","Limited healthy options,High fees,Late deliveries",4
+35,Mumbai,>100k,5,<1/mo,169,Time constraints,Keto,None,1,5,3,Eco-Saver,0,2,4,Yes,3,"Targeted discounts,Carbon-offset badges,Streak cashback",None,Late deliveries,4
+24,Delhi,<25k,5,1-3/mo,131,Convenience,Calorie-controlled,None,3,3,4,Express Fresh,3,4,3,Yes,4,Surprise free items,None,Limited healthy options,2
+45,Chennai,<25k,2,<1/mo,129,Convenience,None,None,3,3,4,Eco-Saver,0,4,5,Yes,4,"Streak cashback,Targeted discounts",Courier empathy rating,None,5
+25,Bengaluru,25-50k,5,1-3/mo,137,Other,None,None,2,4,5,Eco-Saver,0,4,3,Yes,3,Surprise free items,None,"Limited healthy options,Sustainability concerns",4
+32,Lucknow,25-50k,3,3-5/wk,173,Variety,Keto,None,3,5,2,Express Fresh,43,3,4,Yes,4,None of these,None,Limited healthy options,5
+32,Pune,25-50k,2,1-3/mo,224,Variety,Gluten-free,None,3,3,3,Eco-Saver,0,4,3,Yes,3,None of these,None,Limited healthy options,3
+37,Chennai,50-75k,5,1-2/wk,214,Time constraints,None,"Peanuts,Dairy",3,4,5,Eco-Saver,0,2,3,Yes,2,"Surprise free items,Targeted discounts","Larger text/UI,Color-blind palette",Limited healthy options,3
+32,Chennai,75-100k,1,>5/wk,440,Variety,Vegan,None,3,5,4,Express Fresh,76,2,2,Yes,2,"Streak cashback,Surprise free items",Larger text/UI,Late deliveries,3
+18,Hyderabad,25-50k,2,1-3/mo,155,Other,Other,None,3,3,2,Eco-Saver,0,3,3,No,3,"Targeted discounts,Streak cashback",Courier empathy rating,None,2
+25,Ahmedabad,50-75k,3,3-5/wk,103,Variety,Calorie-controlled,None,5,4,3,Express Fresh,104,3,1,Yes,3,"Carbon-offset badges,Surprise free items,Streak cashback",None,"Cold food,Sustainability concerns",4
+43,Chennai,25-50k,2,1-2/wk,115,Convenience,None,Soy,4,4,2,Express Fresh,88,4,4,Yes,3,"Surprise free items,Targeted discounts",Color-blind palette,"Cold food,Late deliveries",5
+28,Chennai,25-50k,4,1-3/mo,166,Health meals,Vegetarian,Peanuts,3,4,4,Eco-Saver,0,2,5,Yes,2,"Carbon-offset badges,Surprise free items","Voice-first ordering,Courier empathy rating","Cold food,Late deliveries,Confusing UI",4
+18,Chennai,25-50k,4,1-3/mo,199,Variety,None,None,1,4,4,Eco-Saver,0,3,3,Yes,2,"Targeted discounts,Streak cashback",None,Confusing UI,2
+31,Mumbai,<25k,3,1-3/mo,105,Other,None,None,3,4,5,Eco-Saver,0,4,3,Yes,4,"Targeted discounts,Carbon-offset badges,Surprise free items",Courier empathy rating,"Limited healthy options,Cold food,Confusing UI",4
+20,Delhi,25-50k,5,<1/mo,175,Health meals,None,None,3,5,3,Express Fresh,83,3,3,Yes,2,"Targeted discounts,Carbon-offset badges",None,None,3
+29,Chennai,50-75k,4,3-5/wk,187,Variety,Gluten-free,None,4,2,5,Express Fresh,99,3,4,No,1,"Surprise free items,Targeted discounts","Color-blind palette,Courier empathy rating","Confusing UI,High fees",4
+39,Kolkata,25-50k,2,1-2/wk,137,Convenience,None,None,2,3,5,Eco-Saver,0,5,2,Yes,3,"Streak cashback,Carbon-offset badges,Targeted discounts",None,"Sustainability concerns,Confusing UI",2
+31,Delhi,>100k,3,1-2/wk,179,Health meals,None,None,4,3,4,Eco-Saver,0,4,5,No,2,"Streak cashback,Carbon-offset badges","Color-blind palette,Larger text/UI","Late deliveries,Confusing UI,Cold food",4
+45,Mumbai,50-75k,3,1-2/wk,119,Variety,Calorie-controlled,None,4,4,5,Express Fresh,87,4,4,Yes,3,Carbon-offset badges,"Courier empathy rating,Voice-first ordering","High fees,Limited healthy options",4
+37,Lucknow,25-50k,3,1-2/wk,237,Variety,None,None,4,5,4,Eco-Saver,0,2,4,Yes,3,"Surprise free items,Carbon-offset badges","Courier empathy rating,Larger text/UI","Cold food,High fees,Limited healthy options",4
+26,Lucknow,25-50k,4,1-2/wk,149,Other,None,None,3,4,5,Eco-Saver,0,4,3,No,3,"Streak cashback,Surprise free items",Courier empathy rating,Cold food,2
+42,Mumbai,50-75k,5,1-2/wk,346,Other,Calorie-controlled,None,3,2,3,Depends,0,4,3,Yes,4,"Streak cashback,Carbon-offset badges",None,"Sustainability concerns,Cold food,Limited healthy options",2
+20,Delhi,<25k,7,3-5/wk,101,Health meals,None,"Peanuts,Soy",1,3,5,Express Fresh,61,4,3,Yes,3,"Carbon-offset badges,Surprise free items,Targeted discounts",None,"Limited healthy options,Cold food",1
+38,Pune,<25k,3,1-3/mo,201,Convenience,None,None,3,4,3,Eco-Saver,0,2,5,Yes,3,"Surprise free items,Targeted discounts,Streak cashback",Voice-first ordering,"Limited healthy options,High fees",5
+53,Lucknow,25-50k,1,1-3/mo,109,Health meals,Vegan,None,4,3,4,Express Fresh,74,2,3,Yes,4,Targeted discounts,"Larger text/UI,Voice-first ordering",High fees,2
+42,Kolkata,75-100k,1,1-2/wk,177,Convenience,None,None,3,3,3,Express Fresh,127,2,4,Yes,3,"Carbon-offset badges,Surprise free items",Voice-first ordering,None,3
+39,Jaipur,<25k,2,1-3/mo,688,Convenience,None,"Peanuts,Dairy",3,5,3,Express Fresh,2,3,4,Yes,3,"Streak cashback,Carbon-offset badges",Larger text/UI,High fees,3
+18,Delhi,75-100k,1,1-3/mo,127,Time constraints,High-protein,None,2,4,4,Depends,0,1,4,Yes,3,None of these,"Color-blind palette,Voice-first ordering","Cold food,Sustainability concerns",5
+23,Mumbai,25-50k,3,3-5/wk,89,Other,High-protein,None,4,5,3,Depends,0,4,4,No,3,"Targeted discounts,Surprise free items",None,"Limited healthy options,Cold food",5
+37,Delhi,<25k,2,1-3/mo,69,Convenience,Gluten-free,Shellfish,2,5,3,Express Fresh,0,4,2,No,3,"Streak cashback,Carbon-offset badges",Larger text/UI,"Confusing UI,High fees",2
+26,Jaipur,50-75k,4,1-2/wk,238,Health meals,Vegetarian,None,2,3,4,Express Fresh,84,1,4,Yes,3,"Surprise free items,Streak cashback",Courier empathy rating,"Confusing UI,High fees",2
+22,Delhi,75-100k,3,3-5/wk,251,Time constraints,None,None,3,4,4,Eco-Saver,0,5,4,Yes,1,None of these,Color-blind palette,High fees,4
+24,Mumbai,25-50k,4,1-2/wk,141,Other,None,"Gluten,Soy",4,3,4,Express Fresh,91,2,3,Yes,4,"Carbon-offset badges,Targeted discounts",None,Sustainability concerns,2
+29,Chennai,>100k,1,1-2/wk,276,Variety,None,None,2,4,4,Eco-Saver,0,4,2,Yes,1,"Carbon-offset badges,Streak cashback","Larger text/UI,Courier empathy rating","High fees,Limited healthy options,Late deliveries",3
+51,Mumbai,>100k,4,1-3/mo,216,Convenience,Calorie-controlled,None,3,2,3,Express Fresh,122,4,3,No,1,None of these,"Larger text/UI,Color-blind palette",Cold food,3
+34,Chennai,75-100k,3,3-5/wk,93,Time constraints,None,None,5,4,3,Depends,0,1,5,Yes,2,"Targeted discounts,Streak cashback,Surprise free items","Color-blind palette,Voice-first ordering","Cold food,High fees,Sustainability concerns",5
+21,Delhi,<25k,2,<1/mo,142,Health meals,Vegetarian,None,4,3,2,Express Fresh,80,4,5,Yes,4,"Carbon-offset badges,Surprise free items",None,Cold food,5
+32,Chennai,<25k,2,1-3/mo,62,Time constraints,Keto,None,3,3,1,Express Fresh,46,3,4,Yes,2,"Carbon-offset badges,Surprise free items,Streak cashback",Color-blind palette,Limited healthy options,4
+37,Jaipur,50-75k,5,1-3/mo,343,Health meals,None,None,5,5,3,Express Fresh,116,3,4,Yes,5,Carbon-offset badges,"Courier empathy rating,Voice-first ordering","Sustainability concerns,High fees,Cold food",5
+42,Chennai,<25k,5,1-3/mo,123,Other,None,None,5,5,4,Express Fresh,25,5,5,Yes,3,"Streak cashback,Surprise free items,Carbon-offset badges",Larger text/UI,"Confusing UI,Late deliveries,Sustainability concerns",5
+21,Lucknow,50-75k,4,3-5/wk,166,Other,None,None,2,3,3,Express Fresh,105,1,4,Yes,4,None of these,"Voice-first ordering,Color-blind palette","Late deliveries,Sustainability concerns,Limited healthy options",2
+42,Chennai,<25k,4,<1/mo,189,Health meals,Calorie-controlled,None,5,4,2,Eco-Saver,0,2,5,Yes,3,Streak cashback,Larger text/UI,Late deliveries,5
+21,Mumbai,75-100k,1,1-2/wk,244,Health meals,Vegetarian,Dairy,1,3,2,Express Fresh,70,4,3,Yes,2,Targeted discounts,Larger text/UI,Confusing UI,3
+22,Hyderabad,50-75k,8,>5/wk,126,Time constraints,Vegetarian,None,2,3,3,Depends,0,3,4,Yes,2,"Carbon-offset badges,Streak cashback",None,"Late deliveries,Confusing UI",2
+29,Kolkata,50-75k,2,<1/mo,191,Time constraints,Calorie-controlled,None,5,2,5,Express Fresh,73,1,4,Yes,2,Carbon-offset badges,None,"Sustainability concerns,Limited healthy options,Late deliveries",5
+28,Lucknow,50-75k,2,3-5/wk,71,Variety,Vegetarian,"Peanuts,Soy",4,4,4,Eco-Saver,0,3,4,Yes,5,Targeted discounts,Voice-first ordering,Confusing UI,4
+28,Kolkata,25-50k,2,1-2/wk,215,Health meals,Vegetarian,"Gluten,Shellfish",4,2,3,Eco-Saver,0,4,4,Yes,3,"Targeted discounts,Surprise free items",None,"Sustainability concerns,Limited healthy options,Cold food",4
+25,Lucknow,50-75k,5,1-2/wk,107,Time constraints,None,None,4,3,5,Express Fresh,72,2,4,Yes,4,"Targeted discounts,Carbon-offset badges,Surprise free items",None,"Cold food,Sustainability concerns",4
+19,Ahmedabad,50-75k,4,3-5/wk,210,Other,None,None,3,3,4,Express Fresh,76,4,1,No,3,"Surprise free items,Streak cashback",Color-blind palette,Limited healthy options,2
+23,Bengaluru,50-75k,3,1-2/wk,260,Health meals,Vegetarian,None,2,2,5,Express Fresh,74,3,3,Yes,4,Targeted discounts,Color-blind palette,"Limited healthy options,Sustainability concerns",1
+27,Pune,25-50k,1,1-2/wk,137,Convenience,Calorie-controlled,"Shellfish,Dairy",2,4,2,Express Fresh,75,4,4,No,3,Streak cashback,None,"High fees,Late deliveries",5
+31,Jaipur,>100k,3,1-2/wk,185,Health meals,Vegan,None,5,5,3,Depends,0,4,2,Yes,2,Targeted discounts,"Voice-first ordering,Larger text/UI",Limited healthy options,4
+18,Ahmedabad,<25k,1,1-3/mo,80,Other,High-protein,None,5,4,3,Eco-Saver,0,2,4,No,5,"Carbon-offset badges,Surprise free items",Courier empathy rating,Late deliveries,5
+18,Pune,25-50k,2,3-5/wk,95,Time constraints,None,None,2,4,3,Depends,0,3,3,Yes,2,None of these,"Voice-first ordering,Color-blind palette",Cold food,3
+38,Hyderabad,>100k,8,1-3/mo,171,Other,None,None,4,3,3,Eco-Saver,0,2,3,No,3,Targeted discounts,"Courier empathy rating,Larger text/UI","Sustainability concerns,High fees,Late deliveries",4
+23,Bengaluru,50-75k,3,1-3/mo,165,Convenience,Calorie-controlled,"Shellfish,Peanuts",3,2,3,Express Fresh,90,5,4,Yes,2,"Streak cashback,Targeted discounts,Carbon-offset badges",None,High fees,4
+27,Jaipur,<25k,5,<1/mo,172,Other,Vegan,None,1,3,4,Express Fresh,40,4,3,Yes,4,"Targeted discounts,Carbon-offset badges,Streak cashback",None,Confusing UI,3
+34,Delhi,>100k,6,3-5/wk,217,Time constraints,Vegetarian,None,2,4,5,Eco-Saver,0,4,3,Yes,4,"Targeted discounts,Carbon-offset badges,Streak cashback",Voice-first ordering,"Cold food,Confusing UI",4
+34,Ahmedabad,>100k,3,<1/mo,185,Other,High-protein,None,3,4,4,Eco-Saver,0,4,5,Yes,4,Streak cashback,Courier empathy rating,"Late deliveries,High fees",4
+18,Pune,75-100k,4,<1/mo,375,Health meals,Other,None,3,3,5,Depends,0,3,3,Yes,3,"Streak cashback,Surprise free items,Targeted discounts",Courier empathy rating,"Sustainability concerns,Confusing UI,High fees",3
+22,Pune,<25k,4,1-3/mo,100,Variety,High-protein,"Soy,Dairy",3,4,4,Eco-Saver,0,4,5,Yes,3,"Targeted discounts,Surprise free items,Streak cashback",Voice-first ordering,"Late deliveries,Limited healthy options",5
+31,Hyderabad,25-50k,1,1-3/mo,282,Health meals,Vegan,None,4,3,4,Express Fresh,118,3,3,Yes,3,Streak cashback,"Voice-first ordering,Larger text/UI","Confusing UI,Sustainability concerns,Limited healthy options",4
+31,Ahmedabad,<25k,6,3-5/wk,135,Health meals,None,None,3,3,4,Express Fresh,50,1,3,Yes,3,"Surprise free items,Targeted discounts,Streak cashback",Courier empathy rating,"Limited healthy options,Cold food,High fees",3
+19,Mumbai,75-100k,3,<1/mo,222,Time constraints,Gluten-free,None,4,4,3,Eco-Saver,0,4,3,No,3,None of these,Courier empathy rating,Limited healthy options,4
+39,Jaipur,50-75k,2,1-2/wk,241,Variety,Vegetarian,None,2,4,4,Express Fresh,46,4,4,Yes,4,"Streak cashback,Surprise free items,Carbon-offset badges",None,"Late deliveries,Confusing UI",5
+18,Chennai,50-75k,6,1-2/wk,205,Health meals,Calorie-controlled,"Gluten,Dairy",3,1,4,Express Fresh,46,1,3,Yes,1,"Targeted discounts,Carbon-offset badges","Color-blind palette,Voice-first ordering","Limited healthy options,Cold food",2
+21,Chennai,25-50k,5,1-2/wk,141,Other,Calorie-controlled,None,4,3,4,Depends,0,3,3,No,3,"Carbon-offset badges,Streak cashback",None,"High fees,Late deliveries,Confusing UI",3
+39,Hyderabad,25-50k,2,<1/mo,205,Convenience,High-protein,None,3,3,3,Express Fresh,49,2,4,Yes,4,None of these,Voice-first ordering,"High fees,Limited healthy options,Sustainability concerns",3
+24,Chennai,50-75k,1,1-2/wk,83,Convenience,Vegan,Gluten,4,3,4,Eco-Saver,0,3,3,Yes,3,Targeted discounts,None,Cold food,3
+29,Delhi,25-50k,4,>5/wk,87,Convenience,Keto,None,4,2,4,Eco-Saver,0,3,3,No,1,"Targeted discounts,Carbon-offset badges,Streak cashback","Courier empathy rating,Color-blind palette","Confusing UI,Sustainability concerns,Limited healthy options",2
+35,Delhi,25-50k,4,1-2/wk,169,Health meals,Vegetarian,None,2,3,5,Express Fresh,36,1,2,Yes,3,"Targeted discounts,Carbon-offset badges",None,Late deliveries,1
+36,Delhi,<25k,1,1-2/wk,117,Convenience,High-protein,None,3,4,5,Eco-Saver,0,3,3,Yes,4,"Surprise free items,Carbon-offset badges",Voice-first ordering,"Confusing UI,Sustainability concerns",3
+33,Mumbai,75-100k,2,>5/wk,257,Other,Calorie-controlled,Gluten,2,3,3,Depends,0,3,3,Yes,4,Carbon-offset badges,"Voice-first ordering,Larger text/UI","Limited healthy options,Sustainability concerns,Late deliveries",2
+20,Delhi,25-50k,7,1-2/wk,157,Time constraints,Calorie-controlled,"Shellfish,Dairy",2,4,3,Eco-Saver,0,1,3,No,3,"Streak cashback,Surprise free items,Carbon-offset badges",None,"Cold food,Sustainability concerns,High fees",4
+18,Kolkata,25-50k,3,<1/mo,177,Time constraints,None,None,3,4,3,Express Fresh,83,3,3,Yes,3,"Surprise free items,Streak cashback,Carbon-offset badges",Larger text/UI,"Late deliveries,Cold food,Limited healthy options",4
+23,Kolkata,25-50k,3,1-2/wk,126,Other,Vegan,None,3,2,5,Eco-Saver,0,4,3,No,3,Surprise free items,"Courier empathy rating,Larger text/UI","Limited healthy options,Late deliveries",1
+38,Ahmedabad,<25k,2,<1/mo,83,Other,None,Gluten,4,3,2,Express Fresh,52,1,3,Yes,3,"Surprise free items,Targeted discounts,Streak cashback",Larger text/UI,"Limited healthy options,Late deliveries,Cold food",2
+31,Hyderabad,25-50k,5,<1/mo,205,Variety,Calorie-controlled,Gluten,3,5,4,Eco-Saver,0,2,3,Yes,3,Targeted discounts,"Courier empathy rating,Larger text/UI",Confusing UI,4
+35,Bengaluru,75-100k,8,3-5/wk,92,Time constraints,Vegan,None,3,3,4,Express Fresh,133,3,4,Yes,2,Carbon-offset badges,"Color-blind palette,Larger text/UI","High fees,Limited healthy options",4
+37,Mumbai,25-50k,5,3-5/wk,134,Time constraints,Calorie-controlled,None,3,4,4,Eco-Saver,0,4,3,Yes,2,"Streak cashback,Carbon-offset badges,Surprise free items",Larger text/UI,"Limited healthy options,High fees,Cold food",4
+18,Pune,25-50k,3,1-2/wk,188,Variety,Vegan,Soy,3,2,4,Eco-Saver,0,4,5,Yes,3,Surprise free items,"Color-blind palette,Courier empathy rating","Sustainability concerns,Limited healthy options",2
+39,Lucknow,<25k,2,3-5/wk,93,Variety,Vegetarian,None,2,5,3,Depends,0,3,3,No,3,"Streak cashback,Carbon-offset badges,Surprise free items",None,High fees,4
+43,Ahmedabad,>100k,1,1-3/mo,118,Convenience,None,"Soy,Gluten",4,2,4,Express Fresh,66,3,4,No,4,Targeted discounts,Larger text/UI,"Confusing UI,Sustainability concerns",5
+23,Kolkata,>100k,4,<1/mo,152,Convenience,Vegetarian,None,3,4,4,Depends,0,4,4,Yes,2,"Streak cashback,Surprise free items,Targeted discounts","Courier empathy rating,Color-blind palette",Cold food,3
+23,Delhi,25-50k,2,3-5/wk,202,Other,None,"Soy,Gluten",2,4,1,Eco-Saver,0,5,3,Yes,2,Targeted discounts,Courier empathy rating,"Sustainability concerns,Limited healthy options",3
+18,Hyderabad,50-75k,2,1-3/mo,316,Variety,High-protein,Dairy,1,4,4,Eco-Saver,0,2,4,Yes,4,"Surprise free items,Targeted discounts","Color-blind palette,Courier empathy rating","Cold food,Limited healthy options",3
+41,Kolkata,<25k,1,1-3/mo,129,Other,Vegetarian,None,5,4,4,Eco-Saver,0,3,4,Yes,3,"Carbon-offset badges,Targeted discounts","Courier empathy rating,Color-blind palette",Limited healthy options,4
+21,Pune,>100k,1,3-5/wk,336,Convenience,Calorie-controlled,Shellfish,4,4,3,Express Fresh,161,3,3,Yes,5,"Carbon-offset badges,Surprise free items,Streak cashback","Voice-first ordering,Larger text/UI","Sustainability concerns,Confusing UI,Late deliveries",5
+26,Delhi,<25k,1,1-3/mo,71,Health meals,Vegetarian,Peanuts,2,4,4,Express Fresh,16,3,4,Yes,3,"Streak cashback,Surprise free items,Carbon-offset badges","Larger text/UI,Color-blind palette","Confusing UI,Late deliveries",4
+27,Chennai,50-75k,2,1-2/wk,135,Health meals,Calorie-controlled,None,3,2,4,Eco-Saver,0,3,3,Yes,4,"Carbon-offset badges,Streak cashback",None,Limited healthy options,2
+31,Chennai,<25k,4,3-5/wk,108,Other,High-protein,None,3,5,4,Express Fresh,70,2,5,Yes,3,"Targeted discounts,Carbon-offset badges","Voice-first ordering,Larger text/UI","Cold food,Confusing UI,Sustainability concerns",3
+37,Chennai,50-75k,8,1-2/wk,139,Health meals,Gluten-free,None,5,4,4,Express Fresh,43,3,2,Yes,3,Carbon-offset badges,Color-blind palette,"Limited healthy options,Sustainability concerns",3
+18,Chennai,25-50k,5,1-3/mo,164,Convenience,None,"Shellfish,Dairy",5,3,3,Express Fresh,76,3,4,Yes,2,Surprise free items,"Voice-first ordering,Larger text/UI",Late deliveries,5
+29,Lucknow,<25k,3,1-2/wk,444,Time constraints,Vegetarian,None,5,5,3,Depends,0,2,5,No,3,"Surprise free items,Streak cashback,Targeted discounts",Voice-first ordering,"Sustainability concerns,Cold food",5
+42,Jaipur,>100k,2,3-5/wk,189,Convenience,Calorie-controlled,None,4,2,5,Depends,0,2,2,No,5,"Surprise free items,Streak cashback,Carbon-offset badges","Courier empathy rating,Voice-first ordering","Confusing UI,Limited healthy options",4
+21,Lucknow,50-75k,1,<1/mo,139,Variety,Gluten-free,"Gluten,Soy",3,1,5,Express Fresh,53,5,1,Yes,4,Targeted discounts,Courier empathy rating,Sustainability concerns,3
+32,Pune,25-50k,4,>5/wk,84,Convenience,Vegetarian,None,3,1,4,Express Fresh,34,2,2,Yes,3,Carbon-offset badges,Color-blind palette,"Late deliveries,High fees,Sustainability concerns",1
+19,Pune,<25k,2,1-2/wk,202,Time constraints,Other,None,5,4,5,Express Fresh,52,3,2,Yes,2,"Targeted discounts,Carbon-offset badges,Streak cashback",None,"Sustainability concerns,Late deliveries,Cold food",5
+44,Delhi,50-75k,2,1-2/wk,214,Convenience,None,None,4,5,5,Eco-Saver,0,4,5,No,3,Streak cashback,None,Confusing UI,5
+36,Bengaluru,75-100k,4,3-5/wk,248,Convenience,None,None,2,2,4,Express Fresh,118,3,4,Yes,3,"Streak cashback,Surprise free items,Targeted discounts",None,"High fees,Confusing UI",2
+38,Ahmedabad,<25k,3,1-2/wk,205,Health meals,None,None,2,3,4,Express Fresh,34,3,3,Yes,2,"Carbon-offset badges,Streak cashback","Larger text/UI,Courier empathy rating","Sustainability concerns,Cold food,Confusing UI",2
+27,Chennai,50-75k,2,3-5/wk,96,Variety,None,Soy,2,5,3,Eco-Saver,0,4,4,Yes,3,"Carbon-offset badges,Targeted discounts",None,Sustainability concerns,4
+29,Jaipur,<25k,2,1-3/mo,131,Convenience,Calorie-controlled,Shellfish,4,4,5,Depends,0,5,4,No,2,"Streak cashback,Carbon-offset badges","Courier empathy rating,Larger text/UI","Late deliveries,Cold food,Confusing UI",4
+31,Lucknow,25-50k,1,<1/mo,120,Health meals,None,Gluten,2,3,5,Eco-Saver,0,2,5,Yes,4,"Targeted discounts,Surprise free items,Carbon-offset badges",Larger text/UI,None,5
+18,Hyderabad,25-50k,5,1-3/mo,130,Convenience,None,None,3,3,1,Eco-Saver,0,4,3,Yes,3,"Surprise free items,Streak cashback,Targeted discounts","Courier empathy rating,Voice-first ordering",None,2
+26,Mumbai,<25k,3,1-2/wk,70,Other,High-protein,None,5,2,5,Depends,0,4,4,Yes,3,"Surprise free items,Carbon-offset badges,Streak cashback",None,"Confusing UI,High fees,Limited healthy options",3
+19,Lucknow,75-100k,5,1-3/mo,200,Convenience,Gluten-free,"Shellfish,Soy",2,4,5,Depends,0,3,3,Yes,5,"Targeted discounts,Streak cashback,Surprise free items",None,Limited healthy options,2
+25,Ahmedabad,50-75k,1,1-3/mo,124,Time constraints,Vegan,None,3,4,5,Express Fresh,62,3,4,Yes,4,"Streak cashback,Surprise free items",None,None,5
+23,Lucknow,50-75k,8,1-2/wk,195,Health meals,Calorie-controlled,None,4,4,3,Express Fresh,123,4,4,No,3,Surprise free items,Voice-first ordering,"Sustainability concerns,Cold food",5
+21,Hyderabad,25-50k,3,1-3/mo,330,Convenience,Vegetarian,None,5,4,3,Express Fresh,41,4,4,Yes,3,Surprise free items,None,"Late deliveries,Cold food",4
+31,Ahmedabad,<25k,1,1-2/wk,192,Variety,Calorie-controlled,Gluten,4,2,3,Depends,0,4,4,Yes,4,Targeted discounts,"Larger text/UI,Courier empathy rating","Sustainability concerns,Cold food,Limited healthy options",4
+27,Pune,25-50k,5,1-3/mo,124,Health meals,Calorie-controlled,None,3,3,3,Depends,0,3,5,Yes,2,None of these,Courier empathy rating,"Confusing UI,Cold food,Limited healthy options",2
+46,Hyderabad,25-50k,4,1-2/wk,137,Other,None,Soy,3,4,4,Eco-Saver,0,2,4,Yes,5,"Streak cashback,Carbon-offset badges,Targeted discounts",None,None,4
+43,Lucknow,>100k,3,3-5/wk,321,Convenience,None,None,4,2,5,Express Fresh,163,2,3,Yes,4,"Streak cashback,Carbon-offset badges",Color-blind palette,None,4
+32,Chennai,50-75k,4,1-3/mo,178,Convenience,None,"Dairy,Shellfish",4,4,2,Depends,0,2,4,Yes,4,"Surprise free items,Streak cashback,Targeted discounts","Color-blind palette,Voice-first ordering","Limited healthy options,Cold food,Confusing UI",4
+33,Kolkata,<25k,1,1-2/wk,90,Health meals,Calorie-controlled,"Soy,Shellfish",5,4,4,Eco-Saver,0,3,3,Yes,1,None of these,"Courier empathy rating,Color-blind palette",Limited healthy options,5
+33,Bengaluru,75-100k,4,1-3/mo,436,Other,None,None,2,4,4,Express Fresh,63,3,3,No,4,"Carbon-offset badges,Surprise free items,Streak cashback",None,Limited healthy options,3
+28,Delhi,25-50k,2,>5/wk,181,Health meals,Gluten-free,"Dairy,Peanuts",2,3,3,Express Fresh,88,2,5,Yes,3,Targeted discounts,None,Cold food,2
+32,Hyderabad,25-50k,2,1-2/wk,160,Other,Vegetarian,None,4,4,3,Express Fresh,100,2,2,Yes,3,"Surprise free items,Targeted discounts,Streak cashback",None,"Cold food,Confusing UI,High fees",3
+38,Jaipur,25-50k,1,1-3/mo,78,Other,Keto,None,5,1,3,Depends,0,2,3,Yes,3,Streak cashback,Courier empathy rating,Confusing UI,2
+39,Kolkata,50-75k,1,1-3/mo,230,Health meals,High-protein,None,3,5,3,Express Fresh,60,4,3,Yes,5,None of these,Courier empathy rating,"Confusing UI,Sustainability concerns",3
+19,Kolkata,25-50k,3,1-3/mo,77,Other,Calorie-controlled,"Peanuts,Shellfish",5,5,3,Express Fresh,76,2,4,Yes,5,"Surprise free items,Carbon-offset badges",Color-blind palette,"Confusing UI,Late deliveries,Limited healthy options",4
+30,Mumbai,>100k,1,1-2/wk,259,Variety,Vegetarian,"Shellfish,Dairy",3,3,3,Eco-Saver,0,3,3,Yes,3,Carbon-offset badges,Voice-first ordering,Sustainability concerns,1
+26,Hyderabad,75-100k,1,1-2/wk,201,Convenience,Vegan,Dairy,2,4,3,Express Fresh,121,3,5,Yes,1,"Surprise free items,Targeted discounts",Courier empathy rating,None,4
+37,Kolkata,75-100k,3,1-2/wk,254,Convenience,Keto,Gluten,4,5,3,Express Fresh,139,1,4,Yes,3,"Surprise free items,Targeted discounts,Streak cashback",None,"Late deliveries,Cold food",5
+25,Pune,<25k,2,1-3/mo,93,Other,Other,Dairy,3,2,4,Depends,0,5,4,Yes,3,"Surprise free items,Carbon-offset badges,Streak cashback",Larger text/UI,"Confusing UI,Cold food",4
+26,Pune,25-50k,1,3-5/wk,152,Health meals,None,None,2,3,3,Express Fresh,77,4,3,Yes,2,Streak cashback,Larger text/UI,"Late deliveries,Confusing UI,High fees",2
+18,Hyderabad,>100k,2,1-2/wk,431,Convenience,None,None,2,4,4,Depends,0,2,3,Yes,2,Surprise free items,None,Confusing UI,3
+42,Pune,<25k,1,1-3/mo,134,Time constraints,Keto,None,5,2,2,Depends,0,4,3,Yes,3,Streak cashback,None,"High fees,Sustainability concerns",4
+31,Lucknow,75-100k,2,1-2/wk,219,Other,None,Gluten,4,3,5,Express Fresh,111,3,4,Yes,5,"Surprise free items,Carbon-offset badges,Targeted discounts",Larger text/UI,"Limited healthy options,Late deliveries",3
+18,Delhi,<25k,3,3-5/wk,154,Time constraints,None,None,3,2,4,Eco-Saver,0,3,2,Yes,3,"Surprise free items,Carbon-offset badges",None,"Cold food,Sustainability concerns,Confusing UI",2
+30,Ahmedabad,25-50k,2,1-2/wk,169,Time constraints,Calorie-controlled,"Dairy,Gluten",4,4,4,Express Fresh,68,3,4,Yes,2,"Streak cashback,Surprise free items",None,Limited healthy options,4
+18,Kolkata,25-50k,5,1-3/mo,208,Variety,Vegan,None,1,5,3,Depends,0,4,4,Yes,3,Carbon-offset badges,Larger text/UI,Confusing UI,5
+18,Pune,50-75k,5,3-5/wk,230,Time constraints,None,None,4,4,3,Eco-Saver,0,2,5,Yes,2,"Surprise free items,Carbon-offset badges,Streak cashback",None,None,5
+19,Mumbai,25-50k,6,<1/mo,130,Time constraints,Vegetarian,"Soy,Shellfish",3,5,3,Express Fresh,75,4,4,Yes,3,"Targeted discounts,Surprise free items",Voice-first ordering,"Limited healthy options,Confusing UI",5
+18,Bengaluru,25-50k,4,1-3/mo,266,Convenience,Vegetarian,None,3,4,2,Depends,0,4,2,No,2,"Surprise free items,Carbon-offset badges",Color-blind palette,"Limited healthy options,Sustainability concerns",3
+31,Hyderabad,75-100k,2,1-3/mo,156,Convenience,Vegetarian,"Gluten,Peanuts",4,5,5,Express Fresh,96,3,3,Yes,4,Targeted discounts,None,"Sustainability concerns,Limited healthy options",3
+18,Chennai,25-50k,2,1-3/mo,189,Variety,None,None,3,4,4,Express Fresh,97,4,4,Yes,5,"Surprise free items,Targeted discounts,Streak cashback","Larger text/UI,Courier empathy rating","Cold food,Limited healthy options,High fees",5
+18,Ahmedabad,<25k,2,1-2/wk,120,Convenience,High-protein,None,4,4,3,Eco-Saver,0,2,5,Yes,4,"Surprise free items,Streak cashback,Carbon-offset badges",None,Confusing UI,4
+18,Bengaluru,25-50k,5,3-5/wk,136,Time constraints,Vegetarian,None,3,4,3,Eco-Saver,0,4,2,Yes,3,"Streak cashback,Surprise free items,Carbon-offset badges","Color-blind palette,Courier empathy rating","Late deliveries,Sustainability concerns",3
+22,Hyderabad,25-50k,2,1-3/mo,77,Health meals,Calorie-controlled,"Peanuts,Soy",4,4,3,Express Fresh,36,3,3,Yes,3,"Targeted discounts,Carbon-offset badges","Larger text/UI,Courier empathy rating","Limited healthy options,Late deliveries",3
+80,Lucknow,25-50k,2,<1/mo,137,Health meals,Calorie-controlled,None,4,2,4,Eco-Saver,0,3,2,Yes,3,"Carbon-offset badges,Targeted discounts,Surprise free items","Color-blind palette,Voice-first ordering","High fees,Late deliveries",4
+28,Bengaluru,75-100k,2,1-3/mo,294,Health meals,Keto,"Gluten,Shellfish",5,2,3,Express Fresh,124,3,1,Yes,3,"Targeted discounts,Streak cashback,Carbon-offset badges",None,Late deliveries,4
+28,Mumbai,<25k,3,<1/mo,94,Convenience,Vegetarian,None,2,2,3,Depends,0,3,4,Yes,4,"Carbon-offset badges,Surprise free items",Color-blind palette,"Sustainability concerns,Cold food",2
+29,Hyderabad,25-50k,8,>5/wk,105,Other,Keto,Soy,3,2,4,Express Fresh,33,3,2,No,1,"Targeted discounts,Surprise free items,Carbon-offset badges","Voice-first ordering,Courier empathy rating",Limited healthy options,2
+21,Jaipur,25-50k,2,1-3/mo,100,Convenience,Vegetarian,None,4,2,3,Express Fresh,99,3,4,No,3,"Targeted discounts,Carbon-offset badges,Surprise free items",None,Confusing UI,3
+26,Delhi,<25k,5,1-2/wk,142,Health meals,Vegan,None,3,4,4,Eco-Saver,0,4,4,Yes,5,"Carbon-offset badges,Targeted discounts","Voice-first ordering,Color-blind palette","High fees,Late deliveries,Limited healthy options",3
+18,Chennai,50-75k,1,1-3/mo,329,Convenience,High-protein,Dairy,3,4,3,Eco-Saver,0,2,3,Yes,5,"Carbon-offset badges,Targeted discounts",None,"Cold food,Limited healthy options,Late deliveries",3
+28,Pune,50-75k,2,<1/mo,341,Other,None,None,2,5,4,Express Fresh,146,4,4,Yes,4,"Targeted discounts,Carbon-offset badges","Color-blind palette,Larger text/UI","High fees,Cold food",4
+28,Delhi,50-75k,3,<1/mo,180,Time constraints,Vegan,Soy,5,4,4,Depends,0,5,4,No,4,"Streak cashback,Surprise free items,Targeted discounts",None,None,5
+55,Delhi,75-100k,2,3-5/wk,126,Health meals,Calorie-controlled,None,4,4,3,Eco-Saver,0,4,5,Yes,4,Targeted discounts,None,"Confusing UI,Sustainability concerns",5
+23,Pune,<25k,4,<1/mo,143,Convenience,Calorie-controlled,None,3,3,3,Eco-Saver,0,1,5,Yes,3,"Targeted discounts,Surprise free items",None,"Sustainability concerns,Cold food,Limited healthy options",3
+30,Delhi,<25k,3,1-2/wk,355,Time constraints,Calorie-controlled,Gluten,2,4,4,Eco-Saver,0,4,4,Yes,2,"Streak cashback,Surprise free items,Targeted discounts","Courier empathy rating,Color-blind palette",None,5
+45,Mumbai,25-50k,1,<1/mo,152,Time constraints,Vegetarian,"Soy,Dairy",2,3,4,Eco-Saver,0,3,4,No,4,"Targeted discounts,Carbon-offset badges,Surprise free items","Voice-first ordering,Color-blind palette","Sustainability concerns,Limited healthy options",2
+36,Delhi,75-100k,1,1-2/wk,196,Convenience,None,Gluten,3,3,2,Express Fresh,82,2,5,No,2,"Carbon-offset badges,Streak cashback,Targeted discounts",Larger text/UI,"High fees,Late deliveries,Cold food",4
+50,Ahmedabad,<25k,2,1-2/wk,139,Variety,Vegetarian,None,1,5,4,Express Fresh,60,4,2,Yes,4,None of these,"Color-blind palette,Courier empathy rating",Late deliveries,2
+41,Chennai,50-75k,3,3-5/wk,144,Variety,None,None,3,4,4,Express Fresh,111,4,3,No,4,"Surprise free items,Targeted discounts,Carbon-offset badges",Courier empathy rating,None,5
+18,Mumbai,<25k,1,1-3/mo,171,Time constraints,Calorie-controlled,None,5,3,4,Express Fresh,47,4,5,No,4,"Surprise free items,Carbon-offset badges",None,"Late deliveries,Cold food,Limited healthy options",5
+30,Lucknow,75-100k,2,1-2/wk,249,Variety,Vegan,"Soy,Peanuts",5,2,4,Eco-Saver,0,4,4,Yes,3,"Streak cashback,Carbon-offset badges,Targeted discounts",Voice-first ordering,"High fees,Sustainability concerns,Cold food",5
+21,Delhi,<25k,1,1-2/wk,396,Other,Vegetarian,Soy,4,4,5,Depends,0,2,3,Yes,5,"Carbon-offset badges,Streak cashback,Targeted discounts","Courier empathy rating,Voice-first ordering","Late deliveries,Confusing UI",3
+38,Chennai,>100k,4,1-3/mo,240,Time constraints,Calorie-controlled,Peanuts,3,3,4,Eco-Saver,0,4,3,No,2,"Targeted discounts,Streak cashback",Larger text/UI,Late deliveries,2
+40,Ahmedabad,<25k,3,1-2/wk,155,Time constraints,Vegan,None,2,3,3,Express Fresh,24,4,4,Yes,4,Targeted discounts,Courier empathy rating,"Confusing UI,High fees,Limited healthy options",3
+18,Mumbai,<25k,1,1-2/wk,246,Convenience,Gluten-free,"Soy,Shellfish",4,4,5,Eco-Saver,0,3,3,Yes,1,"Targeted discounts,Surprise free items","Larger text/UI,Courier empathy rating",Late deliveries,4
+35,Lucknow,<25k,6,1-3/mo,123,Health meals,None,None,3,3,4,Eco-Saver,0,2,3,Yes,2,"Surprise free items,Targeted discounts",Larger text/UI,Cold food,2
+18,Chennai,<25k,3,1-2/wk,136,Time constraints,None,None,4,4,3,Express Fresh,46,3,4,Yes,4,"Surprise free items,Streak cashback,Targeted discounts",Color-blind palette,None,5
+29,Delhi,>100k,3,1-3/mo,196,Time constraints,Vegan,None,3,5,4,Eco-Saver,0,3,4,No,3,Carbon-offset badges,Larger text/UI,Late deliveries,3
+36,Bengaluru,25-50k,6,1-3/mo,125,Health meals,None,None,2,4,3,Express Fresh,35,3,3,Yes,3,None of these,"Larger text/UI,Voice-first ordering","Limited healthy options,Late deliveries",2
+28,Mumbai,50-75k,2,1-3/mo,199,Convenience,Keto,None,2,5,2,Express Fresh,110,4,4,Yes,4,Carbon-offset badges,"Voice-first ordering,Larger text/UI","Sustainability concerns,Cold food,Late deliveries",3
+32,Delhi,75-100k,3,>5/wk,199,Convenience,None,None,2,3,4,Eco-Saver,0,4,3,Yes,2,"Targeted discounts,Surprise free items",Larger text/UI,Sustainability concerns,2
+29,Ahmedabad,25-50k,6,1-3/mo,217,Convenience,Calorie-controlled,None,4,4,1,Eco-Saver,0,3,3,Yes,2,"Targeted discounts,Carbon-offset badges","Courier empathy rating,Larger text/UI","Confusing UI,Sustainability concerns,High fees",5
+18,Chennai,>100k,2,1-2/wk,240,Other,Vegetarian,Dairy,2,3,3,Eco-Saver,0,5,3,Yes,3,"Surprise free items,Targeted discounts",None,Sustainability concerns,3
+29,Kolkata,75-100k,6,1-3/mo,194,Convenience,None,"Gluten,Peanuts",3,2,4,Express Fresh,72,4,4,Yes,2,Targeted discounts,None,"High fees,Limited healthy options,Sustainability concerns",3
+36,Lucknow,50-75k,3,1-2/wk,118,Time constraints,High-protein,None,1,1,4,Eco-Saver,0,3,3,Yes,5,"Targeted discounts,Streak cashback,Carbon-offset badges","Courier empathy rating,Larger text/UI","Confusing UI,High fees",1
+23,Chennai,75-100k,3,<1/mo,121,Other,Gluten-free,None,4,4,4,Express Fresh,56,4,5,Yes,2,"Targeted discounts,Streak cashback",None,"Confusing UI,Cold food,High fees",4
+36,Ahmedabad,<25k,1,1-3/mo,136,Health meals,None,"Dairy,Gluten",3,3,4,Express Fresh,44,4,4,Yes,5,"Targeted discounts,Surprise free items,Carbon-offset badges",None,Cold food,4
+49,Pune,>100k,3,<1/mo,270,Health meals,None,"Shellfish,Peanuts",4,5,4,Depends,0,3,4,Yes,2,"Targeted discounts,Carbon-offset badges,Surprise free items","Voice-first ordering,Larger text/UI","High fees,Limited healthy options",4
+26,Jaipur,<25k,4,1-2/wk,111,Health meals,None,None,3,4,3,Express Fresh,34,4,2,Yes,5,"Streak cashback,Targeted discounts","Voice-first ordering,Color-blind palette",Sustainability concerns,3
+23,Jaipur,<25k,2,1-3/mo,153,Time constraints,High-protein,None,5,5,3,Express Fresh,31,3,4,Yes,4,Carbon-offset badges,None,"Cold food,High fees",5
+67,Mumbai,25-50k,3,1-3/mo,203,Other,High-protein,"Dairy,Soy",2,1,5,Express Fresh,44,4,2,Yes,4,"Surprise free items,Streak cashback,Targeted discounts","Color-blind palette,Voice-first ordering",Confusing UI,1
+79,Bengaluru,50-75k,4,1-3/mo,120,Variety,None,None,4,3,4,Express Fresh,50,2,4,Yes,5,Targeted discounts,None,"Cold food,Sustainability concerns",4
+46,Jaipur,75-100k,4,3-5/wk,848,Convenience,Vegetarian,"Shellfish,Peanuts",3,3,3,Eco-Saver,0,3,4,Yes,4,Carbon-offset badges,Voice-first ordering,"Limited healthy options,High fees,Confusing UI",4
+18,Jaipur,75-100k,1,3-5/wk,259,Time constraints,None,None,4,4,3,Eco-Saver,0,3,4,Yes,3,Surprise free items,"Voice-first ordering,Color-blind palette","Limited healthy options,Late deliveries,High fees",5
+41,Lucknow,25-50k,5,<1/mo,114,Health meals,Gluten-free,"Dairy,Gluten",1,2,4,Eco-Saver,0,5,4,Yes,4,Surprise free items,"Larger text/UI,Courier empathy rating","High fees,Confusing UI",3
+41,Jaipur,25-50k,2,>5/wk,143,Time constraints,None,Soy,2,3,5,Express Fresh,71,3,4,No,1,Streak cashback,None,Sustainability concerns,2
+25,Chennai,<25k,6,1-2/wk,108,Variety,None,None,4,4,5,Express Fresh,60,3,4,Yes,3,"Streak cashback,Targeted discounts",None,None,5
+31,Jaipur,<25k,4,1-3/mo,97,Other,Calorie-controlled,"Peanuts,Soy",5,5,3,Depends,0,3,4,Yes,3,"Targeted discounts,Carbon-offset badges,Streak cashback",Voice-first ordering,"High fees,Late deliveries",5
+27,Chennai,<25k,4,1-3/mo,198,Other,High-protein,None,5,3,5,Eco-Saver,0,3,2,Yes,2,None of these,"Courier empathy rating,Color-blind palette",None,3
+27,Hyderabad,50-75k,3,1-3/mo,123,Convenience,Calorie-controlled,None,4,4,4,Eco-Saver,0,4,4,Yes,3,Surprise free items,Voice-first ordering,"Cold food,Confusing UI",5
+41,Delhi,<25k,2,1-3/mo,92,Time constraints,None,None,2,3,4,Express Fresh,73,4,4,Yes,5,"Streak cashback,Carbon-offset badges","Courier empathy rating,Voice-first ordering","Cold food,High fees,Late deliveries",3
+20,Ahmedabad,>100k,3,1-3/mo,210,Other,None,None,3,5,3,Depends,0,3,2,Yes,1,"Targeted discounts,Carbon-offset badges,Streak cashback",None,"Sustainability concerns,High fees",2
+33,Jaipur,50-75k,1,3-5/wk,105,Convenience,Calorie-controlled,Soy,3,1,5,Eco-Saver,0,5,5,No,2,"Targeted discounts,Surprise free items,Carbon-offset badges","Larger text/UI,Color-blind palette","Limited healthy options,Late deliveries",3
+35,Lucknow,25-50k,3,1-3/mo,134,Variety,Calorie-controlled,Shellfish,3,4,3,Eco-Saver,0,2,3,Yes,1,"Targeted discounts,Streak cashback,Carbon-offset badges","Larger text/UI,Courier empathy rating","High fees,Sustainability concerns",4
+24,Chennai,25-50k,2,1-2/wk,151,Other,Vegetarian,None,4,3,3,Express Fresh,84,3,2,Yes,1,Carbon-offset badges,Color-blind palette,"High fees,Limited healthy options,Sustainability concerns",2
+38,Bengaluru,25-50k,3,3-5/wk,99,Convenience,Vegan,None,3,4,3,Depends,0,3,4,Yes,5,"Streak cashback,Targeted discounts,Surprise free items",Larger text/UI,"Confusing UI,Late deliveries",3
+18,Hyderabad,50-75k,3,1-2/wk,283,Variety,None,Dairy,3,4,4,Eco-Saver,0,3,4,Yes,3,Targeted discounts,None,Cold food,3
+22,Mumbai,25-50k,2,<1/mo,142,Convenience,Vegetarian,None,3,2,3,Eco-Saver,0,2,2,Yes,3,"Carbon-offset badges,Streak cashback,Surprise free items",None,"Limited healthy options,Late deliveries,High fees",1
+45,Ahmedabad,50-75k,6,1-2/wk,191,Convenience,None,None,3,4,4,Depends,0,2,4,Yes,4,"Streak cashback,Carbon-offset badges","Color-blind palette,Larger text/UI",High fees,5
+38,Hyderabad,>100k,7,1-2/wk,154,Convenience,High-protein,None,4,3,5,Express Fresh,99,3,5,No,3,"Targeted discounts,Carbon-offset badges",Larger text/UI,"Sustainability concerns,High fees,Late deliveries",5
+24,Kolkata,50-75k,4,3-5/wk,288,Other,Vegan,None,4,4,5,Express Fresh,83,3,3,Yes,1,"Streak cashback,Carbon-offset badges,Targeted discounts",Voice-first ordering,"Sustainability concerns,Cold food,High fees",3
+20,Delhi,25-50k,2,>5/wk,156,Convenience,None,None,4,3,5,Depends,0,3,4,Yes,1,Carbon-offset badges,Voice-first ordering,"Sustainability concerns,High fees",4
+42,Chennai,25-50k,3,1-2/wk,137,Time constraints,Keto,None,4,3,4,Eco-Saver,0,3,1,Yes,3,Surprise free items,None,None,4
+27,Hyderabad,<25k,5,<1/mo,95,Other,Vegetarian,None,4,4,5,Eco-Saver,0,3,4,Yes,3,Streak cashback,"Voice-first ordering,Larger text/UI",Limited healthy options,4
+35,Bengaluru,25-50k,3,3-5/wk,273,Time constraints,None,None,3,3,3,Depends,0,4,5,Yes,2,"Streak cashback,Targeted discounts,Carbon-offset badges",Voice-first ordering,"Cold food,Late deliveries,Confusing UI",3
+48,Pune,25-50k,3,1-3/mo,121,Time constraints,None,None,3,3,2,Eco-Saver,0,4,3,Yes,5,Targeted discounts,Larger text/UI,"Cold food,Sustainability concerns",1
+26,Pune,<25k,2,1-2/wk,87,Variety,Vegan,None,3,3,4,Express Fresh,8,4,2,Yes,2,Carbon-offset badges,Color-blind palette,"Sustainability concerns,Late deliveries,High fees",2
+31,Delhi,50-75k,6,1-3/mo,97,Time constraints,Gluten-free,"Peanuts,Shellfish",3,3,2,Eco-Saver,0,4,5,Yes,3,None of these,"Voice-first ordering,Courier empathy rating","Sustainability concerns,Limited healthy options",2
+21,Lucknow,75-100k,1,>5/wk,183,Convenience,High-protein,None,3,4,1,Depends,0,3,3,Yes,4,"Streak cashback,Targeted discounts,Carbon-offset badges","Voice-first ordering,Courier empathy rating",Limited healthy options,3
+48,Mumbai,75-100k,4,<1/mo,324,Convenience,None,"Peanuts,Dairy",3,5,3,Express Fresh,74,2,4,No,2,"Carbon-offset badges,Surprise free items",None,Limited healthy options,5
+24,Hyderabad,>100k,3,3-5/wk,371,Convenience,Vegetarian,None,4,4,3,Depends,0,2,4,Yes,3,"Carbon-offset badges,Targeted discounts",Courier empathy rating,None,5
+31,Kolkata,<25k,3,<1/mo,159,Convenience,Vegan,None,5,4,3,Express Fresh,54,3,4,Yes,3,None of these,Courier empathy rating,Cold food,4
+44,Kolkata,<25k,2,1-3/mo,175,Time constraints,High-protein,"Gluten,Dairy",3,4,5,Eco-Saver,0,2,2,Yes,3,None of these,"Larger text/UI,Courier empathy rating",High fees,2
+39,Delhi,75-100k,3,1-2/wk,134,Variety,High-protein,None,4,3,3,Depends,0,4,4,Yes,4,"Carbon-offset badges,Targeted discounts,Surprise free items",None,Confusing UI,4
+18,Jaipur,<25k,2,1-3/mo,112,Time constraints,High-protein,"Shellfish,Dairy",2,3,4,Express Fresh,39,5,2,No,3,"Surprise free items,Streak cashback,Carbon-offset badges",Courier empathy rating,Late deliveries,1
+33,Chennai,>100k,3,>5/wk,180,Variety,None,None,1,5,4,Eco-Saver,0,5,3,Yes,2,Targeted discounts,"Color-blind palette,Larger text/UI","Cold food,Limited healthy options,Sustainability concerns",3
+23,Hyderabad,25-50k,4,1-2/wk,148,Time constraints,Keto,Shellfish,2,4,5,Eco-Saver,0,3,3,No,4,Streak cashback,Voice-first ordering,"Limited healthy options,High fees",4
+33,Pune,50-75k,2,<1/mo,195,Health meals,None,None,5,3,2,Depends,0,3,5,Yes,2,"Carbon-offset badges,Surprise free items",Courier empathy rating,High fees,3
+26,Chennai,<25k,1,1-2/wk,127,Variety,Vegetarian,None,4,3,5,Eco-Saver,0,4,5,No,3,Surprise free items,Courier empathy rating,High fees,4
+30,Hyderabad,50-75k,5,<1/mo,90,Variety,None,Dairy,3,3,4,Express Fresh,79,4,5,Yes,3,Targeted discounts,None,"High fees,Confusing UI",3
+29,Jaipur,25-50k,2,1-3/mo,249,Variety,None,None,5,5,3,Eco-Saver,0,4,3,Yes,4,"Streak cashback,Targeted discounts",Color-blind palette,"Late deliveries,Limited healthy options,High fees",3
+18,Chennai,75-100k,2,3-5/wk,155,Health meals,None,"Shellfish,Dairy",1,5,4,Depends,0,4,4,Yes,4,Streak cashback,"Voice-first ordering,Courier empathy rating",Sustainability concerns,5
+26,Pune,50-75k,3,<1/mo,460,Variety,Gluten-free,None,3,2,4,Eco-Saver,0,4,3,Yes,4,"Streak cashback,Carbon-offset badges,Targeted discounts",Larger text/UI,"Confusing UI,Limited healthy options,High fees",3
+30,Chennai,<25k,1,1-2/wk,117,Variety,Vegan,Dairy,2,4,4,Express Fresh,69,2,5,No,3,"Streak cashback,Targeted discounts,Carbon-offset badges",Color-blind palette,Confusing UI,3
+28,Delhi,>100k,2,1-3/mo,182,Other,Gluten-free,"Peanuts,Gluten",4,4,5,Express Fresh,117,4,3,Yes,2,"Streak cashback,Surprise free items","Larger text/UI,Courier empathy rating",Confusing UI,3
+48,Jaipur,25-50k,3,3-5/wk,174,Time constraints,High-protein,None,3,4,3,Express Fresh,46,2,5,Yes,4,Surprise free items,Larger text/UI,Limited healthy options,3
+24,Jaipur,75-100k,4,1-2/wk,133,Other,Vegetarian,Peanuts,3,3,5,Eco-Saver,0,3,3,Yes,3,Targeted discounts,"Voice-first ordering,Courier empathy rating",None,3
+22,Hyderabad,50-75k,1,1-3/mo,122,Health meals,Keto,"Shellfish,Dairy",4,4,3,Eco-Saver,0,3,3,Yes,3,"Targeted discounts,Surprise free items",None,Limited healthy options,5
+39,Pune,50-75k,7,3-5/wk,291,Convenience,Vegetarian,None,3,3,3,Express Fresh,51,4,5,No,4,Targeted discounts,"Color-blind palette,Courier empathy rating","Cold food,Sustainability concerns,High fees",3
+40,Kolkata,25-50k,2,<1/mo,112,Time constraints,Vegetarian,None,4,3,4,Express Fresh,51,3,3,Yes,3,"Streak cashback,Carbon-offset badges",Voice-first ordering,"Late deliveries,Cold food",3
+30,Chennai,<25k,3,1-3/mo,123,Time constraints,Vegan,None,4,4,3,Eco-Saver,0,5,2,Yes,3,"Streak cashback,Targeted discounts,Carbon-offset badges","Voice-first ordering,Larger text/UI","Sustainability concerns,Limited healthy options,Late deliveries",4
+34,Chennai,50-75k,2,1-3/mo,132,Variety,None,Gluten,3,4,3,Eco-Saver,0,2,3,Yes,3,Surprise free items,"Color-blind palette,Voice-first ordering",Cold food,4
+35,Kolkata,>100k,2,<1/mo,256,Time constraints,Gluten-free,None,5,5,3,Eco-Saver,0,3,4,Yes,2,Carbon-offset badges,"Courier empathy rating,Color-blind palette",None,5
+21,Delhi,50-75k,2,<1/mo,193,Variety,Vegetarian,None,4,3,3,Express Fresh,59,3,4,Yes,3,"Surprise free items,Targeted discounts","Color-blind palette,Voice-first ordering",Sustainability concerns,3
+18,Kolkata,>100k,2,<1/mo,286,Time constraints,Keto,"Shellfish,Dairy",4,2,3,Express Fresh,112,3,5,Yes,3,"Carbon-offset badges,Streak cashback,Surprise free items","Larger text/UI,Voice-first ordering","Sustainability concerns,Late deliveries,Limited healthy options",4
+25,Kolkata,<25k,3,1-3/mo,283,Time constraints,None,None,2,4,4,Eco-Saver,0,3,4,Yes,4,None of these,Voice-first ordering,Cold food,4
+33,Mumbai,>100k,3,1-2/wk,324,Other,Other,"Shellfish,Gluten",3,3,3,Express Fresh,131,3,5,Yes,3,"Streak cashback,Surprise free items",Voice-first ordering,"Limited healthy options,Cold food",4
+31,Hyderabad,25-50k,5,>5/wk,64,Other,Keto,None,2,4,4,Eco-Saver,0,3,3,Yes,4,"Surprise free items,Carbon-offset badges,Targeted discounts","Larger text/UI,Courier empathy rating","High fees,Cold food",2
+18,Pune,25-50k,2,>5/wk,146,Other,Calorie-controlled,Peanuts,5,3,1,Express Fresh,70,2,3,Yes,3,Surprise free items,Courier empathy rating,Late deliveries,3
+36,Delhi,25-50k,3,<1/mo,92,Convenience,Calorie-controlled,None,3,4,4,Depends,0,4,5,Yes,4,"Surprise free items,Targeted discounts",None,"Cold food,Late deliveries,High fees",4
+25,Mumbai,50-75k,2,1-3/mo,182,Time constraints,Calorie-controlled,None,4,4,3,Eco-Saver,0,4,3,Yes,2,None of these,"Color-blind palette,Voice-first ordering","Sustainability concerns,Late deliveries,Confusing UI",4
+32,Ahmedabad,<25k,5,>5/wk,191,Variety,None,None,4,3,4,Eco-Saver,0,3,4,Yes,3,Carbon-offset badges,"Courier empathy rating,Color-blind palette",Limited healthy options,3
+41,Pune,<25k,4,1-3/mo,72,Variety,None,"Dairy,Soy",3,5,3,Eco-Saver,0,2,3,Yes,5,"Carbon-offset badges,Streak cashback","Color-blind palette,Courier empathy rating","Limited healthy options,Late deliveries",3
+31,Pune,50-75k,3,<1/mo,356,Other,None,None,3,3,5,Eco-Saver,0,4,3,Yes,2,Carbon-offset badges,"Larger text/UI,Voice-first ordering","Limited healthy options,Late deliveries,Confusing UI",2
+32,Kolkata,25-50k,6,1-3/mo,93,Variety,Gluten-free,None,5,3,5,Eco-Saver,0,3,4,Yes,2,"Surprise free items,Targeted discounts",Color-blind palette,High fees,4
+33,Mumbai,<25k,2,3-5/wk,198,Health meals,None,None,4,3,4,Express Fresh,39,2,3,Yes,4,Targeted discounts,Voice-first ordering,"High fees,Cold food",2
+37,Pune,50-75k,1,1-3/mo,204,Other,Vegan,None,3,5,4,Depends,0,3,3,No,4,"Carbon-offset badges,Targeted discounts",None,None,5
+36,Jaipur,50-75k,4,3-5/wk,164,Time constraints,None,None,3,4,2,Express Fresh,96,2,4,Yes,3,"Targeted discounts,Surprise free items",Voice-first ordering,None,5
+20,Hyderabad,25-50k,6,<1/mo,219,Convenience,Calorie-controlled,None,3,5,5,Eco-Saver,0,4,3,Yes,3,"Surprise free items,Carbon-offset badges",None,"Confusing UI,Limited healthy options",4
+18,Ahmedabad,>100k,5,1-2/wk,177,Health meals,Vegetarian,Peanuts,5,2,3,Eco-Saver,0,1,3,Yes,5,Carbon-offset badges,"Larger text/UI,Color-blind palette","Limited healthy options,Cold food",3
+19,Mumbai,<25k,6,1-3/mo,104,Time constraints,High-protein,Peanuts,3,3,5,Eco-Saver,0,3,5,Yes,3,Targeted discounts,None,High fees,4
+18,Bengaluru,<25k,1,1-3/mo,81,Variety,None,None,3,3,4,Express Fresh,21,4,4,Yes,4,"Streak cashback,Targeted discounts",None,"Limited healthy options,Confusing UI",3
+31,Hyderabad,>100k,5,1-3/mo,153,Health meals,High-protein,None,4,5,5,Depends,0,4,4,Yes,1,Surprise free items,Color-blind palette,"High fees,Cold food,Late deliveries",5
+19,Bengaluru,25-50k,1,1-2/wk,259,Variety,Calorie-controlled,None,3,5,2,Express Fresh,57,2,3,Yes,2,"Targeted discounts,Streak cashback,Surprise free items",Larger text/UI,"Late deliveries,High fees",2
+28,Kolkata,50-75k,4,1-2/wk,205,Health meals,Gluten-free,"Peanuts,Soy",5,3,4,Express Fresh,46,2,3,Yes,5,"Targeted discounts,Streak cashback,Surprise free items",Larger text/UI,"Late deliveries,Sustainability concerns",4
+29,Chennai,75-100k,1,<1/mo,175,Convenience,Calorie-controlled,"Dairy,Shellfish",1,5,3,Depends,0,3,5,Yes,2,"Surprise free items,Targeted discounts,Streak cashback",None,None,5
+29,Ahmedabad,50-75k,2,3-5/wk,211,Variety,High-protein,None,4,2,3,Depends,0,5,4,Yes,3,Targeted discounts,Color-blind palette,"Limited healthy options,Sustainability concerns",3
+30,Chennai,25-50k,1,3-5/wk,213,Variety,None,"Soy,Gluten",1,5,3,Express Fresh,25,5,3,No,5,Targeted discounts,None,"Sustainability concerns,Confusing UI",2
+20,Jaipur,<25k,5,1-3/mo,118,Health meals,None,"Soy,Dairy",4,3,3,Depends,0,5,3,No,3,Surprise free items,Courier empathy rating,None,3
+42,Bengaluru,25-50k,4,>5/wk,211,Health meals,None,None,4,5,4,Express Fresh,125,3,3,Yes,2,"Surprise free items,Targeted discounts",None,Limited healthy options,4
+18,Kolkata,75-100k,3,1-2/wk,244,Convenience,Calorie-controlled,None,4,3,1,Eco-Saver,0,4,5,Yes,1,Targeted discounts,"Color-blind palette,Larger text/UI","Limited healthy options,High fees,Cold food",4
+18,Pune,75-100k,2,1-3/mo,206,Convenience,Calorie-controlled,None,2,5,4,Express Fresh,87,4,2,Yes,2,Surprise free items,None,"Confusing UI,Late deliveries,Cold food",3
+26,Mumbai,75-100k,5,1-2/wk,220,Variety,High-protein,None,3,3,4,Express Fresh,116,2,5,Yes,4,"Targeted discounts,Carbon-offset badges,Streak cashback",Courier empathy rating,Confusing UI,2
+33,Kolkata,50-75k,3,1-2/wk,103,Other,Vegetarian,None,3,2,4,Eco-Saver,0,3,4,No,1,Streak cashback,"Voice-first ordering,Larger text/UI","Confusing UI,Limited healthy options,Sustainability concerns",3
+29,Mumbai,<25k,6,<1/mo,93,Variety,None,None,2,3,4,Express Fresh,14,5,3,Yes,4,Streak cashback,None,"Limited healthy options,High fees,Late deliveries",2
+37,Bengaluru,50-75k,2,1-3/mo,90,Other,Vegetarian,"Soy,Peanuts",4,1,5,Eco-Saver,0,5,3,Yes,2,"Streak cashback,Targeted discounts","Courier empathy rating,Voice-first ordering","Cold food,Sustainability concerns,Confusing UI",2
+30,Bengaluru,>100k,3,3-5/wk,141,Variety,None,None,3,4,4,Express Fresh,97,4,4,Yes,3,Streak cashback,"Voice-first ordering,Larger text/UI","Late deliveries,Limited healthy options,Cold food",3
+28,Mumbai,<25k,2,1-3/mo,112,Other,None,None,3,2,2,Eco-Saver,0,3,4,Yes,4,"Streak cashback,Surprise free items",None,"High fees,Sustainability concerns",3
+22,Lucknow,<25k,4,1-3/mo,110,Other,None,None,2,5,1,Depends,0,5,5,Yes,3,Targeted discounts,Voice-first ordering,"Limited healthy options,Confusing UI",3
+38,Hyderabad,<25k,4,3-5/wk,177,Variety,Calorie-controlled,"Soy,Gluten",3,3,3,Express Fresh,47,4,3,Yes,4,"Surprise free items,Carbon-offset badges,Streak cashback",Voice-first ordering,Sustainability concerns,1
+33,Pune,<25k,1,1-3/mo,107,Variety,None,None,4,3,3,Eco-Saver,0,2,5,No,3,Carbon-offset badges,None,"Late deliveries,Limited healthy options",5
+35,Chennai,75-100k,2,3-5/wk,157,Other,None,None,4,5,3,Express Fresh,86,3,3,Yes,3,"Streak cashback,Targeted discounts,Surprise free items","Voice-first ordering,Color-blind palette","Late deliveries,High fees,Confusing UI",4
+24,Mumbai,<25k,3,<1/mo,104,Convenience,High-protein,Soy,4,4,4,Depends,0,4,5,No,2,"Surprise free items,Streak cashback","Courier empathy rating,Color-blind palette",Confusing UI,4
+35,Bengaluru,<25k,3,1-3/mo,97,Other,Calorie-controlled,Soy,3,3,2,Express Fresh,74,1,4,Yes,2,"Targeted discounts,Carbon-offset badges",Color-blind palette,"Limited healthy options,Cold food",3
+29,Bengaluru,50-75k,7,1-2/wk,377,Time constraints,High-protein,None,2,3,5,Depends,0,2,4,Yes,4,Carbon-offset badges,Voice-first ordering,Limited healthy options,2
+26,Chennai,<25k,1,3-5/wk,114,Other,Vegetarian,None,5,3,5,Depends,0,5,3,No,2,None of these,None,"High fees,Cold food",4
+18,Lucknow,25-50k,5,1-2/wk,728,Health meals,Calorie-controlled,None,5,4,4,Express Fresh,63,5,5,Yes,3,"Targeted discounts,Surprise free items",Courier empathy rating,High fees,5
+28,Kolkata,25-50k,3,1-2/wk,144,Other,Calorie-controlled,"Gluten,Peanuts",3,3,4,Depends,0,3,4,Yes,3,Surprise free items,Color-blind palette,"High fees,Sustainability concerns,Limited healthy options",4
+36,Ahmedabad,<25k,3,3-5/wk,201,Variety,None,None,3,3,4,Eco-Saver,0,4,3,Yes,2,"Targeted discounts,Carbon-offset badges",Larger text/UI,"High fees,Limited healthy options,Sustainability concerns",2
+24,Pune,75-100k,4,1-2/wk,205,Variety,None,None,2,3,4,Express Fresh,114,4,2,No,4,Surprise free items,"Courier empathy rating,Color-blind palette","Sustainability concerns,Late deliveries",1
+18,Ahmedabad,25-50k,6,1-3/mo,216,Variety,Vegan,None,2,3,5,Eco-Saver,0,3,4,Yes,4,None of these,"Larger text/UI,Courier empathy rating","Cold food,Limited healthy options,Confusing UI",4
+18,Mumbai,50-75k,3,<1/mo,137,Other,Other,"Shellfish,Gluten",5,4,2,Eco-Saver,0,3,3,Yes,4,"Targeted discounts,Surprise free items,Carbon-offset badges","Voice-first ordering,Larger text/UI",Sustainability concerns,5
+30,Pune,25-50k,3,<1/mo,154,Convenience,None,None,4,3,4,Eco-Saver,0,4,3,Yes,4,"Carbon-offset badges,Targeted discounts",Voice-first ordering,None,5
+72,Lucknow,<25k,1,3-5/wk,138,Time constraints,None,None,3,3,2,Express Fresh,90,4,3,Yes,3,"Streak cashback,Targeted discounts","Larger text/UI,Voice-first ordering","Cold food,Late deliveries",1
+32,Lucknow,25-50k,5,1-3/mo,104,Convenience,None,None,2,4,4,Express Fresh,105,4,3,Yes,3,"Carbon-offset badges,Targeted discounts,Streak cashback","Larger text/UI,Courier empathy rating",High fees,2
+24,Ahmedabad,50-75k,1,1-2/wk,209,Convenience,Vegetarian,None,5,4,4,Depends,0,3,3,Yes,4,Carbon-offset badges,None,"Confusing UI,Limited healthy options,Late deliveries",4
+24,Mumbai,<25k,1,3-5/wk,122,Other,Vegan,None,5,2,1,Express Fresh,39,3,5,Yes,4,Targeted discounts,None,"Cold food,High fees,Limited healthy options",4
+23,Delhi,75-100k,5,1-2/wk,134,Convenience,None,None,1,5,4,Express Fresh,135,4,4,Yes,4,"Carbon-offset badges,Targeted discounts,Streak cashback",None,Confusing UI,5
+20,Kolkata,25-50k,1,<1/mo,139,Time constraints,Vegetarian,"Shellfish,Gluten",5,4,4,Express Fresh,77,2,4,Yes,2,"Surprise free items,Targeted discounts","Color-blind palette,Courier empathy rating",Sustainability concerns,5
+29,Mumbai,25-50k,5,1-2/wk,149,Variety,Other,None,4,3,4,Eco-Saver,0,3,4,Yes,3,"Targeted discounts,Streak cashback",None,None,5
+23,Jaipur,25-50k,5,<1/mo,227,Variety,None,"Peanuts,Soy",4,3,5,Eco-Saver,0,2,3,Yes,2,"Targeted discounts,Carbon-offset badges",None,Confusing UI,4
+42,Pune,50-75k,2,1-2/wk,323,Other,Keto,"Dairy,Shellfish",5,2,1,Depends,0,4,3,Yes,5,Streak cashback,Larger text/UI,High fees,4
+30,Jaipur,75-100k,2,1-3/mo,185,Time constraints,Vegetarian,None,1,4,4,Eco-Saver,0,3,3,Yes,2,"Carbon-offset badges,Surprise free items","Voice-first ordering,Color-blind palette",Late deliveries,2
+26,Chennai,25-50k,6,1-3/mo,198,Variety,Vegetarian,None,4,3,3,Eco-Saver,0,3,3,Yes,4,"Carbon-offset badges,Targeted discounts",Larger text/UI,Confusing UI,4
+22,Jaipur,<25k,4,<1/mo,110,Other,Other,None,3,5,4,Express Fresh,62,4,4,Yes,2,None of these,None,Late deliveries,5
+20,Bengaluru,50-75k,5,1-3/mo,411,Convenience,Gluten-free,"Dairy,Gluten",4,4,4,Depends,0,3,3,Yes,3,Surprise free items,"Color-blind palette,Larger text/UI",Limited healthy options,5
+29,Pune,50-75k,3,1-3/mo,143,Variety,Calorie-controlled,"Gluten,Soy",4,2,5,Eco-Saver,0,1,4,Yes,2,"Surprise free items,Targeted discounts,Streak cashback","Color-blind palette,Courier empathy rating","Confusing UI,Sustainability concerns",3
+38,Lucknow,50-75k,4,3-5/wk,242,Other,Vegetarian,None,4,3,2,Eco-Saver,0,3,2,Yes,4,"Carbon-offset badges,Surprise free items,Targeted discounts","Voice-first ordering,Color-blind palette","Sustainability concerns,High fees,Confusing UI",2
+18,Jaipur,<25k,3,<1/mo,181,Other,High-protein,None,3,4,4,Eco-Saver,0,2,4,Yes,3,"Surprise free items,Carbon-offset badges,Targeted discounts",None,Limited healthy options,5
+42,Lucknow,50-75k,2,1-3/mo,118,Other,None,None,1,3,3,Express Fresh,83,4,3,Yes,3,"Targeted discounts,Streak cashback",None,None,3
+26,Jaipur,25-50k,8,1-3/mo,95,Health meals,High-protein,None,2,3,4,Depends,0,3,4,Yes,2,"Surprise free items,Carbon-offset badges,Streak cashback","Color-blind palette,Larger text/UI","Sustainability concerns,High fees,Cold food",4
+22,Lucknow,25-50k,6,1-2/wk,131,Convenience,High-protein,"Dairy,Shellfish",4,3,2,Express Fresh,70,4,2,Yes,2,"Targeted discounts,Surprise free items","Courier empathy rating,Color-blind palette",None,5
+27,Bengaluru,<25k,1,<1/mo,163,Time constraints,Vegetarian,None,4,3,3,Eco-Saver,0,3,3,Yes,3,Surprise free items,Larger text/UI,"Sustainability concerns,Late deliveries,Limited healthy options",4
+29,Kolkata,50-75k,5,1-3/mo,149,Time constraints,None,None,3,1,5,Depends,0,2,4,Yes,4,"Surprise free items,Streak cashback","Courier empathy rating,Larger text/UI","Limited healthy options,Late deliveries,Cold food",4
+30,Lucknow,>100k,4,>5/wk,264,Convenience,Vegetarian,"Gluten,Dairy",4,5,4,Eco-Saver,0,3,3,Yes,3,"Carbon-offset badges,Surprise free items",Color-blind palette,"Confusing UI,High fees",4
+43,Pune,<25k,2,>5/wk,111,Time constraints,None,Dairy,2,3,4,Depends,0,3,5,Yes,4,Streak cashback,"Color-blind palette,Voice-first ordering",None,3
+18,Chennai,50-75k,4,3-5/wk,113,Variety,High-protein,"Soy,Dairy",4,2,3,Eco-Saver,0,4,3,Yes,4,Surprise free items,"Larger text/UI,Color-blind palette",High fees,3
+18,Chennai,75-100k,3,1-2/wk,203,Other,Vegetarian,None,3,2,4,Express Fresh,76,4,5,No,2,"Targeted discounts,Carbon-offset badges,Streak cashback",None,None,3
+42,Kolkata,50-75k,6,1-3/mo,91,Time constraints,None,"Dairy,Gluten",3,2,5,Express Fresh,55,3,3,Yes,3,Carbon-offset badges,Color-blind palette,"High fees,Sustainability concerns,Confusing UI",2
+31,Kolkata,25-50k,2,3-5/wk,181,Other,None,None,4,3,4,Express Fresh,100,3,5,Yes,3,Carbon-offset badges,"Voice-first ordering,Larger text/UI","Late deliveries,Confusing UI",5
+38,Hyderabad,>100k,1,1-2/wk,200,Variety,Keto,None,2,3,5,Express Fresh,65,3,2,Yes,2,"Targeted discounts,Streak cashback,Carbon-offset badges",None,"Confusing UI,Late deliveries,Limited healthy options",2
+40,Mumbai,25-50k,3,<1/mo,142,Variety,High-protein,None,2,5,5,Depends,0,2,5,Yes,4,"Surprise free items,Streak cashback",None,Late deliveries,4
+24,Delhi,50-75k,2,3-5/wk,196,Health meals,Vegetarian,None,3,3,4,Express Fresh,76,3,5,No,4,Streak cashback,None,"Cold food,Sustainability concerns,High fees",4
+39,Jaipur,75-100k,6,<1/mo,154,Variety,None,None,3,4,5,Express Fresh,101,3,3,Yes,4,"Carbon-offset badges,Surprise free items",None,"Limited healthy options,Cold food,High fees",3
+50,Pune,25-50k,2,1-2/wk,89,Convenience,Calorie-controlled,None,4,3,3,Eco-Saver,0,3,4,Yes,4,"Streak cashback,Targeted discounts,Carbon-offset badges",None,"High fees,Cold food",3
+28,Bengaluru,75-100k,3,1-3/mo,329,Time constraints,Vegetarian,None,3,2,3,Express Fresh,89,3,2,No,3,"Surprise free items,Carbon-offset badges",Voice-first ordering,Late deliveries,3
+21,Bengaluru,>100k,3,1-2/wk,208,Other,Vegetarian,None,3,4,3,Express Fresh,126,4,3,No,4,None of these,Courier empathy rating,"High fees,Cold food,Confusing UI",2
+21,Jaipur,25-50k,5,<1/mo,95,Variety,None,"Shellfish,Dairy",4,4,5,Express Fresh,80,4,3,Yes,3,Carbon-offset badges,Voice-first ordering,"Cold food,Confusing UI,Limited healthy options",3
+22,Kolkata,50-75k,3,3-5/wk,171,Other,None,None,3,2,4,Eco-Saver,0,5,5,Yes,4,"Carbon-offset badges,Streak cashback","Courier empathy rating,Larger text/UI","Limited healthy options,Late deliveries",2
+34,Bengaluru,<25k,1,1-2/wk,96,Health meals,High-protein,None,3,2,3,Eco-Saver,0,4,2,Yes,2,"Targeted discounts,Surprise free items,Carbon-offset badges","Color-blind palette,Voice-first ordering",None,3
+39,Ahmedabad,50-75k,4,3-5/wk,177,Other,Vegan,None,2,3,4,Eco-Saver,0,3,3,Yes,3,"Surprise free items,Carbon-offset badges,Targeted discounts",Voice-first ordering,"Sustainability concerns,Late deliveries,Cold food",2
+35,Chennai,<25k,6,1-3/mo,141,Convenience,None,None,2,4,3,Eco-Saver,0,3,2,Yes,4,"Streak cashback,Surprise free items",Color-blind palette,"High fees,Cold food,Late deliveries",2
+24,Mumbai,75-100k,7,1-2/wk,204,Variety,Vegetarian,None,3,3,5,Depends,0,3,4,No,3,"Carbon-offset badges,Surprise free items",Color-blind palette,"Cold food,Late deliveries",3
+21,Ahmedabad,75-100k,1,3-5/wk,247,Time constraints,None,None,2,4,4,Eco-Saver,0,1,4,Yes,2,None of these,Voice-first ordering,"High fees,Sustainability concerns",3
+27,Bengaluru,50-75k,3,>5/wk,231,Variety,Vegetarian,None,4,2,3,Express Fresh,92,4,3,Yes,2,"Carbon-offset badges,Surprise free items","Color-blind palette,Larger text/UI","Sustainability concerns,Cold food,High fees",3
+26,Pune,50-75k,2,<1/mo,115,Other,None,"Soy,Gluten",3,3,3,Eco-Saver,0,3,3,Yes,4,"Streak cashback,Targeted discounts,Carbon-offset badges",Voice-first ordering,"Cold food,Sustainability concerns",1
+31,Delhi,50-75k,6,1-2/wk,172,Convenience,None,None,4,4,4,Express Fresh,74,2,4,Yes,2,None of these,Larger text/UI,"Cold food,Late deliveries,Sustainability concerns",5
+66,Mumbai,<25k,1,>5/wk,97,Other,High-protein,None,5,4,4,Express Fresh,23,3,4,Yes,3,"Targeted discounts,Streak cashback,Carbon-offset badges",Courier empathy rating,None,5
+46,Chennai,25-50k,6,1-3/mo,200,Time constraints,Vegetarian,None,3,4,5,Depends,0,2,3,Yes,4,None of these,None,"Sustainability concerns,High fees,Late deliveries",2
+32,Ahmedabad,50-75k,6,1-2/wk,254,Variety,None,None,3,4,4,Express Fresh,89,2,3,No,3,None of these,"Voice-first ordering,Color-blind palette","Late deliveries,Sustainability concerns",4
+30,Jaipur,<25k,3,1-3/mo,83,Convenience,High-protein,Peanuts,4,4,5,Express Fresh,88,3,4,No,3,Targeted discounts,None,Limited healthy options,5
+30,Jaipur,25-50k,4,>5/wk,162,Time constraints,Calorie-controlled,"Soy,Shellfish",5,3,4,Express Fresh,71,4,3,Yes,4,None of these,Voice-first ordering,"Confusing UI,High fees,Limited healthy options",2
+26,Bengaluru,<25k,5,3-5/wk,106,Variety,Other,None,2,4,4,Eco-Saver,0,4,2,Yes,2,"Streak cashback,Targeted discounts",Voice-first ordering,"High fees,Limited healthy options",3
+18,Kolkata,25-50k,5,1-3/mo,142,Other,Calorie-controlled,"Peanuts,Gluten",3,4,5,Eco-Saver,0,2,4,No,2,Streak cashback,Courier empathy rating,None,4
+42,Kolkata,50-75k,4,1-3/mo,118,Time constraints,High-protein,None,4,3,5,Eco-Saver,0,3,3,No,3,None of these,"Voice-first ordering,Color-blind palette","Sustainability concerns,Confusing UI,Late deliveries",4
+38,Chennai,25-50k,3,<1/mo,108,Health meals,None,None,3,3,4,Eco-Saver,0,2,4,Yes,3,"Surprise free items,Targeted discounts,Carbon-offset badges",None,Limited healthy options,2
+28,Kolkata,25-50k,6,1-2/wk,222,Time constraints,Vegan,Dairy,3,3,5,Eco-Saver,0,3,3,Yes,3,Streak cashback,"Color-blind palette,Courier empathy rating","Cold food,High fees",2
+26,Bengaluru,50-75k,6,1-2/wk,193,Other,Vegetarian,Soy,2,3,4,Eco-Saver,0,3,2,Yes,3,Surprise free items,Larger text/UI,"Late deliveries,Confusing UI,Limited healthy options",1
+36,Pune,<25k,4,3-5/wk,122,Health meals,None,None,5,3,3,Eco-Saver,0,3,4,Yes,1,None of these,"Larger text/UI,Color-blind palette","Limited healthy options,High fees,Cold food",3
+19,Hyderabad,75-100k,1,1-2/wk,184,Variety,Other,None,3,3,3,Depends,0,4,3,Yes,3,Targeted discounts,None,Late deliveries,3
+18,Pune,<25k,2,1-3/mo,116,Convenience,Vegetarian,None,3,5,5,Depends,0,3,3,Yes,4,"Targeted discounts,Carbon-offset badges",Courier empathy rating,Cold food,4
+34,Hyderabad,<25k,1,<1/mo,80,Variety,Gluten-free,None,5,3,2,Eco-Saver,0,2,4,No,3,Targeted discounts,"Voice-first ordering,Color-blind palette","Sustainability concerns,Late deliveries,High fees",5
+36,Mumbai,<25k,3,1-2/wk,167,Health meals,Calorie-controlled,"Dairy,Soy",3,3,4,Eco-Saver,0,3,4,Yes,3,"Surprise free items,Streak cashback,Carbon-offset badges","Voice-first ordering,Courier empathy rating",None,4
+29,Jaipur,>100k,3,3-5/wk,179,Convenience,High-protein,None,3,4,3,Eco-Saver,0,3,5,Yes,4,"Streak cashback,Targeted discounts",Color-blind palette,"High fees,Sustainability concerns",3
+26,Bengaluru,75-100k,4,3-5/wk,145,Time constraints,Vegan,None,2,5,2,Express Fresh,92,4,3,Yes,3,Carbon-offset badges,Voice-first ordering,None,4
+37,Hyderabad,<25k,1,3-5/wk,104,Time constraints,Calorie-controlled,None,4,4,3,Express Fresh,45,3,3,No,3,"Targeted discounts,Carbon-offset badges,Surprise free items",Larger text/UI,"Sustainability concerns,Cold food",5
+18,Jaipur,50-75k,4,3-5/wk,780,Convenience,Vegetarian,"Gluten,Shellfish",3,2,4,Express Fresh,77,4,4,No,3,"Carbon-offset badges,Surprise free items",Color-blind palette,Sustainability concerns,3
+18,Kolkata,75-100k,1,1-3/mo,195,Variety,None,"Peanuts,Gluten",4,2,4,Express Fresh,115,4,3,No,2,"Surprise free items,Targeted discounts",None,Late deliveries,4
+21,Lucknow,25-50k,2,<1/mo,131,Health meals,None,None,3,2,4,Depends,0,3,2,Yes,1,Carbon-offset badges,None,"Limited healthy options,Sustainability concerns",2
+33,Bengaluru,<25k,6,3-5/wk,126,Other,Gluten-free,"Gluten,Soy",3,2,2,Express Fresh,38,2,2,No,1,Carbon-offset badges,"Courier empathy rating,Color-blind palette","Cold food,Late deliveries",1
+35,Kolkata,25-50k,4,1-2/wk,142,Convenience,None,"Dairy,Peanuts",4,5,3,Express Fresh,40,5,3,Yes,3,"Streak cashback,Targeted discounts,Carbon-offset badges",Courier empathy rating,None,5
+37,Lucknow,<25k,6,3-5/wk,169,Other,High-protein,Shellfish,4,2,5,Express Fresh,28,3,3,Yes,3,Carbon-offset badges,Larger text/UI,Confusing UI,4
+24,Jaipur,75-100k,6,3-5/wk,246,Convenience,None,"Soy,Gluten",3,5,4,Eco-Saver,0,3,3,Yes,4,"Targeted discounts,Surprise free items",None,"Sustainability concerns,Cold food",2
+40,Mumbai,25-50k,4,1-3/mo,198,Time constraints,Calorie-controlled,None,3,4,5,Express Fresh,39,4,4,Yes,3,"Carbon-offset badges,Streak cashback,Targeted discounts","Courier empathy rating,Larger text/UI","Late deliveries,Sustainability concerns,High fees",4
+45,Chennai,<25k,1,1-2/wk,91,Health meals,Vegetarian,"Gluten,Peanuts",1,2,2,Eco-Saver,0,3,3,Yes,4,"Streak cashback,Surprise free items,Carbon-offset badges",None,"Confusing UI,Sustainability concerns",3
+18,Ahmedabad,<25k,4,1-2/wk,114,Other,Other,None,3,5,4,Depends,0,4,5,Yes,2,"Targeted discounts,Streak cashback","Larger text/UI,Courier empathy rating",High fees,4
+31,Kolkata,50-75k,3,>5/wk,110,Convenience,Gluten-free,None,3,4,3,Eco-Saver,0,3,2,Yes,3,Carbon-offset badges,Larger text/UI,"Confusing UI,Sustainability concerns,Late deliveries",3
+32,Ahmedabad,50-75k,1,1-2/wk,181,Health meals,Calorie-controlled,Peanuts,4,4,5,Eco-Saver,0,2,4,Yes,3,"Streak cashback,Surprise free items","Courier empathy rating,Larger text/UI","Cold food,Late deliveries",4
+25,Bengaluru,50-75k,3,1-2/wk,229,Convenience,Vegetarian,"Soy,Gluten",5,2,4,Eco-Saver,0,4,3,Yes,2,"Streak cashback,Carbon-offset badges,Surprise free items",Voice-first ordering,Confusing UI,4
+69,Chennai,25-50k,1,3-5/wk,141,Other,None,"Dairy,Soy",4,5,4,Express Fresh,55,2,3,Yes,4,"Carbon-offset badges,Targeted discounts","Voice-first ordering,Larger text/UI",Limited healthy options,4
+35,Lucknow,75-100k,4,1-2/wk,178,Variety,Gluten-free,None,2,3,4,Express Fresh,86,5,5,Yes,3,"Carbon-offset badges,Targeted discounts",Courier empathy rating,"Limited healthy options,High fees,Late deliveries",3
+21,Pune,75-100k,3,1-3/mo,325,Convenience,None,None,3,5,5,Depends,0,4,1,No,5,"Carbon-offset badges,Surprise free items,Targeted discounts",Voice-first ordering,"Limited healthy options,Sustainability concerns",4
+39,Hyderabad,>100k,3,3-5/wk,154,Health meals,Vegetarian,None,3,4,4,Express Fresh,85,5,5,Yes,3,"Targeted discounts,Surprise free items,Carbon-offset badges",None,Late deliveries,4
+18,Delhi,75-100k,4,3-5/wk,260,Other,Vegan,None,5,4,3,Eco-Saver,0,3,5,Yes,4,"Surprise free items,Carbon-offset badges",None,"Confusing UI,Cold food,Limited healthy options",5
+27,Ahmedabad,75-100k,3,1-3/mo,124,Health meals,Other,None,4,5,4,Eco-Saver,0,2,2,No,3,"Surprise free items,Streak cashback,Targeted discounts","Larger text/UI,Courier empathy rating",High fees,3
+31,Bengaluru,<25k,2,1-3/mo,97,Convenience,Calorie-controlled,Shellfish,5,3,3,Express Fresh,30,5,2,Yes,4,"Carbon-offset badges,Surprise free items","Color-blind palette,Courier empathy rating","Limited healthy options,Late deliveries,Confusing UI",4
+19,Ahmedabad,<25k,1,1-2/wk,121,Time constraints,None,None,4,4,4,Express Fresh,52,3,3,Yes,5,"Streak cashback,Targeted discounts,Carbon-offset badges",Color-blind palette,Sustainability concerns,3
+37,Pune,75-100k,5,>5/wk,166,Variety,Vegetarian,"Gluten,Shellfish",5,3,3,Express Fresh,81,3,3,Yes,4,"Targeted discounts,Carbon-offset badges",Larger text/UI,Limited healthy options,3
+18,Ahmedabad,50-75k,1,3-5/wk,174,Other,High-protein,None,2,5,3,Depends,0,3,3,Yes,3,"Streak cashback,Surprise free items,Carbon-offset badges","Voice-first ordering,Larger text/UI","Confusing UI,Cold food",2
+19,Delhi,<25k,1,3-5/wk,95,Health meals,Calorie-controlled,None,4,3,3,Express Fresh,61,3,4,Yes,2,"Streak cashback,Targeted discounts,Carbon-offset badges",None,"Cold food,Limited healthy options,Sustainability concerns",5
+45,Mumbai,50-75k,5,<1/mo,132,Variety,Calorie-controlled,"Gluten,Peanuts",4,2,4,Express Fresh,98,3,4,Yes,2,"Carbon-offset badges,Targeted discounts",Voice-first ordering,"Limited healthy options,Sustainability concerns",3
+18,Lucknow,25-50k,4,3-5/wk,149,Other,High-protein,None,5,3,4,Express Fresh,56,3,4,No,4,Streak cashback,None,"Limited healthy options,Late deliveries,Confusing UI",4
+37,Chennai,50-75k,4,1-2/wk,304,Time constraints,Keto,None,2,3,3,Eco-Saver,0,3,3,No,3,"Carbon-offset badges,Surprise free items,Streak cashback","Larger text/UI,Color-blind palette",None,4
+23,Lucknow,<25k,2,<1/mo,109,Other,None,None,2,5,3,Express Fresh,26,3,3,Yes,4,Streak cashback,"Larger text/UI,Voice-first ordering","Limited healthy options,Confusing UI,High fees",3
+32,Hyderabad,<25k,10,1-2/wk,170,Health meals,None,Shellfish,4,3,4,Eco-Saver,0,2,4,Yes,4,"Carbon-offset badges,Streak cashback,Targeted discounts","Color-blind palette,Larger text/UI",High fees,4
+24,Delhi,50-75k,3,1-3/mo,187,Other,Vegetarian,None,2,2,2,Express Fresh,79,2,3,Yes,5,None of these,Color-blind palette,"Limited healthy options,Cold food,Confusing UI",3
+27,Bengaluru,25-50k,3,1-3/mo,157,Convenience,None,"Soy,Gluten",4,3,4,Eco-Saver,0,1,2,Yes,2,Surprise free items,None,None,3
+30,Bengaluru,75-100k,1,<1/mo,230,Other,Keto,None,4,1,5,Depends,0,4,3,Yes,4,"Streak cashback,Targeted discounts","Larger text/UI,Color-blind palette","Sustainability concerns,High fees",4
+24,Jaipur,<25k,2,1-2/wk,159,Other,Vegetarian,"Gluten,Dairy",4,4,4,Express Fresh,9,3,2,Yes,3,"Streak cashback,Surprise free items",Color-blind palette,"Sustainability concerns,Late deliveries",5
+24,Pune,50-75k,5,<1/mo,196,Variety,Calorie-controlled,None,2,4,3,Depends,0,4,5,Yes,4,None of these,Color-blind palette,Confusing UI,5
+37,Jaipur,75-100k,1,1-3/mo,141,Time constraints,None,None,4,1,4,Depends,0,2,4,Yes,2,"Carbon-offset badges,Surprise free items,Streak cashback","Color-blind palette,Larger text/UI","Late deliveries,Confusing UI",5
+33,Jaipur,25-50k,1,<1/mo,113,Variety,None,"Peanuts,Shellfish",3,4,4,Eco-Saver,0,3,2,Yes,4,"Carbon-offset badges,Targeted discounts","Voice-first ordering,Color-blind palette",None,4
+18,Chennai,50-75k,1,3-5/wk,131,Variety,Calorie-controlled,Peanuts,2,2,3,Depends,0,3,5,Yes,5,"Streak cashback,Carbon-offset badges",Larger text/UI,High fees,2
+27,Lucknow,25-50k,3,<1/mo,128,Variety,None,None,1,4,4,Depends,0,3,3,Yes,3,Surprise free items,Larger text/UI,"Late deliveries,High fees",4
+83,Lucknow,<25k,2,1-2/wk,116,Other,None,None,3,5,3,Express Fresh,60,3,4,Yes,3,Streak cashback,Voice-first ordering,"High fees,Limited healthy options,Late deliveries",5
+31,Jaipur,<25k,2,1-3/mo,139,Variety,Gluten-free,None,3,5,4,Express Fresh,0,3,4,No,3,"Streak cashback,Surprise free items",Courier empathy rating,"Cold food,Confusing UI",3
+48,Hyderabad,25-50k,3,<1/mo,128,Variety,None,None,5,5,4,Express Fresh,70,3,3,Yes,3,"Surprise free items,Carbon-offset badges",None,"Sustainability concerns,Late deliveries,Limited healthy options",3
+32,Pune,<25k,3,1-2/wk,76,Convenience,Vegetarian,None,4,5,3,Depends,0,3,4,Yes,3,"Carbon-offset badges,Streak cashback",Color-blind palette,Confusing UI,4
+30,Jaipur,25-50k,3,<1/mo,349,Convenience,None,None,4,3,3,Express Fresh,53,4,4,Yes,3,Targeted discounts,"Voice-first ordering,Color-blind palette",High fees,5
+23,Delhi,50-75k,4,1-3/mo,347,Time constraints,Gluten-free,None,5,3,4,Eco-Saver,0,5,3,Yes,2,None of these,None,"Cold food,Confusing UI,Limited healthy options",4
+21,Mumbai,75-100k,6,1-2/wk,141,Convenience,Vegan,None,3,4,2,Express Fresh,106,2,3,No,3,"Streak cashback,Surprise free items,Carbon-offset badges",None,"Confusing UI,Sustainability concerns",3
+27,Chennai,<25k,3,1-2/wk,198,Time constraints,Vegetarian,Shellfish,3,2,4,Depends,0,2,2,Yes,4,None of these,None,Cold food,3
+33,Chennai,50-75k,4,1-3/mo,122,Variety,None,None,4,3,4,Express Fresh,50,4,5,Yes,3,"Streak cashback,Carbon-offset badges",Courier empathy rating,None,4
+40,Mumbai,>100k,3,1-2/wk,256,Time constraints,Calorie-controlled,None,4,2,4,Eco-Saver,0,5,5,No,2,Streak cashback,Voice-first ordering,"Cold food,Sustainability concerns",3
+30,Ahmedabad,50-75k,1,3-5/wk,263,Convenience,Calorie-controlled,None,2,3,3,Express Fresh,94,4,3,Yes,3,"Targeted discounts,Streak cashback",Voice-first ordering,None,4
+25,Mumbai,50-75k,9,<1/mo,159,Variety,None,"Soy,Gluten",5,2,3,Eco-Saver,0,4,4,No,2,None of these,None,"Confusing UI,High fees,Cold food",3
+28,Pune,25-50k,5,1-2/wk,212,Health meals,High-protein,None,3,4,3,Express Fresh,22,4,5,Yes,3,"Streak cashback,Surprise free items",Color-blind palette,Late deliveries,4
+29,Hyderabad,25-50k,6,<1/mo,179,Variety,High-protein,None,3,4,2,Depends,0,4,3,No,5,"Surprise free items,Streak cashback",Larger text/UI,None,5
+23,Mumbai,<25k,2,1-3/mo,166,Convenience,Gluten-free,None,4,2,5,Eco-Saver,0,3,2,Yes,4,None of these,"Voice-first ordering,Courier empathy rating","High fees,Confusing UI,Late deliveries",2
+30,Ahmedabad,<25k,1,1-3/mo,182,Variety,None,"Shellfish,Gluten",3,3,2,Express Fresh,66,3,3,Yes,1,"Carbon-offset badges,Surprise free items",None,Confusing UI,1
+26,Hyderabad,50-75k,1,3-5/wk,294,Convenience,High-protein,None,2,3,3,Depends,0,2,2,Yes,4,"Surprise free items,Targeted discounts",Color-blind palette,Confusing UI,1
+44,Bengaluru,25-50k,1,1-3/mo,105,Variety,None,None,5,3,3,Express Fresh,50,3,4,No,4,Streak cashback,"Larger text/UI,Color-blind palette","Late deliveries,Confusing UI",3
+29,Ahmedabad,50-75k,2,1-2/wk,161,Variety,Vegetarian,Dairy,4,3,3,Eco-Saver,0,3,3,No,4,"Carbon-offset badges,Surprise free items","Courier empathy rating,Voice-first ordering","High fees,Cold food",4
+36,Hyderabad,>100k,2,3-5/wk,398,Time constraints,Vegetarian,None,2,4,4,Express Fresh,130,3,3,No,4,"Streak cashback,Surprise free items","Color-blind palette,Larger text/UI","High fees,Sustainability concerns",2
+18,Jaipur,<25k,1,1-2/wk,170,Other,Calorie-controlled,"Dairy,Soy",4,2,5,Eco-Saver,0,3,3,No,3,"Targeted discounts,Carbon-offset badges",None,Sustainability concerns,2
+18,Delhi,<25k,7,1-3/mo,104,Other,High-protein,None,2,2,3,Express Fresh,25,3,5,Yes,1,Surprise free items,"Courier empathy rating,Voice-first ordering","Sustainability concerns,Confusing UI",4
+37,Ahmedabad,25-50k,5,>5/wk,154,Variety,None,Shellfish,4,3,4,Express Fresh,45,2,4,Yes,4,"Streak cashback,Targeted discounts",None,"Sustainability concerns,High fees",3
+43,Hyderabad,<25k,4,1-3/mo,82,Health meals,Vegetarian,Soy,2,3,2,Express Fresh,53,5,3,Yes,3,"Targeted discounts,Streak cashback","Color-blind palette,Courier empathy rating",Sustainability concerns,2
+38,Lucknow,25-50k,3,1-3/mo,165,Health meals,None,None,1,4,4,Express Fresh,50,5,3,Yes,3,"Surprise free items,Targeted discounts","Color-blind palette,Courier empathy rating","Confusing UI,Limited healthy options,Sustainability concerns",2
+44,Lucknow,<25k,2,1-3/mo,148,Variety,Vegetarian,None,4,4,2,Express Fresh,23,4,4,Yes,2,"Targeted discounts,Streak cashback",None,Sustainability concerns,5
+32,Kolkata,50-75k,4,1-2/wk,252,Variety,Calorie-controlled,"Dairy,Gluten",4,3,5,Eco-Saver,0,1,4,Yes,4,"Targeted discounts,Carbon-offset badges,Surprise free items",None,None,4
+43,Kolkata,25-50k,2,3-5/wk,279,Health meals,Other,Shellfish,3,5,5,Eco-Saver,0,3,3,Yes,5,"Targeted discounts,Surprise free items",Voice-first ordering,"Cold food,Sustainability concerns",3
+54,Bengaluru,<25k,3,1-2/wk,118,Health meals,Calorie-controlled,"Soy,Peanuts",3,3,3,Depends,0,3,3,Yes,4,"Streak cashback,Surprise free items","Courier empathy rating,Color-blind palette",Late deliveries,3
+18,Delhi,50-75k,4,<1/mo,261,Variety,Calorie-controlled,None,3,1,2,Eco-Saver,0,4,4,Yes,4,"Streak cashback,Targeted discounts",Courier empathy rating,"Sustainability concerns,High fees",2
+29,Bengaluru,25-50k,4,1-3/mo,97,Other,None,None,3,4,5,Express Fresh,32,2,2,Yes,4,Targeted discounts,"Voice-first ordering,Courier empathy rating","Late deliveries,Cold food,High fees",2
+35,Ahmedabad,75-100k,3,>5/wk,253,Other,Other,None,2,5,3,Eco-Saver,0,3,4,Yes,3,Targeted discounts,None,Confusing UI,4
+32,Bengaluru,25-50k,3,>5/wk,202,Other,None,None,3,3,3,Depends,0,3,3,Yes,3,"Streak cashback,Carbon-offset badges","Courier empathy rating,Larger text/UI",Limited healthy options,3
+30,Ahmedabad,<25k,1,1-2/wk,152,Time constraints,High-protein,Soy,4,3,3,Depends,0,2,4,Yes,3,Carbon-offset badges,Color-blind palette,"Late deliveries,Limited healthy options",3
+23,Pune,75-100k,1,1-3/mo,231,Convenience,Vegetarian,None,1,2,4,Eco-Saver,0,4,3,No,2,"Targeted discounts,Surprise free items,Carbon-offset badges",Voice-first ordering,Sustainability concerns,3
+42,Kolkata,75-100k,1,1-2/wk,152,Variety,Vegetarian,None,2,4,3,Depends,0,2,5,Yes,3,None of these,Voice-first ordering,"Sustainability concerns,Late deliveries,High fees",5
+27,Bengaluru,25-50k,3,1-2/wk,143,Time constraints,None,None,3,4,4,Depends,0,4,3,Yes,4,"Targeted discounts,Streak cashback,Surprise free items",None,Confusing UI,2
+22,Ahmedabad,>100k,4,1-2/wk,232,Variety,None,Peanuts,4,5,1,Eco-Saver,0,4,4,Yes,3,"Surprise free items,Streak cashback","Courier empathy rating,Larger text/UI",Sustainability concerns,5
+28,Ahmedabad,>100k,1,1-2/wk,170,Time constraints,Vegetarian,"Peanuts,Soy",3,5,5,Eco-Saver,0,2,3,No,3,"Streak cashback,Surprise free items,Targeted discounts","Larger text/UI,Color-blind palette","Limited healthy options,Confusing UI,High fees",4
+49,Kolkata,75-100k,5,3-5/wk,367,Time constraints,Vegetarian,Dairy,2,2,4,Depends,0,4,2,Yes,2,None of these,None,"High fees,Sustainability concerns",3
+24,Mumbai,>100k,1,1-2/wk,162,Variety,None,Peanuts,5,5,3,Eco-Saver,0,4,4,Yes,3,"Streak cashback,Targeted discounts,Surprise free items",Voice-first ordering,None,5
+18,Mumbai,25-50k,5,1-3/mo,186,Other,None,None,3,4,4,Depends,0,5,3,No,3,"Carbon-offset badges,Surprise free items",Voice-first ordering,None,3
+22,Pune,25-50k,4,1-2/wk,208,Other,Calorie-controlled,Gluten,3,3,3,Express Fresh,68,2,4,No,2,"Streak cashback,Surprise free items",None,"Sustainability concerns,High fees",2
+18,Jaipur,<25k,2,1-3/mo,109,Health meals,None,None,2,3,3,Eco-Saver,0,3,4,Yes,4,"Streak cashback,Carbon-offset badges,Targeted discounts",None,None,5
+43,Delhi,<25k,3,1-2/wk,185,Time constraints,Vegetarian,Dairy,3,3,4,Express Fresh,79,3,3,Yes,3,"Streak cashback,Targeted discounts",Color-blind palette,"Cold food,Late deliveries,Sustainability concerns",3
+34,Delhi,25-50k,10,1-3/mo,126,Other,Calorie-controlled,None,4,3,3,Express Fresh,41,5,4,Yes,4,"Targeted discounts,Surprise free items",Courier empathy rating,"Sustainability concerns,Confusing UI,Late deliveries",5
+41,Chennai,25-50k,7,1-3/mo,162,Variety,None,None,3,5,3,Depends,0,4,4,Yes,3,Surprise free items,None,Sustainability concerns,4
+36,Kolkata,75-100k,1,1-3/mo,234,Convenience,Calorie-controlled,None,4,4,3,Express Fresh,116,5,4,Yes,1,"Targeted discounts,Streak cashback","Voice-first ordering,Courier empathy rating",Sustainability concerns,5
+44,Bengaluru,25-50k,2,<1/mo,127,Variety,High-protein,None,3,5,4,Eco-Saver,0,5,2,Yes,3,None of these,Courier empathy rating,"High fees,Sustainability concerns,Cold food",3
+19,Pune,50-75k,4,3-5/wk,129,Time constraints,Calorie-controlled,"Dairy,Peanuts",3,4,5,Express Fresh,60,3,4,Yes,2,"Surprise free items,Carbon-offset badges",None,"Late deliveries,Cold food,High fees",5
+38,Ahmedabad,25-50k,5,1-3/mo,268,Convenience,None,"Soy,Shellfish",3,4,1,Depends,0,3,4,Yes,2,"Surprise free items,Carbon-offset badges,Streak cashback",None,"Sustainability concerns,Confusing UI",3
+25,Pune,75-100k,5,1-3/mo,185,Variety,Calorie-controlled,None,3,3,4,Depends,0,2,4,Yes,3,"Streak cashback,Surprise free items",Color-blind palette,"High fees,Limited healthy options",4
+33,Lucknow,75-100k,5,<1/mo,160,Convenience,Calorie-controlled,None,3,2,2,Eco-Saver,0,4,4,Yes,3,"Streak cashback,Targeted discounts","Color-blind palette,Voice-first ordering","Cold food,Limited healthy options,High fees",3
+18,Mumbai,25-50k,2,3-5/wk,90,Other,Other,Gluten,3,3,4,Express Fresh,64,1,3,No,2,"Streak cashback,Surprise free items,Carbon-offset badges",Courier empathy rating,"Limited healthy options,Sustainability concerns",2
+25,Mumbai,50-75k,1,1-3/mo,188,Other,Keto,"Gluten,Shellfish",2,3,4,Depends,0,2,4,Yes,3,"Carbon-offset badges,Surprise free items","Voice-first ordering,Courier empathy rating","Sustainability concerns,Confusing UI",4
+29,Pune,>100k,4,>5/wk,335,Convenience,None,None,4,4,3,Eco-Saver,0,4,3,Yes,3,"Targeted discounts,Streak cashback,Carbon-offset badges",Larger text/UI,"High fees,Late deliveries",4
+36,Pune,25-50k,5,1-2/wk,222,Other,None,"Peanuts,Shellfish",5,3,3,Eco-Saver,0,3,3,Yes,1,"Targeted discounts,Surprise free items","Courier empathy rating,Color-blind palette","Cold food,Late deliveries,High fees",4
+24,Hyderabad,25-50k,2,1-2/wk,147,Variety,Other,Shellfish,3,3,3,Depends,0,5,3,Yes,1,"Carbon-offset badges,Surprise free items,Targeted discounts","Color-blind palette,Larger text/UI","Cold food,Confusing UI",3
+28,Mumbai,<25k,2,1-2/wk,109,Other,Calorie-controlled,Gluten,4,3,3,Express Fresh,85,4,5,No,3,Streak cashback,Courier empathy rating,"Confusing UI,Sustainability concerns,Late deliveries",4
+34,Jaipur,<25k,3,1-3/mo,102,Other,Vegetarian,None,3,2,3,Depends,0,4,4,Yes,4,Carbon-offset badges,Color-blind palette,Confusing UI,2
+37,Delhi,50-75k,4,1-3/mo,182,Time constraints,Calorie-controlled,None,3,2,4,Eco-Saver,0,3,2,Yes,3,None of these,Voice-first ordering,"Sustainability concerns,Cold food",2
+32,Delhi,<25k,2,<1/mo,111,Time constraints,Keto,None,2,4,3,Express Fresh,119,4,2,No,2,"Streak cashback,Surprise free items,Targeted discounts","Courier empathy rating,Voice-first ordering",None,3
+44,Ahmedabad,<25k,3,>5/wk,144,Other,High-protein,None,5,4,3,Express Fresh,40,2,3,Yes,4,Streak cashback,"Larger text/UI,Color-blind palette",Sustainability concerns,5
+25,Lucknow,<25k,4,1-3/mo,46,Convenience,Vegetarian,Soy,2,4,3,Express Fresh,64,3,2,Yes,5,Surprise free items,"Voice-first ordering,Courier empathy rating","Limited healthy options,Cold food,Late deliveries",3
+18,Mumbai,25-50k,4,1-3/mo,172,Convenience,Vegetarian,"Gluten,Shellfish",3,4,4,Depends,0,2,4,Yes,3,"Streak cashback,Targeted discounts,Surprise free items",None,Confusing UI,5
+43,Mumbai,>100k,2,1-2/wk,149,Convenience,Gluten-free,None,3,5,3,Express Fresh,106,3,5,Yes,2,None of these,None,High fees,3
+18,Delhi,50-75k,4,3-5/wk,174,Convenience,Vegetarian,None,4,3,3,Eco-Saver,0,3,4,No,4,Carbon-offset badges,"Courier empathy rating,Larger text/UI","Late deliveries,Sustainability concerns",4
+30,Pune,<25k,3,<1/mo,129,Variety,Vegetarian,"Gluten,Peanuts",4,3,5,Eco-Saver,0,3,4,Yes,2,"Surprise free items,Carbon-offset badges,Streak cashback","Larger text/UI,Courier empathy rating","Sustainability concerns,Limited healthy options,High fees",3
+38,Chennai,<25k,6,<1/mo,67,Time constraints,None,Shellfish,2,2,3,Depends,0,3,2,Yes,3,"Targeted discounts,Surprise free items","Color-blind palette,Larger text/UI","Cold food,Confusing UI",3
+23,Bengaluru,75-100k,2,>5/wk,237,Time constraints,None,None,3,2,3,Depends,0,3,3,No,3,None of these,Courier empathy rating,"High fees,Sustainability concerns,Limited healthy options",2
+18,Chennai,25-50k,2,<1/mo,216,Time constraints,Vegan,Soy,4,4,3,Depends,0,1,3,Yes,1,Targeted discounts,Larger text/UI,Limited healthy options,5
+30,Lucknow,>100k,2,1-2/wk,225,Convenience,Keto,None,4,5,3,Eco-Saver,0,3,3,Yes,3,"Streak cashback,Targeted discounts,Surprise free items","Color-blind palette,Voice-first ordering",Cold food,5
+48,Ahmedabad,>100k,4,1-2/wk,265,Convenience,None,None,4,4,4,Eco-Saver,0,3,4,Yes,3,"Streak cashback,Targeted discounts",Color-blind palette,"Confusing UI,Late deliveries,Cold food",5
+28,Delhi,50-75k,5,1-3/mo,126,Time constraints,None,None,5,4,4,Eco-Saver,0,3,2,No,4,None of these,"Courier empathy rating,Larger text/UI",None,5
+44,Chennai,50-75k,5,3-5/wk,192,Other,None,Peanuts,3,5,4,Express Fresh,75,2,4,Yes,4,Carbon-offset badges,"Courier empathy rating,Larger text/UI","Cold food,Confusing UI",3
+28,Kolkata,25-50k,1,1-2/wk,150,Health meals,None,Dairy,3,2,2,Express Fresh,72,3,3,Yes,4,Carbon-offset badges,"Voice-first ordering,Courier empathy rating",Late deliveries,2
+21,Ahmedabad,75-100k,2,3-5/wk,240,Other,None,None,2,4,3,Eco-Saver,0,3,2,Yes,4,Streak cashback,None,"Confusing UI,Sustainability concerns",3
+23,Ahmedabad,50-75k,4,1-2/wk,162,Time constraints,Vegetarian,None,4,4,4,Eco-Saver,0,3,3,Yes,3,None of these,None,"Cold food,Sustainability concerns,Late deliveries",3
+21,Bengaluru,50-75k,1,<1/mo,163,Other,None,None,3,4,4,Depends,0,4,3,Yes,2,Streak cashback,Voice-first ordering,Cold food,4
+37,Chennai,50-75k,1,1-3/mo,218,Other,High-protein,None,4,2,3,Eco-Saver,0,2,4,Yes,1,Surprise free items,Larger text/UI,"Confusing UI,Limited healthy options",4
+26,Chennai,<25k,6,1-2/wk,222,Other,Calorie-controlled,Shellfish,4,2,5,Eco-Saver,0,5,3,No,3,"Targeted discounts,Surprise free items",None,"Sustainability concerns,High fees,Late deliveries",3
+20,Ahmedabad,50-75k,6,1-3/mo,141,Variety,Vegan,None,3,5,3,Express Fresh,47,4,4,Yes,3,"Streak cashback,Carbon-offset badges,Surprise free items","Courier empathy rating,Voice-first ordering","Cold food,Limited healthy options",4
+28,Lucknow,50-75k,1,1-2/wk,144,Other,Vegan,Shellfish,3,3,4,Eco-Saver,0,2,2,Yes,2,Streak cashback,"Larger text/UI,Color-blind palette","Sustainability concerns,Confusing UI,High fees",3
+41,Delhi,25-50k,1,3-5/wk,69,Variety,Vegan,Dairy,3,2,5,Depends,0,3,4,Yes,2,"Surprise free items,Streak cashback,Targeted discounts",Larger text/UI,Limited healthy options,4
+26,Mumbai,<25k,1,<1/mo,161,Time constraints,None,None,4,2,2,Eco-Saver,0,1,3,Yes,1,Carbon-offset badges,None,"Cold food,Late deliveries,Confusing UI",3
+22,Pune,75-100k,1,1-3/mo,162,Convenience,Vegetarian,None,4,2,3,Express Fresh,111,3,4,Yes,3,Streak cashback,None,None,5
+42,Ahmedabad,50-75k,3,1-2/wk,211,Time constraints,High-protein,Shellfish,4,3,3,Eco-Saver,0,2,2,Yes,1,Carbon-offset badges,"Larger text/UI,Color-blind palette","Late deliveries,Cold food,Limited healthy options",3
+28,Kolkata,25-50k,3,1-2/wk,88,Health meals,None,None,4,2,2,Eco-Saver,0,3,2,Yes,4,"Targeted discounts,Surprise free items",Voice-first ordering,"Late deliveries,Limited healthy options",4
+43,Jaipur,50-75k,3,1-2/wk,220,Other,Calorie-controlled,None,4,3,2,Eco-Saver,0,3,4,Yes,4,None of these,None,None,5
+21,Lucknow,50-75k,6,1-2/wk,120,Other,Vegetarian,None,3,3,4,Express Fresh,114,3,3,Yes,3,"Streak cashback,Surprise free items",Voice-first ordering,None,2
+33,Ahmedabad,75-100k,1,<1/mo,196,Other,Vegetarian,None,3,3,5,Express Fresh,45,4,5,No,5,"Carbon-offset badges,Surprise free items","Courier empathy rating,Larger text/UI","Late deliveries,Confusing UI,Limited healthy options",4
+36,Delhi,25-50k,2,>5/wk,107,Convenience,High-protein,None,4,4,4,Express Fresh,53,4,3,Yes,4,"Streak cashback,Carbon-offset badges,Surprise free items",Color-blind palette,Confusing UI,4
+21,Kolkata,25-50k,2,1-3/mo,95,Other,Calorie-controlled,Shellfish,2,5,4,Eco-Saver,0,3,4,Yes,5,"Targeted discounts,Streak cashback,Carbon-offset badges",Color-blind palette,"Limited healthy options,Cold food",5
+24,Kolkata,>100k,2,3-5/wk,423,Time constraints,None,None,2,4,3,Express Fresh,96,3,5,Yes,4,"Targeted discounts,Streak cashback,Surprise free items",None,"High fees,Cold food",3
+18,Chennai,75-100k,1,1-2/wk,142,Variety,None,None,3,3,2,Express Fresh,93,3,4,No,3,"Targeted discounts,Surprise free items",Voice-first ordering,"Confusing UI,Sustainability concerns",2
+27,Kolkata,50-75k,3,1-2/wk,250,Variety,Vegetarian,None,3,5,2,Eco-Saver,0,5,3,Yes,3,"Targeted discounts,Surprise free items,Carbon-offset badges",Courier empathy rating,Sustainability concerns,3
+18,Hyderabad,50-75k,3,1-2/wk,107,Variety,Vegan,None,4,2,4,Depends,0,4,2,No,2,"Streak cashback,Surprise free items,Carbon-offset badges",None,"Limited healthy options,High fees",4
+47,Lucknow,<25k,4,1-3/mo,119,Variety,Vegan,"Peanuts,Dairy",3,2,5,Eco-Saver,0,3,3,No,2,None of these,"Courier empathy rating,Color-blind palette","Confusing UI,High fees",3
+28,Pune,<25k,2,1-3/mo,182,Variety,None,Gluten,4,3,4,Express Fresh,69,3,5,Yes,5,"Carbon-offset badges,Surprise free items","Color-blind palette,Courier empathy rating","High fees,Limited healthy options",5
+43,Pune,50-75k,2,3-5/wk,91,Time constraints,None,"Dairy,Soy",3,3,3,Express Fresh,57,4,4,Yes,4,"Carbon-offset badges,Targeted discounts,Streak cashback","Courier empathy rating,Larger text/UI",High fees,2
+38,Chennai,>100k,3,<1/mo,495,Health meals,None,"Shellfish,Gluten",4,4,3,Express Fresh,77,5,4,Yes,4,"Carbon-offset badges,Surprise free items",Larger text/UI,"Sustainability concerns,Late deliveries,Cold food",4
+18,Hyderabad,50-75k,2,<1/mo,330,Other,None,None,2,2,3,Express Fresh,109,3,4,No,4,"Carbon-offset badges,Surprise free items","Larger text/UI,Voice-first ordering","Cold food,Confusing UI",2
+37,Hyderabad,>100k,2,1-3/mo,227,Other,None,"Soy,Gluten",3,5,2,Depends,0,3,2,No,2,None of these,"Voice-first ordering,Courier empathy rating","Limited healthy options,Late deliveries,Confusing UI",4
+24,Lucknow,25-50k,4,3-5/wk,368,Convenience,Vegetarian,None,3,3,3,Eco-Saver,0,3,2,Yes,4,Streak cashback,Courier empathy rating,"Confusing UI,Limited healthy options,Late deliveries",3
+26,Chennai,25-50k,5,1-2/wk,117,Health meals,Vegetarian,None,3,3,4,Depends,0,2,2,No,4,Targeted discounts,Color-blind palette,Cold food,1
+22,Jaipur,<25k,4,1-2/wk,94,Variety,Vegetarian,Gluten,4,3,3,Eco-Saver,0,3,2,No,2,"Targeted discounts,Surprise free items","Voice-first ordering,Color-blind palette","Limited healthy options,Sustainability concerns",3
+31,Chennai,25-50k,1,>5/wk,219,Convenience,None,None,2,4,5,Express Fresh,41,2,3,Yes,2,"Surprise free items,Carbon-offset badges",Voice-first ordering,"Cold food,Limited healthy options",4
+31,Pune,50-75k,4,3-5/wk,148,Variety,None,None,3,3,3,Eco-Saver,0,4,1,Yes,4,"Carbon-offset badges,Targeted discounts,Surprise free items","Color-blind palette,Voice-first ordering",Late deliveries,3
+34,Bengaluru,50-75k,1,1-3/mo,223,Health meals,Vegetarian,Shellfish,3,3,3,Express Fresh,91,3,2,Yes,3,"Streak cashback,Surprise free items,Targeted discounts","Voice-first ordering,Larger text/UI","Cold food,Late deliveries,Sustainability concerns",3
+42,Lucknow,25-50k,3,1-3/mo,101,Convenience,None,None,3,4,2,Express Fresh,95,3,3,No,4,"Targeted discounts,Streak cashback,Surprise free items",None,High fees,2
+29,Lucknow,25-50k,4,3-5/wk,241,Time constraints,Vegan,None,5,4,4,Express Fresh,85,1,4,Yes,3,"Carbon-offset badges,Streak cashback",None,"Confusing UI,Cold food",5
+38,Delhi,25-50k,3,3-5/wk,189,Variety,None,None,4,5,3,Depends,0,3,3,Yes,3,Targeted discounts,"Voice-first ordering,Courier empathy rating","Confusing UI,High fees,Sustainability concerns",5
+28,Pune,75-100k,1,1-3/mo,140,Convenience,None,None,3,4,5,Express Fresh,119,5,2,Yes,4,Surprise free items,None,"High fees,Cold food",4
+53,Bengaluru,50-75k,3,>5/wk,167,Health meals,None,"Shellfish,Dairy",4,5,3,Eco-Saver,0,4,5,Yes,2,Carbon-offset badges,None,"Limited healthy options,Confusing UI,Late deliveries",4
+25,Pune,75-100k,1,1-3/mo,264,Health meals,None,None,2,3,4,Express Fresh,104,2,3,Yes,5,"Surprise free items,Targeted discounts",Courier empathy rating,"Confusing UI,Late deliveries,Sustainability concerns",1
+39,Hyderabad,<25k,2,1-3/mo,68,Health meals,Calorie-controlled,None,3,3,3,Depends,0,5,5,Yes,3,None of these,Color-blind palette,High fees,4
+44,Jaipur,>100k,1,<1/mo,137,Time constraints,Gluten-free,None,4,4,3,Express Fresh,148,1,5,No,3,"Targeted discounts,Surprise free items",Color-blind palette,"Confusing UI,Sustainability concerns",5
+22,Bengaluru,>100k,1,3-5/wk,109,Time constraints,None,Gluten,4,3,5,Eco-Saver,0,2,4,Yes,5,"Carbon-offset badges,Streak cashback",Courier empathy rating,"Cold food,High fees",4
+31,Chennai,75-100k,5,>5/wk,188,Health meals,Calorie-controlled,None,3,2,3,Express Fresh,75,2,3,Yes,2,Carbon-offset badges,"Courier empathy rating,Color-blind palette","Late deliveries,Limited healthy options,Sustainability concerns",1
+40,Kolkata,25-50k,3,1-3/mo,168,Variety,Calorie-controlled,None,2,4,3,Eco-Saver,0,4,2,Yes,4,"Surprise free items,Targeted discounts",Courier empathy rating,Sustainability concerns,3
+23,Jaipur,25-50k,3,3-5/wk,163,Variety,None,None,2,2,4,Express Fresh,34,2,3,Yes,3,Streak cashback,Larger text/UI,High fees,2
+20,Delhi,>100k,6,1-3/mo,235,Other,Vegetarian,None,5,5,4,Express Fresh,72,3,5,Yes,2,Carbon-offset badges,"Color-blind palette,Courier empathy rating","Confusing UI,Late deliveries,High fees",5
+23,Delhi,<25k,3,<1/mo,103,Convenience,High-protein,Dairy,4,4,2,Express Fresh,24,3,4,Yes,3,Surprise free items,Voice-first ordering,"Limited healthy options,High fees",5
+33,Jaipur,25-50k,4,3-5/wk,127,Convenience,None,None,3,4,4,Eco-Saver,0,3,4,No,3,"Targeted discounts,Surprise free items,Carbon-offset badges","Courier empathy rating,Larger text/UI",High fees,4
+18,Pune,50-75k,1,3-5/wk,130,Time constraints,None,Dairy,4,5,2,Eco-Saver,0,5,3,Yes,4,"Surprise free items,Targeted discounts","Larger text/UI,Courier empathy rating",Sustainability concerns,5
+18,Jaipur,50-75k,1,1-3/mo,66,Variety,Calorie-controlled,None,3,2,3,Eco-Saver,0,4,2,Yes,2,"Streak cashback,Targeted discounts",Larger text/UI,"High fees,Cold food,Confusing UI",2
+29,Lucknow,25-50k,5,1-2/wk,111,Health meals,None,None,2,3,3,Express Fresh,59,4,4,Yes,2,"Streak cashback,Targeted discounts",Color-blind palette,Cold food,3
+27,Chennai,75-100k,5,3-5/wk,161,Variety,None,"Peanuts,Shellfish",4,3,5,Eco-Saver,0,5,3,Yes,1,"Targeted discounts,Surprise free items","Courier empathy rating,Color-blind palette",Late deliveries,3
+18,Jaipur,50-75k,1,1-3/mo,134,Time constraints,Vegan,"Shellfish,Peanuts",3,5,2,Eco-Saver,0,3,4,Yes,2,"Carbon-offset badges,Streak cashback",None,"Confusing UI,High fees",4
+18,Ahmedabad,25-50k,5,1-3/mo,112,Health meals,Calorie-controlled,None,4,4,4,Eco-Saver,0,3,5,Yes,3,"Carbon-offset badges,Surprise free items",None,High fees,5
+33,Kolkata,25-50k,1,1-2/wk,118,Time constraints,None,None,4,5,2,Eco-Saver,0,4,3,No,4,"Carbon-offset badges,Targeted discounts",None,"Confusing UI,High fees",5
+24,Mumbai,50-75k,4,1-3/mo,271,Variety,Gluten-free,None,3,5,4,Express Fresh,65,3,4,No,5,Carbon-offset badges,"Larger text/UI,Color-blind palette","Cold food,Late deliveries",4
+18,Hyderabad,75-100k,1,1-2/wk,119,Time constraints,Calorie-controlled,None,4,4,4,Depends,0,4,3,No,3,None of these,"Courier empathy rating,Larger text/UI","Confusing UI,Late deliveries,High fees",4
+18,Ahmedabad,<25k,1,1-2/wk,115,Health meals,None,None,3,5,2,Eco-Saver,0,2,3,Yes,4,"Carbon-offset badges,Surprise free items,Targeted discounts",Courier empathy rating,"Late deliveries,Confusing UI,Limited healthy options",2
+36,Hyderabad,>100k,1,1-2/wk,171,Health meals,Vegetarian,"Gluten,Peanuts",2,4,5,Express Fresh,139,4,2,Yes,4,"Targeted discounts,Surprise free items,Carbon-offset badges",Courier empathy rating,None,4
+26,Mumbai,<25k,2,1-2/wk,183,Other,Calorie-controlled,None,2,3,3,Depends,0,3,3,Yes,4,Targeted discounts,"Color-blind palette,Larger text/UI","Confusing UI,High fees",2
+39,Kolkata,<25k,5,1-2/wk,115,Health meals,None,Dairy,4,5,4,Eco-Saver,0,5,3,No,3,"Surprise free items,Targeted discounts,Streak cashback",None,"Limited healthy options,Confusing UI,High fees",5
+28,Pune,25-50k,3,1-2/wk,121,Other,Other,None,4,5,4,Express Fresh,44,4,5,Yes,4,"Surprise free items,Targeted discounts,Streak cashback",None,Limited healthy options,5
+38,Jaipur,<25k,4,1-3/mo,124,Time constraints,High-protein,Dairy,4,3,4,Express Fresh,31,4,5,Yes,4,Carbon-offset badges,"Color-blind palette,Larger text/UI","Limited healthy options,High fees,Sustainability concerns",5
+31,Delhi,<25k,2,1-2/wk,104,Time constraints,None,None,3,4,3,Eco-Saver,0,2,4,Yes,3,Streak cashback,"Larger text/UI,Color-blind palette","Sustainability concerns,Cold food,Late deliveries",3
+32,Pune,>100k,2,1-2/wk,251,Time constraints,Keto,Gluten,5,3,3,Express Fresh,78,4,4,Yes,5,Streak cashback,"Courier empathy rating,Larger text/UI",None,5
+20,Lucknow,>100k,6,<1/mo,160,Time constraints,Calorie-controlled,None,2,3,2,Eco-Saver,0,2,1,Yes,4,"Streak cashback,Targeted discounts,Surprise free items","Courier empathy rating,Voice-first ordering","Cold food,Limited healthy options,Confusing UI",2
+18,Pune,50-75k,1,3-5/wk,141,Other,Calorie-controlled,None,4,3,3,Eco-Saver,0,3,2,Yes,4,Streak cashback,"Color-blind palette,Larger text/UI",High fees,4
+23,Mumbai,50-75k,2,1-3/mo,162,Other,None,"Gluten,Peanuts",5,4,4,Eco-Saver,0,5,4,Yes,4,"Carbon-offset badges,Targeted discounts,Surprise free items","Voice-first ordering,Courier empathy rating","High fees,Limited healthy options",5
+30,Lucknow,>100k,3,1-2/wk,228,Variety,Keto,"Peanuts,Soy",3,4,2,Depends,0,2,4,Yes,4,"Surprise free items,Streak cashback","Color-blind palette,Larger text/UI",Confusing UI,3
+18,Pune,25-50k,7,<1/mo,76,Convenience,None,None,5,5,4,Express Fresh,50,4,5,Yes,4,Surprise free items,"Color-blind palette,Voice-first ordering","Limited healthy options,Late deliveries",4
+32,Chennai,50-75k,2,3-5/wk,193,Other,Calorie-controlled,None,2,3,3,Express Fresh,107,3,4,Yes,3,"Surprise free items,Carbon-offset badges,Targeted discounts","Larger text/UI,Courier empathy rating","High fees,Sustainability concerns",4
+31,Lucknow,75-100k,2,1-2/wk,141,Time constraints,Vegetarian,None,3,5,4,Express Fresh,94,3,3,No,4,"Carbon-offset badges,Surprise free items","Courier empathy rating,Voice-first ordering","Limited healthy options,Confusing UI",2
+33,Kolkata,75-100k,5,1-2/wk,153,Time constraints,None,None,2,2,3,Eco-Saver,0,4,3,Yes,2,None of these,"Color-blind palette,Larger text/UI","Sustainability concerns,Cold food",2
+30,Mumbai,25-50k,1,1-2/wk,122,Convenience,None,None,4,4,4,Depends,0,4,2,Yes,5,"Streak cashback,Surprise free items","Color-blind palette,Larger text/UI","Sustainability concerns,Confusing UI,Limited healthy options",4
+30,Delhi,<25k,2,3-5/wk,196,Convenience,None,None,3,2,4,Express Fresh,31,4,3,No,1,"Targeted discounts,Carbon-offset badges","Larger text/UI,Courier empathy rating","Cold food,High fees,Confusing UI",3
+26,Jaipur,75-100k,1,<1/mo,125,Time constraints,None,Gluten,4,3,4,Eco-Saver,0,3,2,No,3,"Surprise free items,Carbon-offset badges",Courier empathy rating,"High fees,Limited healthy options,Sustainability concerns",2
+23,Pune,25-50k,3,3-5/wk,243,Variety,Gluten-free,None,4,3,3,Express Fresh,17,2,3,Yes,4,"Carbon-offset badges,Streak cashback",None,Cold food,2
+36,Hyderabad,50-75k,3,1-3/mo,172,Variety,Vegetarian,Dairy,4,3,5,Eco-Saver,0,3,2,No,3,None of these,Voice-first ordering,Cold food,4
+28,Mumbai,25-50k,1,3-5/wk,165,Other,Vegetarian,Dairy,5,5,4,Depends,0,2,2,Yes,3,"Surprise free items,Carbon-offset badges,Targeted discounts",None,Cold food,5
+18,Lucknow,>100k,2,1-2/wk,248,Health meals,Calorie-controlled,"Dairy,Soy",5,4,3,Eco-Saver,0,3,4,Yes,2,Targeted discounts,None,Late deliveries,5
+35,Bengaluru,>100k,2,1-3/mo,1440,Other,None,None,3,3,4,Express Fresh,136,3,5,Yes,4,"Targeted discounts,Streak cashback","Voice-first ordering,Courier empathy rating",Limited healthy options,4
+26,Chennai,<25k,3,3-5/wk,121,Health meals,Vegan,None,3,4,3,Depends,0,4,2,Yes,5,Targeted discounts,None,"Late deliveries,High fees",2
+41,Pune,<25k,1,3-5/wk,65,Health meals,None,None,2,3,3,Express Fresh,65,3,5,Yes,5,"Streak cashback,Targeted discounts,Carbon-offset badges",Color-blind palette,"Cold food,Sustainability concerns,High fees",2
+33,Lucknow,50-75k,2,1-2/wk,99,Health meals,None,None,5,5,2,Express Fresh,59,4,4,Yes,3,Carbon-offset badges,None,None,5
+34,Kolkata,25-50k,1,1-3/mo,189,Other,Gluten-free,None,1,4,3,Express Fresh,63,3,4,Yes,5,"Streak cashback,Targeted discounts,Surprise free items","Voice-first ordering,Courier empathy rating",Sustainability concerns,4
+23,Hyderabad,>100k,2,1-2/wk,127,Time constraints,Vegetarian,None,4,5,4,Depends,0,1,4,Yes,5,"Surprise free items,Streak cashback,Carbon-offset badges",None,"Limited healthy options,Confusing UI,High fees",4
