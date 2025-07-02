@@ -301,7 +301,7 @@ with tab5:
         pipe.fit(Xr_train, yr_train)
         preds = pipe.predict(Xr_test)
         r2 = r2_score(yr_test, preds)
-        rmse = mean_squared_error(yr_test, preds, squared=False)
+        rmse = math.sqrt(mean_squared_error(yr_test, preds))
         reg_metrics.append([name, f"{r2:.3f}", f"{rmse:.1f}"])
 
     st.markdown("**Performance Summary**")
